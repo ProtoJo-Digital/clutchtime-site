@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["U6NY5CL9BJ.ProtoJoDigital.Clutchtime"],
+        "components": [
+          { "/": "/match.html", "?": { "id": "?*" }, "comment": "Un match partagé : ouvert directement dans l'app" }
+        ]
+      }
+    ]
+  }
+}

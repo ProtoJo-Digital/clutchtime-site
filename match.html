@@ -4,6 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Un match sur Clutchtime</title>
+<meta name="description" content="Un match d'e-sport partagé depuis Clutchtime : le score, le direct et les alertes de tes équipes.">
+<!-- Aperçu du lien dans les messageries et les réseaux sociaux. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Clutchtime">
+<meta property="og:title" content="Un match d'e-sport à suivre sur Clutchtime">
+<meta property="og:description" content="Le score, le direct et les alertes de tes équipes d'e-sport, sans compte.">
+<meta name="twitter:card" content="summary">
 <style>
   :root { color-scheme: light dark; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 560px; margin: 0 auto; padding: 32px 24px; line-height: 1.6; font-size: 18px; color: #0e1424; background: #f6f7fb; text-align: center; }
@@ -17,8 +24,9 @@
 <h1>Clutchtime</h1>
 <p>Quelqu'un t'a partagé un match d'e-sport.</p>
 <a class="button" id="open" href="#">Ouvrir dans Clutchtime</a>
-<p class="muted">Clutchtime arrive bientôt sur l'App Store.</p>
+<p class="muted" id="store">Pas encore l'app ? Elle arrive sur l'App Store pour iPhone et iPad.</p>
 <p class="muted" lang="en">Someone shared an esports match with you. Tap the button to open it in Clutchtime.</p>
+<p class="muted">Données e-sport fournies par <a href="https://pandascore.co">PandaScore</a>.</p>
 <script>
   // Seul un numéro de match est accepté : la page n'ouvre rien d'autre que l'app.
   const id = new URLSearchParams(location.search).get("id");
@@ -30,6 +38,19 @@
   } else {
     button.style.display = "none";
   }
+  // Le lien vers l'App Store vient de version.json, rempli une fois l'app publiée.
+  fetch("version.json", { cache: "no-store" })
+    .then((response) => response.json())
+    .then((info) => {
+      if (!info.storeURL || !/^https:\/\/apps\.apple\.com\//.test(info.storeURL)) return;
+      const store = document.getElementById("store");
+      store.textContent = "Pas encore l'app ? ";
+      const link = document.createElement("a");
+      link.href = info.storeURL;
+      link.textContent = "Télécharger Clutchtime sur l'App Store";
+      store.appendChild(link);
+    })
+    .catch(() => {});
 </script>
 </body>
 </html>
