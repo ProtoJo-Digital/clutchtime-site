@@ -18,7 +18,7 @@
 </head>
 <body>
 <h1>Privacy Policy<br><span class="muted">Clutchtime</span></h1>
-<p class="muted">Last updated: October 5, 2026 · <a href="confidentialite.html" hreflang="fr" lang="fr">Version française</a></p>
+<p class="muted">Last updated: October 7, 2026 · <a href="confidentialite.html" hreflang="fr" lang="fr">Version française</a></p>
 
 <p>Clutchtime is an iPhone and iPad app that lets you follow esports teams and players and get an alert before their matches. This page explains, in plain language, what data the app uses.</p>
 <p><strong>In short:</strong> there is no account, your favorites stay on your device, and we know neither your name nor your email address. If you turn on alerts, our server keeps only what it needs to send them.</p>
@@ -44,17 +44,20 @@
   <tr><td>The app language and your time zone</td><td>Writing the alert in the right language and respecting your quiet hours</td></tr>
   <tr><td>Your alert settings and quiet hours</td><td>Sending only the alerts you want</td></tr>
   <tr><td>The teams and competitions you follow, and matches you muted</td><td>Knowing which matches to alert you about</td></tr>
-  <tr><td>The Lock Screen score token, for the duration of a match</td><td>Updating the score on your Lock Screen</td></tr>
+  <tr><td>The token provided by Apple that lets us start the Lock Screen score, if you turned it on</td><td>Showing the score on your Lock Screen as soon as a match starts</td></tr>
+  <tr><td>The update token of a score shown on your Lock Screen, for the duration of a match</td><td>Updating that score after each game</td></tr>
 </table>
 <p><strong>Legal basis:</strong> performance of the service you request (GDPR Article 6(1)(b)).</p>
-<p><strong>Retention:</strong> everything is deleted as soon as you no longer follow anything or turn off all alerts, when Apple tells us the token is no longer valid (for example after you delete the app), and at the latest after 90 days without hearing from your device. The Lock Screen token is deleted when the match ends.</p>
+<p><strong>Retention:</strong> everything is deleted as soon as you no longer follow anything or turn off all alerts, when Apple tells us the token is no longer valid (for example after you delete the app), and at the latest after 90 days without hearing from your device. The update token of a score is deleted when the match ends; the token that starts the display is kept while alerts are on.</p>
+<p>The server also keeps counters with no personal data (number of registered devices, alerts sent per day) to monitor that the service works properly.</p>
 
 <h2>4. Services the app relies on</h2>
 <ul>
-  <li><strong>Supabase</strong>: hosts our server, in the European Union (Ireland). It keeps technical logs, which may contain your device's IP address, to keep the service secure. We do not use them to identify you.</li>
+  <li><strong>Supabase</strong>: hosts our server, in the European Union (Ireland). It keeps technical logs, which may contain your device's IP address, to keep the service secure. These logs are kept for 7 days at most. We do not use them to identify you.</li>
+  <li><strong>GitHub</strong>: hosts this website and a small file the app reads when it opens, to know whether an update is required. GitHub then sees your device's IP address.</li>
   <li><strong>Apple</strong>: delivers notifications and processes in-app purchases.</li>
   <li><strong>PandaScore</strong>: provides schedules, scores, logos and photos. Logos and photos are downloaded directly from its servers, which therefore see your device's IP address. No information about your favorites is sent to it.</li>
-  <li><strong>Twitch, YouTube and Kick</strong>: when you open a live match, the app may show the video player of the platform streaming it. That platform then receives technical data (IP address, device type) and applies its own privacy policy. On a cellular connection or in Low Data Mode, nothing is loaded until you tap “Play the stream here”.</li>
+  <li><strong>Twitch, YouTube and Kick</strong>: on a live match page, the video player of the platform streaming it is loaded only if you tap “Play the stream here”. That platform then receives technical data (IP address, device type), may set cookies and measure the audience of the video, and may show its own ads in the stream. It applies its own privacy policy. These cookies are kept in memory only and erased when the app is closed. YouTube is loaded in its privacy-enhanced mode (youtube-nocookie.com).</li>
 </ul>
 <p>Some of these providers are based in the United States. When data is transferred there, it is under the safeguards provided by the GDPR (adequacy decision or standard contractual clauses).</p>
 
@@ -76,7 +79,7 @@
 <h2>7. What we do not do</h2>
 <ul>
   <li>No account, no sign-up, no collection of names or email addresses.</li>
-  <li>No analytics or tracking tools in the current version.</li>
+  <li>No analytics or tracking tools of our own in the current version (the platforms' video players are described in section 4).</li>
   <li>No selling or renting of data.</li>
 </ul>
 
@@ -87,7 +90,7 @@
 <p>You have the right to access, rectify, erase, restrict, object to and port your data, and you can withdraw your consent at any time.</p>
 <ul>
   <li><strong>Erasing your data from our server:</strong> turn off all alerts in the Alerts tab, or stop following every team and competition. Deletion is immediate.</li>
-  <li><strong>Any other request:</strong> write to <a href="mailto:contact@protojo.fr">contact@protojo.fr</a>. We reply within one month. Because the app works without an account, we cannot find your data from your name or email address.</li>
+  <li><strong>Any other request:</strong> write to <a href="mailto:contact@protojo.fr">contact@protojo.fr</a>. We reply within one month. Because the app works without an account, we cannot find your data from your name or email address: tell us the “Support ID” shown in the Alerts tab, under “About”.</li>
 </ul>
 <p>If you are not satisfied with the answer, you can lodge a complaint with the French data protection authority, the <a href="https://www.cnil.fr/en">CNIL</a>.</p>
 

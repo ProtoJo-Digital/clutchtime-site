@@ -18,7 +18,7 @@
 </head>
 <body>
 <h1>Politique de confidentialité<br><span class="muted">Clutchtime</span></h1>
-<p class="muted">Dernière mise à jour : 5 octobre 2026 · <a href="privacy.html" hreflang="en" lang="en">English version</a></p>
+<p class="muted">Dernière mise à jour : 7 octobre 2026 · <a href="privacy.html" hreflang="en" lang="en">English version</a></p>
 
 <p>Clutchtime est une application pour iPhone et iPad qui permet de suivre des équipes et des joueurs d'e-sport et d'être prévenu avant leurs matchs. Cette page explique, en langage simple, quelles données l'application utilise.</p>
 <p><strong>En résumé :</strong> il n'y a pas de compte, vos favoris restent sur votre appareil, et nous ne connaissons ni votre nom ni votre adresse e-mail. Si vous activez les alertes, notre serveur garde le strict nécessaire pour vous les envoyer.</p>
@@ -44,17 +44,20 @@
   <tr><td>La langue de l'application et votre fuseau horaire</td><td>Écrire l'alerte dans la bonne langue et respecter vos heures calmes</td></tr>
   <tr><td>Vos réglages d'alerte et vos heures calmes</td><td>N'envoyer que les alertes que vous voulez</td></tr>
   <tr><td>Les équipes et compétitions suivies, les matchs dont vous avez coupé les alertes</td><td>Savoir pour quels matchs vous prévenir</td></tr>
-  <tr><td>Le jeton d'affichage du score sur l'écran verrouillé, le temps d'un match</td><td>Mettre le score à jour sur l'écran verrouillé</td></tr>
+  <tr><td>Le jeton fourni par Apple qui permet de lancer l'affichage du score sur l'écran verrouillé, si vous l'avez activé</td><td>Afficher le score sur l'écran verrouillé dès le début d'un match</td></tr>
+  <tr><td>Le jeton de mise à jour d'un score affiché sur l'écran verrouillé, le temps d'un match</td><td>Mettre ce score à jour à chaque manche</td></tr>
 </table>
 <p><strong>Base légale :</strong> l'exécution du service que vous demandez (article 6.1.b du RGPD).</p>
-<p><strong>Durée :</strong> tout est effacé dès que vous ne suivez plus rien ou désactivez toutes les alertes, quand Apple nous signale que le jeton n'est plus valable (par exemple après la suppression de l'application), et au plus tard après 90 jours sans nouvelle de votre appareil. Le jeton de l'écran verrouillé est effacé à la fin du match.</p>
+<p><strong>Durée :</strong> tout est effacé dès que vous ne suivez plus rien ou désactivez toutes les alertes, quand Apple nous signale que le jeton n'est plus valable (par exemple après la suppression de l'application), et au plus tard après 90 jours sans nouvelle de votre appareil. Le jeton de mise à jour d'un score est effacé à la fin du match ; celui qui lance l'affichage est gardé tant que les alertes sont actives.</p>
+<p>Le serveur tient aussi des compteurs sans aucune donnée personnelle (nombre d'appareils inscrits, d'alertes envoyées par jour), pour surveiller le bon fonctionnement du service.</p>
 
 <h2>4. Les services auxquels l'application fait appel</h2>
 <ul>
-  <li><strong>Supabase</strong> : héberge notre serveur, en Union européenne (Irlande). Il tient des journaux techniques, qui peuvent contenir l'adresse IP de votre appareil, pour assurer la sécurité du service. Nous ne nous en servons pas pour vous identifier.</li>
+  <li><strong>Supabase</strong> : héberge notre serveur, en Union européenne (Irlande). Il tient des journaux techniques, qui peuvent contenir l'adresse IP de votre appareil, pour assurer la sécurité du service. Ces journaux sont conservés 7 jours au plus. Nous ne nous en servons pas pour vous identifier.</li>
+  <li><strong>GitHub</strong> : héberge ce site, ainsi qu'un petit fichier que l'application lit à l'ouverture pour savoir si une mise à jour est nécessaire. GitHub voit alors l'adresse IP de votre appareil.</li>
   <li><strong>Apple</strong> : achemine les notifications et traite les achats intégrés.</li>
   <li><strong>PandaScore</strong> : fournit les calendriers, scores, logos et photos. Les logos et photos sont téléchargés directement depuis ses serveurs, qui voient donc l'adresse IP de votre appareil. Aucune information sur vos favoris ne lui est transmise.</li>
-  <li><strong>Twitch, YouTube et Kick</strong> : quand vous ouvrez la fiche d'un match en direct, l'application peut afficher le lecteur vidéo de la plateforme qui le diffuse. Cette plateforme reçoit alors des données techniques (adresse IP, type d'appareil) et applique sa propre politique de confidentialité. En connexion mobile ou en mode « Données réduites », rien n'est chargé tant que vous ne touchez pas « Lire le direct ici ».</li>
+  <li><strong>Twitch, YouTube et Kick</strong> : sur la fiche d'un match en direct, le lecteur vidéo de la plateforme qui le diffuse n'est chargé que si vous touchez « Lire le direct ici ». La plateforme reçoit alors des données techniques (adresse IP, type d'appareil), peut déposer des cookies et mesurer l'audience de la vidéo, et peut afficher ses propres publicités dans le direct. Elle applique sa propre politique de confidentialité. Ces cookies sont gardés en mémoire seulement et effacés à la fermeture de l'application. YouTube est chargé dans sa version « sans cookies » (youtube-nocookie.com).</li>
 </ul>
 <p>Certains de ces prestataires sont établis aux États-Unis. Quand des données y sont transférées, c'est dans le cadre des garanties prévues par le RGPD (décision d'adéquation ou clauses contractuelles types).</p>
 
@@ -76,7 +79,7 @@
 <h2>7. Ce que nous ne faisons pas</h2>
 <ul>
   <li>Pas de compte, pas d'inscription, pas de collecte de nom ni d'adresse e-mail.</li>
-  <li>Pas de mesure d'audience ni d'outil de suivi dans la version actuelle.</li>
+  <li>Pas de mesure d'audience ni d'outil de suivi de notre part dans la version actuelle (les lecteurs vidéo des plateformes sont décrits au point 4).</li>
   <li>Aucune vente ni location de données.</li>
 </ul>
 
@@ -87,7 +90,7 @@
 <p>Vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité, et vous pouvez retirer votre consentement à tout moment.</p>
 <ul>
   <li><strong>Effacer vos données de notre serveur :</strong> désactivez toutes les alertes dans l'onglet Alertes, ou ne suivez plus aucune équipe ni compétition. L'effacement est immédiat.</li>
-  <li><strong>Toute autre demande :</strong> écrivez à <a href="mailto:contact@protojo.fr">contact@protojo.fr</a>. Nous répondons sous un mois. Comme l'application fonctionne sans compte, nous ne pouvons pas retrouver vos données à partir de votre nom ou de votre adresse e-mail.</li>
+  <li><strong>Toute autre demande :</strong> écrivez à <a href="mailto:contact@protojo.fr">contact@protojo.fr</a>. Nous répondons sous un mois. Comme l'application fonctionne sans compte, nous ne pouvons pas retrouver vos données à partir de votre nom ou de votre adresse e-mail : indiquez-nous l'« identifiant d'assistance » affiché dans l'onglet Alertes, rubrique « À propos ».</li>
 </ul>
 <p>Si la réponse ne vous satisfait pas, vous pouvez saisir la <a href="https://www.cnil.fr">CNIL</a>.</p>
 
