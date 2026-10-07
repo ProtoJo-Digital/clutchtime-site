@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Un match sur Clutchtime</title>
-<meta name="description" content="Un match d'e-sport partagé depuis Clutchtime : le score, le direct et les alertes de tes équipes.">
+<title>Un match sur Esportly</title>
+<meta name="description" content="Un match d'e-sport partagé depuis Esportly : le score, le direct et les alertes de tes équipes.">
 <!-- Aperçu du lien dans les messageries et les réseaux sociaux. -->
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Clutchtime">
-<meta property="og:title" content="Un match d'e-sport à suivre sur Clutchtime">
+<meta property="og:site_name" content="Esportly">
+<meta property="og:title" content="Un match d'e-sport à suivre sur Esportly">
 <meta property="og:description" content="Le score, le direct et les alertes de tes équipes d'e-sport, sans compte.">
 <meta name="twitter:card" content="summary">
 <style>
@@ -21,11 +21,11 @@
 </style>
 </head>
 <body>
-<h1>Clutchtime</h1>
+<h1>Esportly</h1>
 <p>Quelqu'un t'a partagé un match d'e-sport.</p>
-<a class="button" id="open" href="#">Ouvrir dans Clutchtime</a>
+<a class="button" id="open" href="#">Ouvrir dans Esportly</a>
 <p class="muted" id="store">Pas encore l'app ? Elle arrive sur l'App Store pour iPhone et iPad.</p>
-<p class="muted" lang="en">Someone shared an esports match with you. Tap the button to open it in Clutchtime.</p>
+<p class="muted" lang="en">Someone shared an esports match with you. Tap the button to open it in Esportly.</p>
 <p class="muted">Données e-sport fournies par <a href="https://pandascore.co">PandaScore</a>.</p>
 <script>
   // Seul un numéro de match est accepté : la page n'ouvre rien d'autre que l'app.
@@ -47,7 +47,7 @@
       store.textContent = "Pas encore l'app ? ";
       const link = document.createElement("a");
       link.href = info.storeURL;
-      link.textContent = "Télécharger Clutchtime sur l'App Store";
+      link.textContent = "Télécharger Esportly sur l'App Store";
       store.appendChild(link);
     })
     .catch(() => {});
