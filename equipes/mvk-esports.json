@@ -1,0 +1,29 @@
+{
+ "organisation": "MVK Esports",
+ "noms": [
+  "mvk",
+  "mvk esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FE5A00",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe LoL vietnamienne (ex-Vikings), aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 137803,
+   "nom": "MVK Esports",
+   "sigle": "MVK",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137803/mvk_esportslogo_profile.png",
+   "pays": "VN",
+   "couleur_logo": "#FE5A00"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "organisation": "Five Fears",
+ "noms": [
+  "five fears"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#0077B7",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://www.fivefears.com/",
+  "note": "Site officiel trouvé mais CSS Tailwind générique, aucune couleur de marque identifiable."
+ },
+ "equipes": [
+  {
+   "id": 138083,
+   "nom": "Five Fears",
+   "sigle": "5F",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138083/581px_five_fears_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#0077B7"
+  },
+  {
+   "id": 138372,
+   "nom": "Five Fears",
+   "sigle": "5F",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138372/581px_five_fears_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#0077B7"
+  }
+ ]
+}

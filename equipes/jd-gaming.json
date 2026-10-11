@@ -1,0 +1,47 @@
+{
+ "organisation": "JD Gaming",
+ "noms": [
+  "jd",
+  "jd gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#C9102E",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Site officiel introuvable (jdgaming.cn et jdgesports.com injoignables)."
+ },
+ "equipes": [
+  {
+   "id": 318,
+   "nom": "JD Gaming",
+   "sigle": "JDG",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/318/746px_jd_gaming_2021_full_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#C9102E"
+  },
+  {
+   "id": 134454,
+   "nom": "JD Gaming",
+   "sigle": "JDG",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134454/600px_jd_gaming_2021_full_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#C9102E"
+  },
+  {
+   "id": 138011,
+   "nom": "JD Gaming",
+   "sigle": "JDG",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138011/900px_jd_gaming_2021_full_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#C9152E"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "INTZ",
+ "noms": [
+  "intz"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#721554",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#D4AF37",
+  "secondaire": "#0C0C0C",
+  "confiance": "faible",
+  "source": "https://intz.gg/",
+  "site": "https://intz.gg/",
+  "note": "? Site majoritairement noir et blanc ; doré #D4AF37 seulement présent. À vérifier."
+ },
+ "equipes": [
+  {
+   "id": 126986,
+   "nom": "INTZ",
+   "sigle": "INTZ",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126986/1128px_intz_2026_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#721554"
+  }
+ ]
+}

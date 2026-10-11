@@ -1,0 +1,37 @@
+{
+ "organisation": "LOS",
+ "noms": [
+  "los"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF5B00",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Site officiel introuvable (los.gg renvoie une erreur 525)."
+ },
+ "equipes": [
+  {
+   "id": 133796,
+   "nom": "LOS",
+   "sigle": "LOS",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133796/1199px_los_full_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#FF5B00"
+  },
+  {
+   "id": 135639,
+   "nom": "LOS",
+   "sigle": "LOS",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135639/600px_los_full_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#FF5B00"
+  }
+ ]
+}

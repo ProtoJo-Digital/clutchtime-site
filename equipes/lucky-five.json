@@ -1,0 +1,28 @@
+{
+ "organisation": "Lucky Five",
+ "noms": [
+  "lucky five"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe Rainbow Six brésilienne sans organisation ni site connus."
+ },
+ "equipes": [
+  {
+   "id": 139195,
+   "nom": "Lucky Five",
+   "sigle": "L5",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/139195/lucky_five_allmode.png",
+   "pays": "BR",
+   "couleur_logo": null
+  }
+ ]
+}

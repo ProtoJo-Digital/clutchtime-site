@@ -1,0 +1,28 @@
+{
+ "organisation": "NIP.eStar",
+ "noms": [
+  "nip.estar"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#D8FF00",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#D8FF00",
+  "secondaire": "#000000",
+  "confiance": "moyenne",
+  "source": "https://nip.gl/cdn/shop/t/21/assets/theme.css",
+  "site": "https://nip.gl",
+  "note": "Jaune néon dominant du site, cohérent avec le rebrand 2021 (néon/noir/gris). NIP.eStar partage la marque NIP, pas de site distinct vérifié."
+ },
+ "equipes": [
+  {
+   "id": 139049,
+   "nom": "NIP.eStar",
+   "sigle": "NIP.eStar",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/139049/180px_ninjas_in_pyjamas_2021_lightmode.png",
+   "pays": "SE",
+   "couleur_logo": null
+  }
+ ]
+}

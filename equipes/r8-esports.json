@@ -1,0 +1,29 @@
+{
+ "organisation": "R8 Esports",
+ "noms": [
+  "r8",
+  "r8 esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#40ABF8",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Organisation saoudienne (ex-Rico Infinity), aucun site officiel trouvé (r8esports.com à vendre)."
+ },
+ "equipes": [
+  {
+   "id": 136062,
+   "nom": "R8 Esports",
+   "sigle": "R8",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136062/1065px_r8_esports_2022_lightmode.png",
+   "pays": "SA",
+   "couleur_logo": "#40ABF8"
+  }
+ ]
+}

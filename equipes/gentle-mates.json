@@ -1,0 +1,28 @@
+{
+ "organisation": "Gentle Mates",
+ "noms": [
+  "gentle mates"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": "#F77514",
+  "secondaire": "#000000",
+  "confiance": "faible",
+  "source": "https://www.gentlemates.com/",
+  "site": "https://www.gentlemates.com/",
+  "note": "? Site Next.js sans variable de marque ; #F77514 n'est que la couleur non grise la plus fréquente du CSS. À vérifier."
+ },
+ "equipes": [
+  {
+   "id": 134452,
+   "nom": "Gentle Mates",
+   "sigle": "M8",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134452/gentle_mates_alpine_2024_lightmode.png",
+   "pays": "FR",
+   "couleur_logo": null
+  }
+ ]
+}

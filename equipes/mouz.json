@@ -1,0 +1,37 @@
+{
+ "organisation": "MOUZ",
+ "noms": [
+  "mouz"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF0000",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FF0000",
+  "secondaire": "#FFFFFF",
+  "confiance": "moyenne",
+  "source": "https://mousesports.com/wp-content/uploads/2021/09/logo-mouz-header.svg",
+  "site": "https://mousesports.com",
+  "note": "Rouge du logo officiel (SVG du site) ; l'annonce du rebrand parle du rouge historique. Partenaires paris/jeux d'argent affichés : Fonbet (bookmaker) et G4Skins."
+ },
+ "equipes": [
+  {
+   "id": 3240,
+   "nom": "MOUZ",
+   "sigle": "MOUZ",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/3240/208px_mouz_2021_allmode.png",
+   "pays": "DE",
+   "couleur_logo": "#FF0000"
+  },
+  {
+   "id": 134559,
+   "nom": "MOUZ",
+   "sigle": "MOUZ",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134559/139px_mouz_2021_allmode.png",
+   "pays": "DE",
+   "couleur_logo": "#FF0000"
+  }
+ ]
+}

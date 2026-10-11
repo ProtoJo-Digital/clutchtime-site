@@ -1,0 +1,29 @@
+{
+ "organisation": "Team Yandex",
+ "noms": [
+  "team yandex",
+  "yandex"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#9C0914",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Liquipedia renvoie vers ya.ru (site du groupe Yandex), pas de site propre à l'équipe. Les couleurs du groupe Yandex ne sont pas reprises faute de preuve qu'elles soient celles de l'équipe."
+ },
+ "equipes": [
+  {
+   "id": 137073,
+   "nom": "Team Yandex",
+   "sigle": "TY",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137073/249px_team_yandex_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#9C0914"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Shifters",
+ "noms": [
+  "shifters"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FD4846",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FD4846",
+  "secondaire": "#7A52B9",
+  "confiance": "moyenne",
+  "source": "https://shifters.gg/",
+  "site": "https://shifters.gg",
+  "note": "Couleurs « primary » et « primary-2 » du thème WordPress du site officiel."
+ },
+ "equipes": [
+  {
+   "id": 137818,
+   "nom": "Shifters",
+   "sigle": "SHFT",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137818/600px_shifters_full_allmode.png",
+   "pays": "CH",
+   "couleur_logo": "#7B53BB"
+  }
+ ]
+}

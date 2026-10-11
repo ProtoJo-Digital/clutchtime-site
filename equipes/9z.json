@@ -1,0 +1,28 @@
+{
+ "organisation": "9z",
+ "noms": [
+  "9z"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#7234FF",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#7234FF",
+  "secondaire": "#5921CC",
+  "confiance": "moyenne",
+  "source": "https://9z.gg/assets/index-B9DoHTOx.css",
+  "site": "https://9z.gg/",
+  "note": "Variables CSS --accent/--accent2 du site officiel (9z Globant, slogan #TodoVioleta) ; fond quasi noir #09090B."
+ },
+ "equipes": [
+  {
+   "id": 126709,
+   "nom": "9z",
+   "sigle": "9z",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126709/9z_team_2024_lightmode.png",
+   "pays": "AR",
+   "couleur_logo": "#67741B"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Dallas Fuel",
+ "noms": [
+  "dallas fuel"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#0073D1",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://www.dallasfuel.com/",
+  "note": "Site bloqué par Cloudflare (403). Pour info seulement, brandpalettes.com cite #0072CE et #032340 (non officiel)."
+ },
+ "equipes": [
+  {
+   "id": 1544,
+   "nom": "Dallas Fuel",
+   "sigle": "DAL",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1544/dallas_fuel_logo_no_text.png",
+   "pays": "US",
+   "couleur_logo": "#0073D1"
+  }
+ ]
+}

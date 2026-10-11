@@ -1,0 +1,28 @@
+{
+ "organisation": "TYLOO",
+ "noms": [
+  "tyloo"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#8F2C29",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Aucun site officiel trouvé (tyloo.net = blog WordPress vide, non lié)."
+ },
+ "equipes": [
+  {
+   "id": 133288,
+   "nom": "TYLOO",
+   "sigle": "TYLOO",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133288/600px_ty_loo_2016_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#8F2C29"
+  }
+ ]
+}

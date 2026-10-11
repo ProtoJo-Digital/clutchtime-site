@@ -1,0 +1,29 @@
+{
+ "organisation": "Rebels Gaming",
+ "noms": [
+  "rebels",
+  "rebels gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF0F26",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#FE1125",
+  "secondaire": "#000000",
+  "confiance": "faible",
+  "source": "https://rebelsgaming.gg/",
+  "site": "https://rebelsgaming.gg",
+  "note": "? Rouge primaire Elementor, mais le domaine héberge désormais de nombreux articles de casinos en ligne (domaine peut-être détourné) : à vérifier, contenu jeux d'argent."
+ },
+ "equipes": [
+  {
+   "id": 131731,
+   "nom": "Rebels Gaming",
+   "sigle": "RBLS",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/131731/800px_rebels_gaming_2021_allmode.png",
+   "pays": "ES",
+   "couleur_logo": "#FF0F26"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "organisation": "Manchester City Esports",
+ "noms": [
+  "manchester city",
+  "manchester city esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#6CADDE",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#6CADDE",
+  "secondaire": "#001838",
+  "confiance": "moyenne",
+  "source": "https://www.mancity.com/esports",
+  "site": "https://www.mancity.com/esports",
+  "note": "Couleurs du club sur mancity.com : bleu ciel #6CADDE et marine #001838 (le site a répondu 403 mais a servi la page)."
+ },
+ "equipes": [
+  {
+   "id": 137662,
+   "nom": "Manchester City Esports",
+   "sigle": "MCE",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137662/600px_manchester_city_fc_2016_allmode.png",
+   "pays": "GB",
+   "couleur_logo": "#275488"
+  }
+ ]
+}

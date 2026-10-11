@@ -1,0 +1,37 @@
+{
+ "organisation": "PARIVISION",
+ "noms": [
+  "parivision"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#2FFFE8",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#2FFFE8",
+  "secondaire": "#0B0B0B",
+  "confiance": "moyenne",
+  "source": "https://parivision.gg/local/templates/pv2026/css/tokens.css",
+  "site": "https://parivision.gg",
+  "note": "Jetons de design du site (--c-mint, --c-black) qui renvoient au brand book. « Thunderpick » n'apparaît que comme nom de tournoi."
+ },
+ "equipes": [
+  {
+   "id": 133719,
+   "nom": "PARIVISION",
+   "sigle": "PRV",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133719/250px_parivision_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#00CAB4"
+  },
+  {
+   "id": 135712,
+   "nom": "PARIVISION",
+   "sigle": "PARI",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135712/250px_parivision_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#00CAB4"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Fnatic",
+ "noms": [
+  "fnatic"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF5900",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FF5900",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://fnatic.com/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 126928,
+   "nom": "Fnatic",
+   "sigle": "FNC",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126928/600px_fnatic_2020_infoboximage.png",
+   "pays": "GB",
+   "couleur_logo": "#FF5A00"
+  }
+ ]
+}

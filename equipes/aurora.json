@@ -1,0 +1,38 @@
+{
+ "organisation": "Aurora",
+ "noms": [
+  "aurora",
+  "aurora gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#0FC8BD",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#4C7472",
+  "secondaire": "#0F5453",
+  "confiance": "faible",
+  "source": "https://auroragg.com/en",
+  "site": "https://auroragg.com/en",
+  "note": "? Tons sarcelle présents dans le HTML du site, sans variable de marque ; pas de kit presse trouvé."
+ },
+ "equipes": [
+  {
+   "id": 133882,
+   "nom": "Aurora",
+   "sigle": "AUR",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133882/600px_aurora_gaming_2025_allmode.png",
+   "pays": "RS",
+   "couleur_logo": "#0FC8BD"
+  },
+  {
+   "id": 131505,
+   "nom": "Aurora Gaming",
+   "sigle": "AUR",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/131505/600px_aurora_gaming_2025_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#0FC8BD"
+  }
+ ]
+}

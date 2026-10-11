@@ -1,0 +1,29 @@
+{
+ "organisation": "Team Nemesis",
+ "noms": [
+  "nemesis",
+  "team nemesis"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#896AFD",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#896AFD",
+  "secondaire": "#C4B4FE",
+  "confiance": "moyenne",
+  "source": "https://nmss.gg/",
+  "site": "https://nmss.gg/",
+  "note": "Variables CSS du site : --color-purple-enigma #896AFD, --color-purple-secondary #C4B4FE (le plus fréquent), fond --color-black-nemesis #151515. Pas de kit de marque trouvé. Site lié par Liquipedia. Aucun parieur repéré."
+ },
+ "equipes": [
+  {
+   "id": 136650,
+   "nom": "Team Nemesis",
+   "sigle": "Nem",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136650/159px_team_nem_lightmode.png",
+   "pays": "PH",
+   "couleur_logo": null
+  }
+ ]
+}

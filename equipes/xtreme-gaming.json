@@ -1,0 +1,29 @@
+{
+ "organisation": "Xtreme Gaming",
+ "noms": [
+  "xtreme",
+  "xtreme gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Aucun site officiel trouvé (champ website vide sur Liquipedia)."
+ },
+ "equipes": [
+  {
+   "id": 128329,
+   "nom": "Xtreme Gaming",
+   "sigle": "Xtreme",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128329/t72899.png",
+   "pays": "CN",
+   "couleur_logo": null
+  }
+ ]
+}

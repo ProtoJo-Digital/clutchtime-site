@@ -1,0 +1,46 @@
+{
+ "organisation": "Karmine Corp",
+ "noms": [
+  "karmine corp"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": "#101E35",
+  "secondaire": "#000000",
+  "confiance": "faible",
+  "source": "https://www.karminecorp.fr/cdn/shop/t/12/assets/theme.min.css",
+  "site": "https://www.karminecorp.fr/",
+  "note": "? theme-color = #000000 ; bleu nuit #101E35 présent dans le CSS boutique. Pas de kit presse trouvé."
+ },
+ "equipes": [
+  {
+   "id": 134078,
+   "nom": "Karmine Corp",
+   "sigle": "KC",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134078/karmine_corplogo_square.png",
+   "pays": "FR",
+   "couleur_logo": null
+  },
+  {
+   "id": 130922,
+   "nom": "Karmine Corp",
+   "sigle": "KC",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/130922/600px_karmine_corp_lightmode_full.png",
+   "pays": "FR",
+   "couleur_logo": null
+  },
+  {
+   "id": 129570,
+   "nom": "Karmine Corp",
+   "sigle": "KC",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+   "pays": "FR",
+   "couleur_logo": null
+  }
+ ]
+}

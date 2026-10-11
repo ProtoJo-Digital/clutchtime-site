@@ -1,0 +1,38 @@
+{
+ "organisation": "Geekay Esports",
+ "noms": [
+  "geekay",
+  "geekay esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FFC400",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#081B3A",
+  "secondaire": "#FFC400",
+  "confiance": "moyenne",
+  "source": "https://www.geekayesports.com/",
+  "site": "https://www.geekayesports.com/",
+  "note": "meta theme-color et TileColor = #081B3A ; jaune #FFC400 le plus répété. Pas de kit presse (/presskit renvoie l'accueil)."
+ },
+ "equipes": [
+  {
+   "id": 132128,
+   "nom": "Geekay Esports",
+   "sigle": "GE",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132128/600px_geekay_esports_2023_allmode.png",
+   "pays": "SA",
+   "couleur_logo": "#223A65"
+  },
+  {
+   "id": 132916,
+   "nom": "Geekay Esports",
+   "sigle": "GE",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132916/800px_geekay_esports_2024_allmode.png",
+   "pays": "SA",
+   "couleur_logo": "#223A65"
+  }
+ ]
+}

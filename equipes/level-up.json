@@ -1,0 +1,28 @@
+{
+ "organisation": "Level UP",
+ "noms": [
+  "level up"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#14759B",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Nom ambigu (lvlUP Serbie, Level Up Productions, etc.) ; aucun site d'équipe confirmé."
+ },
+ "equipes": [
+  {
+   "id": 1948,
+   "nom": "Level UP",
+   "sigle": "LVLUP",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1948/t11113.png",
+   "pays": "RS",
+   "couleur_logo": "#14759B"
+  }
+ ]
+}

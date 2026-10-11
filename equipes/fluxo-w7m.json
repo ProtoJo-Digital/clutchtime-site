@@ -1,0 +1,28 @@
+{
+ "organisation": "Fluxo W7M",
+ "noms": [
+  "fluxo w7m"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#4C007D",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://lojafluxo.com.br/",
+  "note": "Pas de site d'équipe trouvé ; la boutique Fluxo n'utilise que les couleurs Bootstrap par défaut."
+ },
+ "equipes": [
+  {
+   "id": 137709,
+   "nom": "Fluxo W7M",
+   "sigle": "FX7M",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137709/899px_fluxo_w7_m_dec_2025_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#4C007D"
+  }
+ ]
+}

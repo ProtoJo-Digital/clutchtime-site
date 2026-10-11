@@ -1,0 +1,29 @@
+{
+ "organisation": "Team Risk",
+ "noms": [
+  "risk",
+  "team risk"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Organisation non identifiée avec certitude (plusieurs homonymes Overwatch/PUBG/Brawl Stars), aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 139362,
+   "nom": "Team Risk",
+   "sigle": "TR",
+   "jeu": "ow",
+   "logo": null,
+   "pays": "SA",
+   "couleur_logo": null
+  }
+ ]
+}

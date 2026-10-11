@@ -1,0 +1,46 @@
+{
+ "organisation": "Twisted Minds",
+ "noms": [
+  "twisted minds"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#B6374D",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Aucun site officiel trouvé (twisted-minds.com = magasin sans rapport). Sponsor principal cité : Riyadh Season (pas un parieur)."
+ },
+ "equipes": [
+  {
+   "id": 131331,
+   "nom": "Twisted Minds",
+   "sigle": "TWIS",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/131331/twisted_mindslogo_profile.png",
+   "pays": "SA",
+   "couleur_logo": "#B6374D"
+  },
+  {
+   "id": 132167,
+   "nom": "Twisted Minds",
+   "sigle": "TM",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132167/800px_twisted_minds_2023_allmode.png",
+   "pays": "SA",
+   "couleur_logo": "#BE3950"
+  },
+  {
+   "id": 132920,
+   "nom": "Twisted Minds",
+   "sigle": "TM",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132920/190px_twisted_minds_2023_allmode.png",
+   "pays": "SA",
+   "couleur_logo": "#EE4A65"
+  }
+ ]
+}

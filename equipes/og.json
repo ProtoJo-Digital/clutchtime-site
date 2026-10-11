@@ -1,0 +1,28 @@
+{
+ "organisation": "OG",
+ "noms": [
+  "og"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#14746B",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#DCBC78",
+  "secondaire": "#23293B",
+  "confiance": "faible",
+  "source": "https://ogs.gg/",
+  "site": "https://ogs.gg",
+  "note": "? Or dominant sur le site actuel, mais un article (VPEsports) annonce un rebrand 2026 centré sur le vert : à confirmer."
+ },
+ "equipes": [
+  {
+   "id": 1654,
+   "nom": "OG",
+   "sigle": "OG",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1654/438px_og_2026_allmode.png",
+   "pays": null,
+   "couleur_logo": "#14746B"
+  }
+ ]
+}

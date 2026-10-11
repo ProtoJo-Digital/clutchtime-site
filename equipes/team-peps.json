@@ -1,0 +1,29 @@
+{
+ "organisation": "Team Peps",
+ "noms": [
+  "peps",
+  "team peps"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EEC932",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#EEC932",
+  "secondaire": "#131415",
+  "confiance": "moyenne",
+  "source": "https://teampeps.fr/",
+  "site": "https://teampeps.fr/",
+  "note": "Jaune #EEC932 dominant dans le CSS (89 occurrences), fond quasi noir #131415. Variables --color-peps-* présentes (surtout couleurs par jeu). Pas de kit de marque trouvé. Aucun parieur repéré sur l'accueil."
+ },
+ "equipes": [
+  {
+   "id": 132171,
+   "nom": "Team Peps",
+   "sigle": "PEPS",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132171/600px_team_peps_july_2022_allmode.png",
+   "pays": "FR",
+   "couleur_logo": "#D6AF37"
+  }
+ ]
+}

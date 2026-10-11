@@ -1,0 +1,38 @@
+{
+ "organisation": "NRG",
+ "noms": [
+  "nrg",
+  "nrg esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#F63D0A",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#F63D0A",
+  "secondaire": "#050505",
+  "confiance": "moyenne",
+  "source": "https://nrg.gg/",
+  "site": "https://nrg.gg",
+  "note": "Orange dominant du site (aussi #F4310B), theme-color #050505 ; Wikipédia cite « Energized orange » sans hex."
+ },
+ "equipes": [
+  {
+   "id": 128471,
+   "nom": "NRG",
+   "sigle": "NRG",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128471/nrg_2020.png",
+   "pays": "US",
+   "couleur_logo": null
+  },
+  {
+   "id": 126301,
+   "nom": "NRG Esports",
+   "sigle": "NRG",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126301/nrg_2020_lightmode.png",
+   "pays": "US",
+   "couleur_logo": null
+  }
+ ]
+}

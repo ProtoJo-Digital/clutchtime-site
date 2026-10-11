@@ -1,0 +1,29 @@
+{
+ "organisation": "EDward Gaming",
+ "noms": [
+  "edward",
+  "edward gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#B10000",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#B10000",
+  "secondaire": "#2A2A2A",
+  "confiance": "moyenne",
+  "source": "https://www.edgteam.cn/assets/index-D1PbLDZ_.css",
+  "site": "https://www.edgteam.cn/",
+  "note": "Rouge foncé dominant dans le CSS du site officiel (certificat HTTPS expiré)."
+ },
+ "equipes": [
+  {
+   "id": 128976,
+   "nom": "EDward Gaming",
+   "sigle": "EDG",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128976/900px_e_dward_gaming_2017_lightmode.png",
+   "pays": "CN",
+   "couleur_logo": null
+  }
+ ]
+}

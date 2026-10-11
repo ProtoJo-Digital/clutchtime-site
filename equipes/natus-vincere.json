@@ -1,0 +1,28 @@
+{
+ "organisation": "Natus Vincere",
+ "noms": [
+  "natus vincere"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FFEE00",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FFEE00",
+  "secondaire": "#F6341E",
+  "confiance": "moyenne",
+  "source": "https://navi.gg/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 1699,
+   "nom": "Natus Vincere",
+   "sigle": "Na`Vi",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1699/Na_vi_logo.png",
+   "pays": "UA",
+   "couleur_logo": "#CDC501"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "organisation": "Team Vitality",
+ "noms": [
+  "team vitality",
+  "vitality"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FAE100",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FAE100",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://vitality.gg/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 115,
+   "nom": "Team Vitality",
+   "sigle": "VIT",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/115/team_vitalitylogo_square.png",
+   "pays": "FR",
+   "couleur_logo": "#FFFF00"
+  },
+  {
+   "id": 128796,
+   "nom": "Team Vitality",
+   "sigle": "VIT",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128796/600px_team_vitality_2023_darkmode.png",
+   "pays": "FR",
+   "couleur_logo": "#FFFF00"
+  },
+  {
+   "id": 3455,
+   "nom": "Vitality",
+   "sigle": "VIT",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/3455/team_vitalitylogo_square.png",
+   "pays": "FR",
+   "couleur_logo": "#FFFF00"
+  },
+  {
+   "id": 129919,
+   "nom": "Vitality",
+   "sigle": "VIT",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/129919/team_vitalitylogo_square.png",
+   "pays": "FR",
+   "couleur_logo": "#FFFF00"
+  }
+ ]
+}

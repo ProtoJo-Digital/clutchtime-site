@@ -1,0 +1,28 @@
+{
+ "organisation": "BNK FEARX",
+ "noms": [
+  "bnk fearx"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://www.fearx.gg/",
+  "note": "Site Wix sans couleur de marque identifiable (#2B5672 présent mais probablement palette Wix). BNK = groupe bancaire sponsor, pas un bookmaker."
+ },
+ "equipes": [
+  {
+   "id": 134115,
+   "nom": "BNK FEARX",
+   "sigle": "BFX",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134115/663px_fear_x_icon_lightmode.png",
+   "pays": "KR",
+   "couleur_logo": null
+  }
+ ]
+}

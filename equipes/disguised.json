@@ -1,0 +1,28 @@
+{
+ "organisation": "Disguised",
+ "noms": [
+  "disguised"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FAB450",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://www.disguised.gg/",
+  "note": "Site en erreur 500 lors de la consultation ; aucun kit presse trouvé."
+ },
+ "equipes": [
+  {
+   "id": 138024,
+   "nom": "Disguised",
+   "sigle": "DIS",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138024/600px_disguised_nov_2023_full_darkmode.png",
+   "pays": "US",
+   "couleur_logo": "#FAB450"
+  }
+ ]
+}

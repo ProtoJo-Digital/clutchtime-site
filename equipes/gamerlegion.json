@@ -1,0 +1,28 @@
+{
+ "organisation": "GamerLegion",
+ "noms": [
+  "gamerlegion"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EACA92",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#EACA92",
+  "secondaire": "#232322",
+  "confiance": "moyenne",
+  "source": "https://www.gamerlegion.gg/",
+  "site": "https://www.gamerlegion.gg/",
+  "note": "Boutique Shopify : fond de base et boutons en #EACA92 (sable/or), accent #232322. Pas de kit presse trouvé."
+ },
+ "equipes": [
+  {
+   "id": 137588,
+   "nom": "GamerLegion",
+   "sigle": "GL",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137588/591px_gamer_legion_2026_allmode.png",
+   "pays": "US",
+   "couleur_logo": null
+  }
+ ]
+}

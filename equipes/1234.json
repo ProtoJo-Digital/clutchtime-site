@@ -1,0 +1,28 @@
+{
+ "organisation": "1234",
+ "noms": [
+  "1234"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Roster Overwatch sans organisation (nom provisoire), aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 138799,
+   "nom": "1234",
+   "sigle": "1234",
+   "jeu": "ow",
+   "logo": null,
+   "pays": "",
+   "couleur_logo": null
+  }
+ ]
+}

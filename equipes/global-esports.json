@@ -1,0 +1,29 @@
+{
+ "organisation": "Global Esports",
+ "noms": [
+  "global",
+  "global esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#4069A8",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Site officiel introuvable (globalesports.in est un domaine parqué). Rachat annoncé par Revenant XSpark (non finalisé)."
+ },
+ "equipes": [
+  {
+   "id": 129660,
+   "nom": "Global Esports",
+   "sigle": "GE",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/129660/global_esports_2020_allmode.png",
+   "pays": "IN",
+   "couleur_logo": "#4069A8"
+  }
+ ]
+}

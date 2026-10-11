@@ -1,0 +1,28 @@
+{
+ "organisation": "Paper Rex",
+ "noms": [
+  "paper rex"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": "https://pprx.team/",
+  "site": "https://pprx.team",
+  "note": "Site officiel neutre (noir #101010, CSS de framework) ; aucune couleur de marque identifiable."
+ },
+ "equipes": [
+  {
+   "id": 128917,
+   "nom": "Paper Rex",
+   "sigle": "PR",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128917/712px_paper_rex_lightmode.png",
+   "pays": "SG",
+   "couleur_logo": null
+  }
+ ]
+}

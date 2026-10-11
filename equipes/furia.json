@@ -1,0 +1,56 @@
+{
+ "organisation": "FURIA",
+ "noms": [
+  "furia",
+  "furia esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://www.furia.gg/",
+  "note": "Site bloqué par Cloudflare (403) ; aucun kit presse public trouvé. Identité réputée noir/blanc."
+ },
+ "equipes": [
+  {
+   "id": 124530,
+   "nom": "FURIA",
+   "sigle": "FURIA",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/124530/8297.png",
+   "pays": "BR",
+   "couleur_logo": null
+  },
+  {
+   "id": 126688,
+   "nom": "FURIA Esports",
+   "sigle": "FUR",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png",
+   "pays": "BR",
+   "couleur_logo": null
+  },
+  {
+   "id": 128933,
+   "nom": "FURIA Esports",
+   "sigle": "FURIA",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128933/furia_esportslogo_square.png",
+   "pays": "BR",
+   "couleur_logo": null
+  },
+  {
+   "id": 127596,
+   "nom": "FURIA Esports",
+   "sigle": "FURIA",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/127596/600px_furia_e_sports.png",
+   "pays": "BR",
+   "couleur_logo": null
+  }
+ ]
+}

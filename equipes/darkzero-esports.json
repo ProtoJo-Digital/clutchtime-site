@@ -1,0 +1,29 @@
+{
+ "organisation": "DarkZero Esports",
+ "noms": [
+  "darkzero",
+  "darkzero esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#5F1A90",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://darkzero.gg/",
+  "note": "Site WordPress/Elementor avec couleurs par défaut du thème uniquement ; aucune couleur de marque fiable."
+ },
+ "equipes": [
+  {
+   "id": 126926,
+   "nom": "DarkZero Esports",
+   "sigle": "DZ",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126926/600px_dark_zero_logo.png",
+   "pays": "US",
+   "couleur_logo": "#5F1A90"
+  }
+ ]
+}

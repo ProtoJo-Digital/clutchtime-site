@@ -1,0 +1,46 @@
+{
+ "organisation": "LOUD",
+ "noms": [
+  "loud"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#00FF3B",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#00FF3B",
+  "secondaire": "#000000",
+  "confiance": "moyenne",
+  "source": "https://loud.gg/",
+  "site": "https://loud.gg/",
+  "note": "Vert #00FF3B défini comme fond de section dans le thème Shopify et répété dans le HTML."
+ },
+ "equipes": [
+  {
+   "id": 128313,
+   "nom": "LOUD",
+   "sigle": "LLL",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128313/lou_dlogo_square.png",
+   "pays": "BR",
+   "couleur_logo": "#00FF3C"
+  },
+  {
+   "id": 130338,
+   "nom": "LOUD",
+   "sigle": "LOUD",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/130338/900px_loud_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#13FF00"
+  },
+  {
+   "id": 136742,
+   "nom": "LOUD",
+   "sigle": "LOUD",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136742/loud_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#23FC08"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "organisation": "XLG Gaming",
+ "noms": [
+  "xlg",
+  "xlg gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#0385AA",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe Valorant chinoise (XLG Esports), aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 135470,
+   "nom": "XLG Gaming",
+   "sigle": "XLG",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135470/800px_xlg_china_2024_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#0385AA"
+  }
+ ]
+}

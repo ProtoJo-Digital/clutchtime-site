@@ -1,0 +1,28 @@
+{
+ "organisation": "LYON",
+ "noms": [
+  "lyon"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#B59A75",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#B59A75",
+  "secondaire": "#1B1E25",
+  "confiance": "élevée",
+  "source": "https://lyon.gg/#mediakit",
+  "site": "https://lyon.gg/",
+  "note": "Section Media Kit du site : couleurs officielles #B59A75, #1B1E25, #F1F1F1, #000000 (Brand Manual v1). Le pied de page mentionne une maquette « Etapa 1 »."
+ },
+ "equipes": [
+  {
+   "id": 136066,
+   "nom": "LYON",
+   "sigle": "LY",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136066/lyon__25282024_american_team_2529logo_square.png",
+   "pays": "MX",
+   "couleur_logo": "#B89D77"
+  }
+ ]
+}

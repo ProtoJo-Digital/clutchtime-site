@@ -1,0 +1,28 @@
+{
+ "organisation": "FaZe Clan",
+ "noms": [
+  "faze clan"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#E43D30",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#E43D30",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://fazeclan.com/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 126927,
+   "nom": "FaZe Clan",
+   "sigle": "FaZe",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126927/285px_fa_ze_esports_october_2025_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#E7002C"
+  }
+ ]
+}

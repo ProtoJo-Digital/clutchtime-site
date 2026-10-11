@@ -1,0 +1,65 @@
+{
+ "organisation": "Team Liquid",
+ "noms": [
+  "liquid",
+  "team liquid"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#3BB0D4",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#001538",
+  "secondaire": "#3BB0D4",
+  "confiance": "élevée",
+  "source": "https://teamliquid.com/brand-kit",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 390,
+   "nom": "Team Liquid",
+   "sigle": "TL",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/390/ezgif_1497965c786bdb14.png",
+   "pays": "NL",
+   "couleur_logo": "#263757"
+  },
+  {
+   "id": 128541,
+   "nom": "Team Liquid",
+   "sigle": "TL",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128541/463px_team_liquid_2024_full_lightmode.png",
+   "pays": "NL",
+   "couleur_logo": "#223352"
+  },
+  {
+   "id": 1647,
+   "nom": "Team Liquid",
+   "sigle": "Liquid",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1647/527px_team_liquid_2023_lightmode.png",
+   "pays": "NL",
+   "couleur_logo": "#263655"
+  },
+  {
+   "id": 136396,
+   "nom": "Team Liquid",
+   "sigle": "TL",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136396/789px_team_liquid_2024_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#253653"
+  },
+  {
+   "id": 126935,
+   "nom": "Team Liquid",
+   "sigle": "Liquid",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126935/526px_team_liquid_2024_lightmode.png",
+   "pays": "NL",
+   "couleur_logo": "#243552"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "MIBR",
+ "noms": [
+  "mibr"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": "#4A3F9F",
+  "secondaire": "#6B7FFF",
+  "confiance": "faible",
+  "source": "https://mibr.gg/",
+  "site": "https://mibr.gg",
+  "note": "? Variables CSS --mibr-primary/--mibr-secondary définies mais peu utilisées ; le site est surtout noir/blanc. Aucun kit de marque trouvé."
+ },
+ "equipes": [
+  {
+   "id": 137329,
+   "nom": "MIBR",
+   "sigle": "mibr",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137329/600px_mibr_2018_lightmode.png",
+   "pays": "BR",
+   "couleur_logo": null
+  }
+ ]
+}

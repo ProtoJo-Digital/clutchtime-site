@@ -1,0 +1,37 @@
+{
+ "organisation": "Shopify Rebellion",
+ "noms": [
+  "shopify rebellion"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#99EB00",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#99EB00",
+  "secondaire": "#00A8EC",
+  "confiance": "moyenne",
+  "source": "https://shopifyrebellion.gg/",
+  "site": "https://shopifyrebellion.gg",
+  "note": "Vert lime dominant (accent du thème), bleu en accent secondaire."
+ },
+ "equipes": [
+  {
+   "id": 128903,
+   "nom": "Shopify Rebellion",
+   "sigle": "SR",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128903/391px_shopify_rebellion_2021_lightmode.png",
+   "pays": "CA",
+   "couleur_logo": null
+  },
+  {
+   "id": 136374,
+   "nom": "Shopify Rebellion",
+   "sigle": "SR",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136374/600px_shopify_rebellion.png",
+   "pays": "CA",
+   "couleur_logo": null
+  }
+ ]
+}

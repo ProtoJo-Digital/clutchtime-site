@@ -1,0 +1,28 @@
+{
+ "organisation": "Mate y Tapa",
+ "noms": [
+  "mate y tapa"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe Rocket League sans site propre ; effectif signé par PCS Stride (Project Conquerors) en 2026."
+ },
+ "equipes": [
+  {
+   "id": 138814,
+   "nom": "Mate y Tapa",
+   "sigle": "MYT",
+   "jeu": "rl",
+   "logo": null,
+   "pays": "ES",
+   "couleur_logo": null
+  }
+ ]
+}

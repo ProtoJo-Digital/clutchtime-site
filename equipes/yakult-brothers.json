@@ -1,0 +1,28 @@
+{
+ "organisation": "Yakult Brothers",
+ "noms": [
+  "yakult brothers"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#BF1B21",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe Dota 2 chinoise (renommée Yakutou Brothers pour TI), aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 135697,
+   "nom": "Yakult Brothers",
+   "sigle": "YB",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135697/yakult_brothers_lightmode.png",
+   "pays": "CN",
+   "couleur_logo": "#BF1B21"
+  }
+ ]
+}

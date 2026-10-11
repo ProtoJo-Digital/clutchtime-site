@@ -1,0 +1,38 @@
+{
+ "organisation": "Wildcard",
+ "noms": [
+  "wildcard",
+  "wildcard gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#0C2A5B",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#FE273C",
+  "secondaire": "#21ACF9",
+  "confiance": "faible",
+  "source": "https://www.wildcard.gg/",
+  "site": "https://www.wildcard.gg/",
+  "note": "? Site Webflow (encore du texte de modèle). Rouge #FE273C et bleu #21ACF9 présents (liens, états de match), mais rien ne prouve que ce soient les couleurs de marque."
+ },
+ "equipes": [
+  {
+   "id": 136290,
+   "nom": "Wildcard",
+   "sigle": "WC",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136290/600px_wildcard_2024_full_lightmode.png",
+   "pays": "",
+   "couleur_logo": "#0C2A5B"
+  },
+  {
+   "id": 126938,
+   "nom": "Wildcard Gaming",
+   "sigle": "WCG",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126938/173px_wildcard_2024_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#21A9F5"
+  }
+ ]
+}

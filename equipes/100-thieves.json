@@ -1,0 +1,37 @@
+{
+ "organisation": "100 Thieves",
+ "noms": [
+  "100 thieves"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EA3131",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#EA3131",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://100thieves.com/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 128605,
+   "nom": "100 Thieves",
+   "sigle": "100T",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128605/764px_100_thieves_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#EC3232"
+  },
+  {
+   "id": 138397,
+   "nom": "100 Thieves",
+   "sigle": "100T",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138397/763px_100_thieves_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#EF3231"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Heretics",
+ "noms": [
+  "heretics"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": "#C1AF71",
+  "secondaire": "#000000",
+  "confiance": "faible",
+  "source": "https://teamheretics.com/es/themes/webimpacto_child/assets/cache/theme-f21aa12517.css",
+  "site": "https://teamheretics.com/",
+  "note": "? Doré #C1AF71 = couleur personnalisée la plus fréquente du CSS boutique. Sponsor de paris : Winamax (logo dans le pied de page)."
+ },
+ "equipes": [
+  {
+   "id": 127903,
+   "nom": "Heretics",
+   "sigle": "Heretics",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/127903/900px_team_heretics_2020_lightmode.png",
+   "pays": "ES",
+   "couleur_logo": null
+  }
+ ]
+}

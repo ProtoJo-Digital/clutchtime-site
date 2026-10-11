@@ -1,0 +1,29 @@
+{
+ "organisation": "Weibo Gaming",
+ "noms": [
+  "weibo",
+  "weibo gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EA1F35",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Pas de site propre (Liquipedia renvoie vers weibo.com ; wbg.gg sans rapport)."
+ },
+ "equipes": [
+  {
+   "id": 137196,
+   "nom": "Weibo Gaming",
+   "sigle": "WBG",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/137196/900px_weibo_gaming_full_lightmode.png",
+   "pays": "CN",
+   "couleur_logo": "#EA1F35"
+  }
+ ]
+}

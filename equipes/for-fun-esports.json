@@ -1,0 +1,29 @@
+{
+ "organisation": "For Fun Esports",
+ "noms": [
+  "for fun",
+  "for fun esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#C044EB",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "https://forfunesports.com/",
+  "note": "Site officiel uniquement en gris (theme-color #969696) ; aucune couleur de marque."
+ },
+ "equipes": [
+  {
+   "id": 138785,
+   "nom": "For Fun Esports",
+   "sigle": "FF",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138785/for_fun_esports_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#C044EB"
+  }
+ ]
+}

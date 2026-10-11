@@ -1,0 +1,38 @@
+{
+ "organisation": "LGD Gaming",
+ "noms": [
+  "lgd",
+  "lgd gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#083782",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Aucun site officiel trouvé (communication via Weibo/X)."
+ },
+ "equipes": [
+  {
+   "id": 408,
+   "nom": "LGD Gaming",
+   "sigle": "LGD",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/408/lgd_gaminglogo_square.png",
+   "pays": "CN",
+   "couleur_logo": "#083782"
+  },
+  {
+   "id": 1657,
+   "nom": "LGD Gaming",
+   "sigle": "LGD",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1657/600px_lgd_gaming_dec_2019_allmode.png",
+   "pays": "CN",
+   "couleur_logo": "#2B5FA8"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "FlyQuest",
+ "noms": [
+  "flyquest"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#00AA55",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#00AA55",
+  "secondaire": "#000000",
+  "confiance": "moyenne",
+  "source": "https://flyquest.gg/",
+  "site": "https://flyquest.gg/",
+  "note": "Variable --COLOR-ACCENT du site (boutique Shopify) ; vert #108474 aussi présent. Rebrand 2021 : vert émeraude et blanc."
+ },
+ "equipes": [
+  {
+   "id": 311,
+   "nom": "FlyQuest",
+   "sigle": "FLY",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/311/fly_questlogo_square.png",
+   "pays": "US",
+   "couleur_logo": "#0B8B4E"
+  }
+ ]
+}

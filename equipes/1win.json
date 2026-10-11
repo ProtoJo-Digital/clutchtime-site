@@ -1,0 +1,28 @@
+{
+ "organisation": "1win",
+ "noms": [
+  "1win"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "MARQUE DE PARIS (bookmaker 1win) propriétaire de l'équipe. 1win.team est le programme d'affiliation du bookmaker, pas le site de l'équipe ; aucune charte trouvée."
+ },
+ "equipes": [
+  {
+   "id": 134536,
+   "nom": "1win",
+   "sigle": "1WIN",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134536/800px_1win_team_2024_allmode.png",
+   "pays": "RU",
+   "couleur_logo": null
+  }
+ ]
+}

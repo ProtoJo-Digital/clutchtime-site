@@ -1,0 +1,38 @@
+{
+ "organisation": "BetBoom Team",
+ "noms": [
+  "betboom",
+  "betboom team"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF4655",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FF4655",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://betboom.team/",
+  "site": "https://betboom.team/",
+  "note": "MARQUE DE PARIS (bookmaker BetBoom). Rouge très dominant (107 occurrences) dans le HTML du site officiel."
+ },
+ "equipes": [
+  {
+   "id": 133458,
+   "nom": "BetBoom Team",
+   "sigle": "BB",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133458/bet_boom_team_2024_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#FF4756"
+  },
+  {
+   "id": 130768,
+   "nom": "BetBoom Team",
+   "sigle": "BB",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/130768/bet_boom_team_2024_allmode.png",
+   "pays": "RU",
+   "couleur_logo": "#FF4756"
+  }
+ ]
+}

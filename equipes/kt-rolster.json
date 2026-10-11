@@ -1,0 +1,28 @@
+{
+ "organisation": "KT Rolster",
+ "noms": [
+  "kt rolster"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FD0F0C",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#EC1F27",
+  "secondaire": null,
+  "confiance": "faible",
+  "source": "https://www.kt-sports.co.kr/sports/site/esports/rolster/bi.do",
+  "site": "https://www.kt-sports.co.kr/sports/site/esports/rolster/bi.do",
+  "note": "? Page BI officielle avec emblème téléchargeable (PNG/AI) mais sans code couleur ; rouge #EC1F27 présent une fois sur la page."
+ },
+ "equipes": [
+  {
+   "id": 63,
+   "nom": "KT Rolster",
+   "sigle": "KT",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/63/kt_rolsterlogo_profile.png",
+   "pays": "KR",
+   "couleur_logo": "#FD0F0C"
+  }
+ ]
+}

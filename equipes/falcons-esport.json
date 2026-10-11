@@ -1,0 +1,28 @@
+{
+ "organisation": "Falcons Esport",
+ "noms": [
+  "falcons esport"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#01C06F",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Aucune organisation distincte trouvée : « Falcons Esports » est l'ancien nom de Team Falcons (jusqu'à fin 2022). Possible doublon à vérifier."
+ },
+ "equipes": [
+  {
+   "id": 131551,
+   "nom": "Falcons Esport",
+   "sigle": "FLCS",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/131551/team_falconslogo_square.png",
+   "pays": "SA",
+   "couleur_logo": "#01C06F"
+  }
+ ]
+}

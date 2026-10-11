@@ -1,0 +1,21 @@
+{
+ "organisation": "MIBR.LOS",
+ "noms": [
+  "mibr.los"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#C75843",
+ "origine": "logo",
+ "officielle": null,
+ "equipes": [
+  {
+   "id": 139050,
+   "nom": "MIBR.LOS",
+   "sigle": "MIBR.LOS",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/139050/600px_mibr_los_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#C75843"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Crazy Raccoon",
+ "noms": [
+  "crazy raccoon"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#E11919",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#E11919",
+  "secondaire": "#111111",
+  "confiance": "moyenne",
+  "source": "https://crazyraccoon.jp/wp/wp-content/themes/cr_theme_2025/assets/css/style.css",
+  "site": "https://crazyraccoon.jp/",
+  "note": "Variable --red du thème officiel (variante #E11939 aussi présente)."
+ },
+ "equipes": [
+  {
+   "id": 134817,
+   "nom": "Crazy Raccoon",
+   "sigle": "CR",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134817/600px_crazy_raccoon_2021_allmode.png",
+   "pays": "KR",
+   "couleur_logo": "#952026"
+  }
+ ]
+}

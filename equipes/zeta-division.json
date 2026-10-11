@@ -1,0 +1,28 @@
+{
+ "organisation": "ZETA DIVISION",
+ "noms": [
+  "zeta division"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#CEFF00",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#CEFF00",
+  "secondaire": "#040000",
+  "confiance": "moyenne",
+  "source": "https://zetadivision.com/",
+  "site": "https://zetadivision.com/",
+  "note": "Jaune-vert fluo #CEFF00 très dominant dans le CSS (114 occurrences), sur fond noir. Le site annonce une nouvelle couleur (« CLEARLY BOLD. NEW COLOR. »). Le meta theme-color #FFFFFF n'est pas retenu. Aucun parieur repéré."
+ },
+ "equipes": [
+  {
+   "id": 135271,
+   "nom": "ZETA DIVISION",
+   "sigle": "ZETA",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135271/285px_zeta_division_lightmode.png",
+   "pays": "JP",
+   "couleur_logo": null
+  }
+ ]
+}

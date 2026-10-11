@@ -1,0 +1,28 @@
+{
+ "organisation": "The Kafe",
+ "noms": [
+  "the kafe"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#55A6F5",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe non identifiée, aucun site officiel trouvé."
+ },
+ "equipes": [
+  {
+   "id": 138798,
+   "nom": "The Kafe",
+   "sigle": "KAFE",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138798/the_kafe_2026_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#55A6F5"
+  }
+ ]
+}

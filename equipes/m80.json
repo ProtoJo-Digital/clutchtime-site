@@ -1,0 +1,28 @@
+{
+ "organisation": "M80",
+ "noms": [
+  "m80"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#D6FF01",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#D6FF01",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://m80.gg/",
+  "site": "https://m80.gg/",
+  "note": "meta theme-color = #D6FF01 (jaune-vert acide). Pas de kit presse accessible."
+ },
+ "equipes": [
+  {
+   "id": 132749,
+   "nom": "M80",
+   "sigle": "M80",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132749/788px_m80_2023_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#B5D105"
+  }
+ ]
+}

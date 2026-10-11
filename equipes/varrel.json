@@ -1,0 +1,28 @@
+{
+ "organisation": "VARREL",
+ "noms": [
+  "varrel"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#B89F75",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": "https://varrel.jp/",
+  "site": "https://varrel.jp/",
+  "note": "Site officiel trouvé mais le CSS ne contient que les couleurs par défaut de WordPress ; aucune couleur de marque identifiable. Sponsors visibles : American Express, ROG, Bic Camera, etc. Aucun parieur."
+ },
+ "equipes": [
+  {
+   "id": 134818,
+   "nom": "VARREL",
+   "sigle": "VAR",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134818/600px_varrel_2026_full_allmode.png",
+   "pays": "JP",
+   "couleur_logo": "#B89F75"
+  }
+ ]
+}

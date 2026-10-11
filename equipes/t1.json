@@ -1,0 +1,37 @@
+{
+ "organisation": "T1",
+ "noms": [
+  "t1"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#E2012D",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#E2012D",
+  "secondaire": "#000000",
+  "confiance": "moyenne",
+  "source": "https://www.t1.gg/",
+  "site": "https://www.t1.gg",
+  "note": "Seule couleur personnalisée du CSS du site (survol des liens), rouge T1."
+ },
+ "equipes": [
+  {
+   "id": 128647,
+   "nom": "T1",
+   "sigle": "T1",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128647/600px_t1_infoboximage.png",
+   "pays": "US",
+   "couleur_logo": "#E5012D"
+  },
+  {
+   "id": 129810,
+   "nom": "T1",
+   "sigle": "T1",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/129810/600px_t1_2019_allmode.png",
+   "pays": "KR",
+   "couleur_logo": "#E5012D"
+  }
+ ]
+}

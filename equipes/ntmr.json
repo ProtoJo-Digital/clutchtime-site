@@ -1,0 +1,28 @@
+{
+ "organisation": "NTMR",
+ "noms": [
+  "ntmr"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FF00F1",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FF00F1",
+  "secondaire": "#A651FF",
+  "confiance": "moyenne",
+  "source": "https://www.ntmr.org/",
+  "site": "https://www.ntmr.org",
+  "note": "Magenta très dominant dans le HTML du site (NTMR Gaming)."
+ },
+ "equipes": [
+  {
+   "id": 135272,
+   "nom": "NTMR",
+   "sigle": "NTMR",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135272/900px_ntmr_2025_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#573DA6"
+  }
+ ]
+}

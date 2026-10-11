@@ -1,0 +1,29 @@
+{
+ "organisation": "Team WE",
+ "noms": [
+  "team we",
+  "we"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#E62125",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": "http://www.teamwe.com/",
+  "note": "Site indiqué par Liquipedia (teamwe.com) injoignable. Aucune charte trouvée."
+ },
+ "equipes": [
+  {
+   "id": 2574,
+   "nom": "Team WE",
+   "sigle": "WE",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png",
+   "pays": "CN",
+   "couleur_logo": "#E62125"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Legacy",
+ "noms": [
+  "legacy"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FDCB00",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Nom ambigu (Legacy Brésil CS2, compte X @legacyggbr, ou Legacy Esports Australie legacyesports.com.au). Site du Legacy brésilien introuvable."
+ },
+ "equipes": [
+  {
+   "id": 133708,
+   "nom": "Legacy",
+   "sigle": "LGC",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/133708/593px_legacy_allmode.png",
+   "pays": "BR",
+   "couleur_logo": "#FDCB00"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "organisation": "Virtus.pro",
+ "noms": [
+  "virtus.pro"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#FE5000",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#FE5000",
+  "secondaire": "#FFA829",
+  "confiance": "moyenne",
+  "source": "https://virtus.pro/",
+  "site": "https://virtus.pro/",
+  "note": "Orange #FE5000 (couleur VP) dominant dans les dégradés du site, avec #FFA829. Variable --accent #AC182C présente mais secondaire. Pas de brandbook public (/brandbook en 404). Winline et Thunderpick n'apparaissent que comme noms de tournois, pas comme sponsors."
+ },
+ "equipes": [
+  {
+   "id": 136973,
+   "nom": "Virtus.pro",
+   "sigle": "VP",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136973/600px_virtus.pro_2019_allmode.png",
+   "pays": "AM",
+   "couleur_logo": "#BE4510"
+  },
+  {
+   "id": 135135,
+   "nom": "Virtus.pro",
+   "sigle": "VP",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135135/600px_virtus.pro_2019_allmode.png",
+   "pays": "AM",
+   "couleur_logo": "#BE4510"
+  },
+  {
+   "id": 127445,
+   "nom": "Virtus.pro",
+   "sigle": "VP",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/127445/600px_virtus.pro_2019.png",
+   "pays": "RU",
+   "couleur_logo": "#BE4511"
+  }
+ ]
+}

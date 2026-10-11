@@ -1,0 +1,37 @@
+{
+ "organisation": "Cloud9",
+ "noms": [
+  "cloud9"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#00AEEF",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#00AEEF",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://cloud9.gg/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 1097,
+   "nom": "Cloud9",
+   "sigle": "C9",
+   "jeu": "lol",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1097/cloud9-gnd9b0gn.png",
+   "pays": "US",
+   "couleur_logo": "#2192D2"
+  },
+  {
+   "id": 127217,
+   "nom": "Cloud9",
+   "sigle": "C9",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/127217/320px_cloud9.png",
+   "pays": "US",
+   "couleur_logo": "#2598D4"
+  }
+ ]
+}

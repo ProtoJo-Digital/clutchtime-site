@@ -1,0 +1,28 @@
+{
+ "organisation": "TSM",
+ "noms": [
+  "tsm"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": "#000000",
+  "secondaire": "#FFFFFF",
+  "confiance": "faible",
+  "source": "https://tsmshop.com/",
+  "site": "https://tsm.gg/",
+  "note": "? tsm.gg redirige vers la boutique tsmshop.com ; uniquement noir/blanc (identité monochrome). Pas de charte publique trouvée."
+ },
+ "equipes": [
+  {
+   "id": 138103,
+   "nom": "TSM",
+   "sigle": "TSM",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/138103/900px_tsm_2019_lightmode.png",
+   "pays": "US",
+   "couleur_logo": null
+  }
+ ]
+}

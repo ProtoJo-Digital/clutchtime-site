@@ -1,0 +1,38 @@
+{
+ "organisation": "Spirit",
+ "noms": [
+  "spirit",
+  "team spirit"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": "https://teamspirit.gg/",
+  "site": "https://teamspirit.gg",
+  "note": "Site en application JS sans couleur de marque lisible ; identité perçue noir/blanc non confirmée."
+ },
+ "equipes": [
+  {
+   "id": 124523,
+   "nom": "Spirit",
+   "sigle": "TS",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/124523/153px_team_spirit_2022_lightmode.png",
+   "pays": "RU",
+   "couleur_logo": null
+  },
+  {
+   "id": 1669,
+   "nom": "Team Spirit",
+   "sigle": "TS",
+   "jeu": "dota2",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/1669/153px_team_spirit_2022_lightmode.png",
+   "pays": "RU",
+   "couleur_logo": null
+  }
+ ]
+}

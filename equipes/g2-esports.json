@@ -1,0 +1,38 @@
+{
+ "organisation": "G2 Esports",
+ "noms": [
+  "g2",
+  "g2 esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#ED2025",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#ED2025",
+  "secondaire": null,
+  "confiance": "moyenne",
+  "source": "https://g2esports.com/",
+  "site": null,
+  "note": "vérifiée le 11 octobre 2026"
+ },
+ "equipes": [
+  {
+   "id": 128538,
+   "nom": "G2 Esports",
+   "sigle": "G2",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128538/900px_g2_esports_2019.png",
+   "pays": "DE",
+   "couleur_logo": null
+  },
+  {
+   "id": 126940,
+   "nom": "G2 Esports",
+   "sigle": "G2",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126940/600px_g2_esports_2019.png",
+   "pays": "DE",
+   "couleur_logo": null
+  }
+ ]
+}

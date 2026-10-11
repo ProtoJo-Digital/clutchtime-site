@@ -1,0 +1,47 @@
+{
+ "organisation": "Spacestation Gaming",
+ "noms": [
+  "spacestation",
+  "spacestation gaming"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#BE8D1D",
+ "origine": "logo",
+ "officielle": {
+  "couleur": "#F4B221",
+  "secondaire": "#F09E2C",
+  "confiance": "faible",
+  "source": "https://www.spacestationgaming.com/",
+  "site": "https://www.spacestationgaming.com",
+  "note": "? Plusieurs ors/oranges proches (#F4B221, #F09E2C, #E49D00) sur le site, sans couleur clairement définie."
+ },
+ "equipes": [
+  {
+   "id": 126303,
+   "nom": "Spacestation Gaming",
+   "sigle": "SSG",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126303/492px_spacestation_gaming_2023_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#BE8D1D"
+  },
+  {
+   "id": 134624,
+   "nom": "Spacestation Gaming",
+   "sigle": "SSG",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134624/190px_spacestation_gaming_2021_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#BC8D26"
+  },
+  {
+   "id": 126932,
+   "nom": "Spacestation Gaming",
+   "sigle": "SSG",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126932/252px_spacestation_gaming_2021_allmode.png",
+   "pays": "US",
+   "couleur_logo": "#BC8D27"
+  }
+ ]
+}

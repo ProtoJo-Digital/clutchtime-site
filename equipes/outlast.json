@@ -1,0 +1,28 @@
+{
+ "organisation": "Outlast",
+ "noms": [
+  "outlast"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#451D74",
+ "origine": "logo",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Organisation nord-américaine (R6), aucun site officiel trouvé (outlast.gg injoignable, outlast.org à vendre)."
+ },
+ "equipes": [
+  {
+   "id": 135499,
+   "nom": "Outlast",
+   "sigle": "OL",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/135499/600px_outlast_2024_lightmode.png",
+   "pays": "US",
+   "couleur_logo": "#451D74"
+  }
+ ]
+}

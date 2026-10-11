@@ -1,0 +1,47 @@
+{
+ "organisation": "Falcons",
+ "noms": [
+  "falcons",
+  "team falcons"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#01BE6E",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#01BE6E",
+  "secondaire": "#0A1014",
+  "confiance": "moyenne",
+  "source": "https://www.teamfalcons.sa/",
+  "site": "https://www.teamfalcons.sa/",
+  "note": "meta theme-color et variable --primary-green du site officiel ; vert très dominant (340 occurrences)."
+ },
+ "equipes": [
+  {
+   "id": 134476,
+   "nom": "Falcons",
+   "sigle": "FAL",
+   "jeu": "ow",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/134476/285px_team_falcons_2022_allmode.png",
+   "pays": "SA",
+   "couleur_logo": "#01C06F"
+  },
+  {
+   "id": 130564,
+   "nom": "Team Falcons",
+   "sigle": "FAL",
+   "jeu": "csgo",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/130564/team_falconslogo_square.png",
+   "pays": "SA",
+   "couleur_logo": "#01C06F"
+  },
+  {
+   "id": 131231,
+   "nom": "Team Falcons",
+   "sigle": "FLCN",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/131231/team_falconslogo_square.png",
+   "pays": "SA",
+   "couleur_logo": "#01C06F"
+  }
+ ]
+}

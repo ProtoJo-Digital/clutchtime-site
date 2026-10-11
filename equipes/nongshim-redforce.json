@@ -1,0 +1,28 @@
+{
+ "organisation": "Nongshim RedForce",
+ "noms": [
+  "nongshim redforce"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EC1C24",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#EC1C24",
+  "secondaire": "#CC8F37",
+  "confiance": "moyenne",
+  "source": "https://ns-esports.com/theme/responsive_ns-esports/css/default.css",
+  "site": "https://ns-esports.com",
+  "note": "Variables CSS --main-color (rouge) et --main-gold (or)."
+ },
+ "equipes": [
+  {
+   "id": 132692,
+   "nom": "Nongshim RedForce",
+   "sigle": "NS",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/132692/nongshim_red_forcelogo_square.png",
+   "pays": "KR",
+   "couleur_logo": "#D42229"
+  }
+ ]
+}

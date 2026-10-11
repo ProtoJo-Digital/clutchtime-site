@@ -1,0 +1,38 @@
+{
+ "organisation": "FUT Esports",
+ "noms": [
+  "fut",
+  "fut esports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#ED1A3A",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#ED1A3A",
+  "secondaire": "#1A1F2E",
+  "confiance": "moyenne",
+  "source": "https://futesports.gg/",
+  "site": "https://futesports.gg/",
+  "note": "Variables CSS --brand-red et --brand-dark du site officiel (ex-Futbolist)."
+ },
+ "equipes": [
+  {
+   "id": 128578,
+   "nom": "FUT Esports",
+   "sigle": "FUT",
+   "jeu": "valorant",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/128578/600px_futbolist_new_logo_2021_infobox.png",
+   "pays": "TR",
+   "couleur_logo": null
+  },
+  {
+   "id": 136678,
+   "nom": "FUT Esports",
+   "sigle": "FUT",
+   "jeu": "rl",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/136678/473px_futbolist_2021_lightmode.png",
+   "pays": "TR",
+   "couleur_logo": "#F4193A"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "organisation": "Bigodes",
+ "noms": [
+  "bigodes"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": null,
+ "origine": "aucune",
+ "officielle": {
+  "couleur": null,
+  "secondaire": null,
+  "confiance": "non vérifié",
+  "source": null,
+  "site": null,
+  "note": "Équipe Rocket League brésilienne ; aucun site officiel trouvé (bigodes.com.br est un domaine parqué)."
+ },
+ "equipes": [
+  {
+   "id": 139173,
+   "nom": "Bigodes",
+   "sigle": null,
+   "jeu": "rl",
+   "logo": null,
+   "pays": "BR",
+   "couleur_logo": null
+  }
+ ]
+}

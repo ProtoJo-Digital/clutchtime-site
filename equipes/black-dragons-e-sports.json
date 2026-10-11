@@ -1,0 +1,29 @@
+{
+ "organisation": "Black Dragons e-Sports",
+ "noms": [
+  "black dragons",
+  "black dragons e-sports"
+ ],
+ "maj": "2026-10-11",
+ "couleur_affichee": "#EEFF04",
+ "origine": "officielle",
+ "officielle": {
+  "couleur": "#EEFF04",
+  "secondaire": "#141414",
+  "confiance": "moyenne",
+  "source": "https://www.blackdragons.com.br/",
+  "site": "https://www.blackdragons.com.br/",
+  "note": "Jaune fluo et noir dominants dans le CSS du site officiel (20 occurrences chacun) ; theme-color #121212."
+ },
+ "equipes": [
+  {
+   "id": 126985,
+   "nom": "Black Dragons e-Sports",
+   "sigle": "BD",
+   "jeu": "r6siege",
+   "logo": "https://cdn-api.pandascore.co/images/team/image/126985/900px_black_dragons_2025_lightmode.png",
+   "pays": "BR",
+   "couleur_logo": null
+  }
+ ]
+}

@@ -1,17 +1,713 @@
 {
-  "maj": "2026-10-11",
-  "explication": "Couleurs officielles des organisations e-sport : charte ou kit de marque officiel quand il existe (confiance élevée), sinon couleur principale du site officiel (moyenne). Une équipe absente garde la couleur tirée de son logo. L'app prend la couleur secondaire quand la principale est presque noire ou presque blanche. Noms en minuscules, sans accents.",
-  "equipes": [
-    { "noms": ["team liquid", "liquid"], "couleur": "#001538", "secondaire": "#3BB0D4", "confiance": "élevée", "source": "https://teamliquid.com/brand-kit" },
-    { "noms": ["gen.g", "geng", "gen.g esports"], "couleur": "#AA8A00", "secondaire": "#CD2E3A", "confiance": "élevée", "source": "https://geng.gg/cdn/shop/t/2/assets/Gen.G_2023_Brand_Guidelines.pdf" },
-    { "noms": ["sk gaming", "sk"], "couleur": "#19005A", "secondaire": "#6900E1", "confiance": "élevée", "source": "https://www.sk-gaming.com/hubfs/Content/Brand/SKG004_221017_Brand_Design_Guidelines_short.pdf" },
-    { "noms": ["vitality", "team vitality"], "couleur": "#FAE100", "confiance": "moyenne", "source": "https://vitality.gg/" },
-    { "noms": ["g2 esports", "g2"], "couleur": "#ED2025", "confiance": "moyenne", "source": "https://g2esports.com/" },
-    { "noms": ["fnatic"], "couleur": "#FF5900", "confiance": "moyenne", "source": "https://fnatic.com/" },
-    { "noms": ["natus vincere", "navi"], "couleur": "#FFEE00", "secondaire": "#F6341E", "confiance": "moyenne", "source": "https://navi.gg/" },
-    { "noms": ["faze clan", "faze"], "couleur": "#E43D30", "confiance": "moyenne", "source": "https://fazeclan.com/" },
-    { "noms": ["100 thieves"], "couleur": "#EA3131", "confiance": "moyenne", "source": "https://100thieves.com/" },
-    { "noms": ["cloud9", "cloud 9"], "couleur": "#00AEEF", "confiance": "moyenne", "source": "https://cloud9.gg/" },
-    { "noms": ["solary"], "couleur": "#1F44EA", "confiance": "moyenne", "source": "https://www.solary.fr/" }
-  ]
+ "maj": "2026-10-11",
+ "explication": "Couleur à afficher par organisation e-sport : officielle (charte, kit presse ou site officiel, confiance élevée ou moyenne), sinon tirée du logo. Détail et sources : dossier equipes/. Noms en minuscules, sans accents.",
+ "equipes": [
+  {
+   "noms": [
+    "100 thieves"
+   ],
+   "couleur": "#EA3131",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://100thieves.com/"
+  },
+  {
+   "noms": [
+    "9z"
+   ],
+   "couleur": "#7234FF",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://9z.gg/assets/index-B9DoHTOx.css"
+  },
+  {
+   "noms": [
+    "aurora",
+    "aurora gaming"
+   ],
+   "couleur": "#0FC8BD",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "betboom",
+    "betboom team"
+   ],
+   "couleur": "#FF4655",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://betboom.team/"
+  },
+  {
+   "noms": [
+    "black dragons",
+    "black dragons e-sports"
+   ],
+   "couleur": "#EEFF04",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.blackdragons.com.br/"
+  },
+  {
+   "noms": [
+    "cloud9"
+   ],
+   "couleur": "#00AEEF",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://cloud9.gg/"
+  },
+  {
+   "noms": [
+    "crazy raccoon"
+   ],
+   "couleur": "#E11919",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://crazyraccoon.jp/wp/wp-content/themes/cr_theme_2025/assets/css/style.css"
+  },
+  {
+   "noms": [
+    "dallas fuel"
+   ],
+   "couleur": "#0073D1",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "darkzero",
+    "darkzero esports"
+   ],
+   "couleur": "#5F1A90",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "disguised"
+   ],
+   "couleur": "#FAB450",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "edward",
+    "edward gaming"
+   ],
+   "couleur": "#B10000",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.edgteam.cn/assets/index-D1PbLDZ_.css"
+  },
+  {
+   "noms": [
+    "falcons",
+    "team falcons"
+   ],
+   "couleur": "#01BE6E",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.teamfalcons.sa/"
+  },
+  {
+   "noms": [
+    "falcons esport"
+   ],
+   "couleur": "#01C06F",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "faze clan"
+   ],
+   "couleur": "#E43D30",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://fazeclan.com/"
+  },
+  {
+   "noms": [
+    "five fears"
+   ],
+   "couleur": "#0077B7",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "fluxo w7m"
+   ],
+   "couleur": "#4C007D",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "flyquest"
+   ],
+   "couleur": "#00AA55",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://flyquest.gg/"
+  },
+  {
+   "noms": [
+    "fnatic"
+   ],
+   "couleur": "#FF5900",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://fnatic.com/"
+  },
+  {
+   "noms": [
+    "for fun",
+    "for fun esports"
+   ],
+   "couleur": "#C044EB",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "fut",
+    "fut esports"
+   ],
+   "couleur": "#ED1A3A",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://futesports.gg/"
+  },
+  {
+   "noms": [
+    "g2",
+    "g2 esports"
+   ],
+   "couleur": "#ED2025",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://g2esports.com/"
+  },
+  {
+   "noms": [
+    "gamerlegion"
+   ],
+   "couleur": "#EACA92",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.gamerlegion.gg/"
+  },
+  {
+   "noms": [
+    "geekay",
+    "geekay esports"
+   ],
+   "couleur": "#FFC400",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.geekayesports.com/"
+  },
+  {
+   "noms": [
+    "global",
+    "global esports"
+   ],
+   "couleur": "#4069A8",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "hanjin brion"
+   ],
+   "couleur": "#004C29",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "imperial",
+    "imperial esports"
+   ],
+   "couleur": "#0CD664",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://imperialesports.gg/"
+  },
+  {
+   "noms": [
+    "intz"
+   ],
+   "couleur": "#721554",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "jd",
+    "jd gaming"
+   ],
+   "couleur": "#C9102E",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "kt rolster"
+   ],
+   "couleur": "#FD0F0C",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "legacy"
+   ],
+   "couleur": "#FDCB00",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "level up"
+   ],
+   "couleur": "#14759B",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "lgd",
+    "lgd gaming"
+   ],
+   "couleur": "#083782",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "los"
+   ],
+   "couleur": "#FF5B00",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "loud"
+   ],
+   "couleur": "#00FF3B",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://loud.gg/"
+  },
+  {
+   "noms": [
+    "lyon"
+   ],
+   "couleur": "#B59A75",
+   "origine": "officielle",
+   "confiance": "élevée",
+   "source": "https://lyon.gg/#mediakit"
+  },
+  {
+   "noms": [
+    "m80"
+   ],
+   "couleur": "#D6FF01",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://m80.gg/"
+  },
+  {
+   "noms": [
+    "manchester city",
+    "manchester city esports"
+   ],
+   "couleur": "#6CADDE",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.mancity.com/esports"
+  },
+  {
+   "noms": [
+    "mibr.los"
+   ],
+   "couleur": "#C75843",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "mouz"
+   ],
+   "couleur": "#FF0000",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://mousesports.com/wp-content/uploads/2021/09/logo-mouz-header.svg"
+  },
+  {
+   "noms": [
+    "mvk",
+    "mvk esports"
+   ],
+   "couleur": "#FE5A00",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "natus vincere"
+   ],
+   "couleur": "#FFEE00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://navi.gg/"
+  },
+  {
+   "noms": [
+    "ninjas in pyjamas"
+   ],
+   "couleur": "#D8FF00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://nip.gl/cdn/shop/t/21/assets/theme.css"
+  },
+  {
+   "noms": [
+    "nip"
+   ],
+   "couleur": "#D8FF00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://nip.gl/cdn/shop/t/21/assets/theme.css"
+  },
+  {
+   "noms": [
+    "nip.estar"
+   ],
+   "couleur": "#D8FF00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://nip.gl/cdn/shop/t/21/assets/theme.css"
+  },
+  {
+   "noms": [
+    "nongshim redforce"
+   ],
+   "couleur": "#EC1C24",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://ns-esports.com/theme/responsive_ns-esports/css/default.css"
+  },
+  {
+   "noms": [
+    "nrg",
+    "nrg esports"
+   ],
+   "couleur": "#F63D0A",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://nrg.gg/"
+  },
+  {
+   "noms": [
+    "ntmr"
+   ],
+   "couleur": "#FF00F1",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.ntmr.org/"
+  },
+  {
+   "noms": [
+    "og"
+   ],
+   "couleur": "#14746B",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "outlast"
+   ],
+   "couleur": "#451D74",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "parivision"
+   ],
+   "couleur": "#2FFFE8",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://parivision.gg/local/templates/pv2026/css/tokens.css"
+  },
+  {
+   "noms": [
+    "r8",
+    "r8 esports"
+   ],
+   "couleur": "#40ABF8",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "rebels",
+    "rebels gaming"
+   ],
+   "couleur": "#FF0F26",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "shifters"
+   ],
+   "couleur": "#FD4846",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://shifters.gg/"
+  },
+  {
+   "noms": [
+    "shopify rebellion"
+   ],
+   "couleur": "#99EB00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://shopifyrebellion.gg/"
+  },
+  {
+   "noms": [
+    "spacestation",
+    "spacestation gaming"
+   ],
+   "couleur": "#BE8D1D",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "t1"
+   ],
+   "couleur": "#E2012D",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.t1.gg/"
+  },
+  {
+   "noms": [
+    "liquid",
+    "team liquid"
+   ],
+   "couleur": "#3BB0D4",
+   "origine": "officielle",
+   "confiance": "élevée",
+   "source": "https://teamliquid.com/brand-kit"
+  },
+  {
+   "noms": [
+    "nemesis",
+    "team nemesis"
+   ],
+   "couleur": "#896AFD",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://nmss.gg/"
+  },
+  {
+   "noms": [
+    "peps",
+    "team peps"
+   ],
+   "couleur": "#EEC932",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://teampeps.fr/"
+  },
+  {
+   "noms": [
+    "team vitality",
+    "vitality"
+   ],
+   "couleur": "#FAE100",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://vitality.gg/"
+  },
+  {
+   "noms": [
+    "team we",
+    "we"
+   ],
+   "couleur": "#E62125",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "team yandex",
+    "yandex"
+   ],
+   "couleur": "#9C0914",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "the kafe"
+   ],
+   "couleur": "#55A6F5",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "twisted minds"
+   ],
+   "couleur": "#B6374D",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "tyloo"
+   ],
+   "couleur": "#8F2C29",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "varrel"
+   ],
+   "couleur": "#B89F75",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "virtus.pro"
+   ],
+   "couleur": "#FE5000",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://virtus.pro/"
+  },
+  {
+   "noms": [
+    "weibo",
+    "weibo gaming"
+   ],
+   "couleur": "#EA1F35",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "wildcard",
+    "wildcard gaming"
+   ],
+   "couleur": "#0C2A5B",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "xlg",
+    "xlg gaming"
+   ],
+   "couleur": "#0385AA",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "yakult brothers"
+   ],
+   "couleur": "#BF1B21",
+   "origine": "logo",
+   "confiance": "logo",
+   "source": null
+  },
+  {
+   "noms": [
+    "zeta division"
+   ],
+   "couleur": "#CEFF00",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://zetadivision.com/"
+  },
+  {
+   "noms": [
+    "gen.g",
+    "geng",
+    "gen.g esports"
+   ],
+   "couleur": "#AA8A00",
+   "origine": "officielle",
+   "confiance": "élevée",
+   "source": "https://geng.gg/cdn/shop/t/2/assets/Gen.G_2023_Brand_Guidelines.pdf"
+  },
+  {
+   "noms": [
+    "sk gaming",
+    "sk"
+   ],
+   "couleur": "#6900E1",
+   "origine": "officielle",
+   "confiance": "élevée",
+   "source": "https://www.sk-gaming.com/hubfs/Content/Brand/SKG004_221017_Brand_Design_Guidelines_short.pdf"
+  },
+  {
+   "noms": [
+    "solary"
+   ],
+   "couleur": "#1F44EA",
+   "origine": "officielle",
+   "confiance": "moyenne",
+   "source": "https://www.solary.fr/"
+  }
+ ]
 }
