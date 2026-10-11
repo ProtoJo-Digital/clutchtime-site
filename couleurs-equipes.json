@@ -197,6 +197,7 @@
    ],
    "couleur": "#ED2025",
    "origine": "officielle",
+   "hymne": "https://www.youtube.com/watch?v=k5IlYLBCx6M",
    "confiance": "moyenne",
    "source": "https://g2esports.com/"
   },
@@ -266,6 +267,14 @@
    "origine": "logo",
    "confiance": "logo",
    "source": null
+  },
+  {
+   "noms": [
+    "karmine corp"
+   ],
+   "couleur": null,
+   "origine": "aucune",
+   "hymne": "https://open.spotify.com/album/6F7ojCV61cEoY5LAPHh60f"
   },
   {
    "noms": [
@@ -523,6 +532,7 @@
    ],
    "couleur": "#E2012D",
    "origine": "officielle",
+   "hymne": "https://open.spotify.com/playlist/37i9dQZF1DX0BcvW2psHDx",
    "confiance": "moyenne",
    "source": "https://www.t1.gg/"
   },
@@ -563,6 +573,7 @@
    ],
    "couleur": "#FAE100",
    "origine": "officielle",
+   "hymne": "https://open.spotify.com/track/2rfJ2HBOtQmfiS5sllrgpG",
    "confiance": "moyenne",
    "source": "https://vitality.gg/"
   },
