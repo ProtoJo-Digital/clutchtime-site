@@ -1,0 +1,14 @@
+{
+  "maj": "2026-10-11",
+  "explication": "Couleurs officielles des organisations e-sport, relevées sur leurs sites officiels (code des pages : couleur de thème ou couleur principale). Une équipe absente garde la couleur tirée de son logo. Noms en minuscules, sans accents.",
+  "equipes": [
+    { "noms": ["vitality", "team vitality"], "couleur": "#FAE100", "source": "https://vitality.gg/" },
+    { "noms": ["g2 esports", "g2"], "couleur": "#ED2025", "source": "https://g2esports.com/" },
+    { "noms": ["fnatic"], "couleur": "#FF5900", "source": "https://fnatic.com/" },
+    { "noms": ["natus vincere", "navi"], "couleur": "#FFEE00", "source": "https://navi.gg/" },
+    { "noms": ["faze clan", "faze"], "couleur": "#E43D30", "source": "https://fazeclan.com/" },
+    { "noms": ["cloud9", "cloud 9"], "couleur": "#00AEEF", "source": "https://cloud9.gg/" },
+    { "noms": ["solary"], "couleur": "#1F44EA", "source": "https://www.solary.fr/" },
+    { "noms": ["team liquid", "liquid"], "couleur": "#113F7F", "source": "https://www.teamliquid.com/" }
+  ]
+}
