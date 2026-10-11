@@ -1,14 +1,17 @@
 {
   "maj": "2026-10-11",
-  "explication": "Couleurs officielles des organisations e-sport, relevées sur leurs sites officiels (code des pages : couleur de thème ou couleur principale). Une équipe absente garde la couleur tirée de son logo. Noms en minuscules, sans accents.",
+  "explication": "Couleurs officielles des organisations e-sport : charte ou kit de marque officiel quand il existe (confiance élevée), sinon couleur principale du site officiel (moyenne). Une équipe absente garde la couleur tirée de son logo. L'app prend la couleur secondaire quand la principale est presque noire ou presque blanche. Noms en minuscules, sans accents.",
   "equipes": [
-    { "noms": ["vitality", "team vitality"], "couleur": "#FAE100", "source": "https://vitality.gg/" },
-    { "noms": ["g2 esports", "g2"], "couleur": "#ED2025", "source": "https://g2esports.com/" },
-    { "noms": ["fnatic"], "couleur": "#FF5900", "source": "https://fnatic.com/" },
-    { "noms": ["natus vincere", "navi"], "couleur": "#FFEE00", "source": "https://navi.gg/" },
-    { "noms": ["faze clan", "faze"], "couleur": "#E43D30", "source": "https://fazeclan.com/" },
-    { "noms": ["cloud9", "cloud 9"], "couleur": "#00AEEF", "source": "https://cloud9.gg/" },
-    { "noms": ["solary"], "couleur": "#1F44EA", "source": "https://www.solary.fr/" },
-    { "noms": ["team liquid", "liquid"], "couleur": "#113F7F", "source": "https://www.teamliquid.com/" }
+    { "noms": ["team liquid", "liquid"], "couleur": "#001538", "secondaire": "#3BB0D4", "confiance": "élevée", "source": "https://teamliquid.com/brand-kit" },
+    { "noms": ["gen.g", "geng", "gen.g esports"], "couleur": "#AA8A00", "secondaire": "#CD2E3A", "confiance": "élevée", "source": "https://geng.gg/cdn/shop/t/2/assets/Gen.G_2023_Brand_Guidelines.pdf" },
+    { "noms": ["sk gaming", "sk"], "couleur": "#19005A", "secondaire": "#6900E1", "confiance": "élevée", "source": "https://www.sk-gaming.com/hubfs/Content/Brand/SKG004_221017_Brand_Design_Guidelines_short.pdf" },
+    { "noms": ["vitality", "team vitality"], "couleur": "#FAE100", "confiance": "moyenne", "source": "https://vitality.gg/" },
+    { "noms": ["g2 esports", "g2"], "couleur": "#ED2025", "confiance": "moyenne", "source": "https://g2esports.com/" },
+    { "noms": ["fnatic"], "couleur": "#FF5900", "confiance": "moyenne", "source": "https://fnatic.com/" },
+    { "noms": ["natus vincere", "navi"], "couleur": "#FFEE00", "secondaire": "#F6341E", "confiance": "moyenne", "source": "https://navi.gg/" },
+    { "noms": ["faze clan", "faze"], "couleur": "#E43D30", "confiance": "moyenne", "source": "https://fazeclan.com/" },
+    { "noms": ["100 thieves"], "couleur": "#EA3131", "confiance": "moyenne", "source": "https://100thieves.com/" },
+    { "noms": ["cloud9", "cloud 9"], "couleur": "#00AEEF", "confiance": "moyenne", "source": "https://cloud9.gg/" },
+    { "noms": ["solary"], "couleur": "#1F44EA", "confiance": "moyenne", "source": "https://www.solary.fr/" }
   ]
 }
