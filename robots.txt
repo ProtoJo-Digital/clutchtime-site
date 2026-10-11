@@ -1,0 +1,6 @@
+# Esportly : tout le site peut être exploré, y compris par les assistants IA (choix du 11 octobre 2026 :
+# être trouvé et cité, voir base de connaissances, web/05-performance-seo.md).
+User-agent: *
+Allow: /
+
+Sitemap: https://esportly.protojo.fr/sitemap.xml
