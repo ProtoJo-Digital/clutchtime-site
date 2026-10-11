@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-drzzBKLx2/5mTRIQ+ox7LtpeQwf+Ekz5VhGRZAjAXYc='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tes équipes sur l'Apple TV · eSportly</title>
+<meta name="description" content="Choisis sur ton iPhone les équipes d'e-sport à suivre sur ton Apple TV avec eSportly.">
+<meta name="robots" content="noindex">
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 560px; margin: 0 auto; padding: 32px 24px; line-height: 1.6; font-size: 18px; color: #0e1424; background: #f6f7fb; text-align: center; }
+  a.button { display: inline-block; margin-top: 16px; padding: 14px 24px; border-radius: 999px; background: #ffc53d; color: #1a1300; font-weight: 600; text-decoration: none; }
+  a { color: #6a4900; }
+  @media (prefers-color-scheme: dark) { body { color: #f4f6ff; background: #0a0e1a; } a { color: #ffc53d; } }
+  .muted { color: #485060; font-size: .95em; }
+  @media (prefers-color-scheme: dark) { .muted { color: #a8b1c8; } }
+</style>
+</head>
+<body>
+<h1>eSportly</h1>
+<p>Choisis sur ton iPhone les équipes à suivre sur ton Apple TV. Elles y arrivent par iCloud, si l'Apple TV utilise le même compte iCloud que ton iPhone.</p>
+<a class="button" id="open" href="#">Ouvrir dans eSportly</a>
+<p class="muted" id="store">Pas encore l'app ? Elle arrive sur l'App Store pour iPhone et iPad.</p>
+<p class="muted" lang="en">Pick the esports teams for your Apple TV on your iPhone. They reach the Apple TV through iCloud.</p>
+<script>
+  // Avec l'app installée, ce lien s'ouvre directement dans eSportly (lien universel) et cette page
+  // n'apparaît pas. Sinon : on tente l'app, puis on mène à l'App Store dès que l'adresse est connue.
+  const button = document.getElementById("open");
+  button.href = "clutchtime://tv-equipes";
+  fetch("version.json", { cache: "no-store" })
+    .then((response) => response.json())
+    .then((info) => {
+      if (!info.storeURL || !/^https:\/\/apps\.apple\.com\//.test(info.storeURL)) return;
+      const store = document.getElementById("store");
+      store.textContent = "";
+      const link = document.createElement("a");
+      link.className = "button";
+      link.href = info.storeURL;
+      link.textContent = "Télécharger eSportly sur l'App Store";
+      store.appendChild(link);
+      setTimeout(() => { if (!document.hidden) location.href = info.storeURL; }, 1500);
+    })
+    .catch(() => {});
+</script>
+</body>
+</html>
