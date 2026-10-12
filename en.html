@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0A0E1A">
+<title>eSportly · Your esports team, every match, right on time</title>
+<meta name="description" content="eSportly opens your esports team&#x27;s page in its colors: the live match, the next match, current form, and an alert right before kickoff. No account needed.">
+<link rel="canonical" href="https://esportly.protojo.fr/en.html">
+<link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/">
+<link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html">
+<link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/">
+<link rel="icon" href="embleme.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/Rajdhani-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:type" content="website">
+<meta property="og:title" content="eSportly">
+<meta property="og:description" content="eSportly opens your esports team&#x27;s page in its colors: the live match, the next match, current form, and an alert right before kickoff. No account needed.">
+<meta property="og:image" content="https://esportly.protojo.fr/apercu.png">
+<meta name="twitter:card" content="summary">
+<style>
+@font-face{font-family:Rajdhani;font-weight:700;font-display:swap;src:url(fonts/Rajdhani-Bold.woff2) format("woff2")}
+@font-face{font-family:Rajdhani;font-weight:600;font-display:swap;src:url(fonts/Rajdhani-SemiBold.woff2) format("woff2")}
+:root{color-scheme:dark;--nuit:#0A0E1A;--surface:#141A2B;--raised:#1D2438;--border:#2C3550;--text:#F4F6FF;--soft:#C9CEDA;--muted:#A8B1C8;--or:#FFC53D;--on-or:#1A1300;--live:#FF4D5E;--victory:#3DDC97;--display:Rajdhani,"Arial Narrow",sans-serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--nuit);color:var(--text);font:17px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,"Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%;overflow-x:hidden}
+a{color:var(--or)}
+a:focus-visible,.cta:focus-visible{outline:3px solid var(--or);outline-offset:3px}
+.skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:16px;z-index:10;background:var(--text);color:var(--nuit);padding:10px 16px;border-radius:999px}
+.wrap{max-width:1440px;margin:0 auto;padding:0 clamp(16px,5.5vw,80px)}
+header{border-bottom:1px solid var(--raised)}
+header .wrap{height:clamp(64px,7vw,88px);display:flex;align-items:center;gap:clamp(12px,3vw,40px)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text)}
+.brand img{width:clamp(34px,3vw,44px);height:auto}
+.word{font-family:var(--display);font-weight:700;font-size:clamp(26px,2.3vw,32px);display:inline-block;transform:skewX(-8deg)}
+.word i{font-style:normal;color:var(--or)}
+header nav{margin-left:auto;display:flex;gap:28px;font-size:16px}
+header nav a{color:var(--soft);text-decoration:none}
+header nav a:hover{color:var(--text)}
+.lang{color:var(--soft);font-size:15px}
+.soon{min-height:44px;padding:0 20px;border-radius:999px;background:var(--text);color:var(--nuit);display:flex;align-items:center;font-weight:700;font-size:15px;text-decoration:none;white-space:nowrap}
+.hero{position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;right:0;top:0;bottom:0;width:50%;background:#0B1B3D;clip-path:polygon(30% 0,100% 0,100% 100%,0 100%)}
+.hero .wrap{position:relative;display:grid;grid-template-columns:minmax(0,640px) 1fr;gap:40px;min-height:900px;padding-top:110px}
+.copy{min-width:0;display:flex;flex-direction:column;gap:26px;align-items:flex-start}
+.kicker{font-size:16px;font-weight:700;color:var(--or);letter-spacing:.04em}
+h1{margin:0;font-family:var(--display);font-weight:700;font-size:clamp(54px,6.4vw,92px);line-height:.92;transform:skewX(-6deg);transform-origin:left}
+h1 span{display:block;white-space:nowrap}h1 span:last-child{color:var(--or)}
+.lead{margin:0;font-size:clamp(17px,1.5vw,21px);color:var(--soft)}
+.cta{min-height:58px;padding:0 28px;border-radius:999px;background:var(--or);color:var(--on-or);display:inline-flex;align-items:center;font-weight:700;font-size:17px;text-decoration:none}
+.note{margin:-10px 0 0;font-size:14px;color:var(--muted)}
+.phones{position:relative;min-height:860px}
+.phones .p1{position:absolute;right:190px;top:-40px;transform:rotate(-4deg)}
+.phones .p2{position:absolute;right:-40px;top:100px;transform:rotate(6deg) scale(.82);transform-origin:top right}
+.phone{width:414px;height:868px;border:12px solid #000;border-radius:54px;overflow:hidden;box-shadow:0 40px 80px rgba(0,0,0,.5);flex-shrink:0}
+.screen{position:relative;width:390px;height:844px;background:var(--t-bg);color:var(--t-fg);padding:62px 16px 0;display:flex;flex-direction:column;gap:14px;font-size:15px;line-height:1.3}
+.head{display:flex;align-items:center;gap:16px}
+.badge{width:64px;height:64px;border-radius:24px;background:var(--t-fg);color:var(--t-bg);display:flex;align-items:center;justify-content:center;font:700 24px var(--display);flex-shrink:0}
+.sub{font-size:14px;color:var(--t-muted)}.head .sub:last-child{font-size:15px}
+.name{font:700 32px/1.05 var(--display)}
+.chips{display:flex;gap:6px}
+.chip{min-height:44px;padding:0 12px;border-radius:999px;border:1px solid var(--t-line);display:flex;align-items:center;font-size:13px;font-weight:600;white-space:nowrap}
+.chip.on{background:var(--t-fg);color:var(--t-bg);border-color:var(--t-fg)}
+.liveline{display:flex;align-items:center;gap:10px}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:#000;background:var(--live);border-radius:999px;padding:3px 10px}
+.pill::before{content:"";width:7px;height:7px;border-radius:50%;background:#000}
+.score{font:700 22px/1 var(--display)}
+.video{aspect-ratio:16/9;border-radius:18px;background:#05070A;color:var(--muted);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.stat{padding:12px;border-radius:16px;background:var(--t-card);border:1px solid var(--t-line);display:flex;flex-direction:column}
+.stat b{font:700 22px/1.1 var(--display)}.stat span{font-size:13px;color:var(--t-muted)}
+.next{padding:14px 16px;border-radius:18px;background:var(--t-card);border:1px solid var(--t-line);display:flex;flex-direction:column;gap:10px}
+.nexthead{display:flex;justify-content:space-between;font-size:14px}.nexthead span{font-weight:600;color:var(--t-muted)}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.tile{border-radius:12px;background:var(--or);color:var(--on-or);border:1px solid var(--t-line);padding:6px 0 5px;display:flex;flex-direction:column;align-items:center}
+.tile b{font:700 24px/1 var(--display)}.tile span{font-size:12px;font-weight:600}
+.versus{display:flex;align-items:center;gap:10px;font-size:17px;font-weight:600}
+.mini{width:32px;height:32px;border-radius:9px;border:1.5px solid var(--t-line);display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700}
+.mini.on{background:var(--t-fg);color:var(--t-bg);border-color:var(--t-fg)}
+.dim{font-weight:400;color:var(--t-muted)}
+.remind{min-height:44px;border-radius:999px;border:1px solid var(--t-line);display:flex;align-items:center;justify-content:center;font-weight:600}
+.tabbar{position:absolute;left:16px;right:16px;bottom:24px;display:flex;gap:12px;align-items:center;color:var(--text)}
+.tabs{flex:1;display:flex;gap:4px;padding:4px;border:1px solid var(--border);border-radius:32px;background:rgba(20,26,43,.9)}
+.tab{flex:1;min-height:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;border-radius:26px;font-size:11px;font-weight:600;color:var(--muted)}
+.tab.on{background:var(--raised);color:var(--or);font-weight:700}
+.tab svg,.search svg{width:22px;height:22px}
+.search{width:60px;height:60px;border-radius:50%;border:1px solid var(--border);background:rgba(20,26,43,.9);display:flex;align-items:center;justify-content:center}
+section.block{padding:100px 0}
+h2{margin:0 0 40px;font:700 clamp(36px,3.9vw,56px)/1 var(--display)}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.card{border-radius:28px;background:var(--surface);border:1px solid var(--border);padding:32px;display:flex;flex-direction:column;gap:12px}
+.card i{width:52px;height:52px;border-radius:16px;display:block}
+.card h3{margin:0;font:700 30px/1.05 var(--display)}
+.card p{margin:0;font-size:18px;color:var(--soft)}
+.devices{display:flex;gap:60px;align-items:center}
+.devices>div{flex:1}
+.devices p{margin:0 0 18px;font-size:20px;line-height:1.55;color:var(--soft)}
+.devices p b{color:var(--or)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.grid div{height:120px;border-radius:22px;background:var(--surface);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;text-align:center}
+.offers{display:flex;gap:24px}
+.offer{flex:1;border-radius:28px;padding:32px;background:var(--surface);border:1px solid var(--border);display:flex;flex-direction:column;gap:14px}
+.offer.plus{background:var(--or);color:var(--on-or);border-color:var(--or)}
+.offer h3{margin:0;font:700 34px var(--display)}
+.offer .when{font-size:18px;font-weight:600}
+.offer ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:14px;font-size:17px;line-height:1.4}
+.offer li::before{content:"✓ "}
+.faq{display:flex;gap:80px}
+.faq h2{width:360px;flex-shrink:0;margin:0}
+.faq dl{flex:1;margin:0}
+.faq dt{padding-top:22px;font-size:20px;font-weight:700}
+.faq dd{margin:8px 0 0;padding-bottom:22px;border-bottom:1px solid var(--border);font-size:17px;line-height:1.55;color:var(--soft)}
+footer{border-top:1px solid var(--raised);font-size:14px;color:var(--muted)}
+footer .wrap{padding-top:40px;padding-bottom:40px;display:flex;flex-wrap:wrap;gap:12px 30px}
+footer a{color:inherit}
+footer .right{margin-left:auto;max-width:560px}
+@media (max-width:1180px){
+ .hero::before{display:none}
+ .hero .wrap{grid-template-columns:1fr;min-height:0;padding-top:56px;gap:20px}
+ .phones{min-height:0;display:flex;justify-content:center;height:620px;overflow:hidden}
+ .phones .p1{position:static;transform:scale(.7);transform-origin:top center}
+ .phones .p2{display:none}
+ .cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .devices,.faq{flex-direction:column;gap:32px;align-items:stretch}
+ .faq h2{width:auto}
+}
+@media (max-width:720px){
+ header nav{display:none}
+ .soon{margin-left:auto;font-size:14px;padding:0 14px}
+ .hero .wrap{padding-top:36px}
+ .copy{gap:18px}
+ h1{font-size:min(54px,12.4vw)}
+ h1 span{white-space:normal}
+ .cta{width:100%;justify-content:center;min-height:54px}
+ .note{margin:0}
+ section.block{padding:40px 0}
+ h2{margin-bottom:18px}
+ .cards{grid-template-columns:1fr;gap:12px}
+ .card{border-radius:22px;padding:22px;gap:8px}.card i{width:40px;height:40px;border-radius:12px}
+ .card h3{font-size:26px}.card h3 br{display:none}.card p{font-size:16px}
+ .devices p{font-size:17px}
+ .grid{grid-template-columns:repeat(2,1fr);gap:10px}.grid div{height:72px;font-size:16px}
+ .offers{flex-direction:column;gap:12px}
+ .offer{border-radius:22px;padding:22px;gap:8px}.offer h3{font-size:28px}.offer ul{gap:8px;font-size:15px}
+ .faq dt{font-size:18px}.faq dd{font-size:16px}
+ footer .right{margin-left:0}
+}
+@media (max-width:520px){.soon{display:none}}
+@media (max-width:420px){.phones{height:560px}.phones .p1{transform:scale(.62)}}
+</style>
+<script type="application/ld+json">
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "eSportly",
+  "operatingSystem": "iOS 17 or later (iPhone, iPad), watchOS, tvOS",
+  "applicationCategory": "SportsApplication",
+  "inLanguage": [
+   "fr",
+   "en",
+   "es",
+   "de",
+   "pt-BR"
+  ],
+  "url": "https://esportly.protojo.fr/",
+  "description": "eSportly opens your esports team's page in its colors: the live match, the next match, current form, and an alert right before kickoff. No account needed.",
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR"
+  },
+  "publisher": {
+   "@type": "Organization",
+   "name": "ProtoJo Digital",
+   "url": "https://protojo.fr"
+  },
+  "dateModified": "2026-10-12"
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+   {
+    "@type": "Question",
+    "name": "Which games are covered?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2 and Rainbow Six Siege, with their major competitions."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "Do I need an account?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "No. Your favorites are kept on your iPhone and in your iCloud. No email address or password is ever asked for."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "Is it free?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Yes. Following your teams, live matches, alerts and No spoilers mode are free. An optional eSportly+ plan will come later."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "Can I watch matches in the app?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Yes, when the match is streamed on Twitch, YouTube or Kick: the video plays on the page, only when you start it. On Apple TV, send the stream from your iPhone with AirPlay."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "Is the score live?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "It updates at the end of each game (or map), not second by second. To follow every play, watch the stream."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "What data is used?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Only what is needed to send alerts: a random identifier, the notification token, your settings and the teams you follow. Details are in the privacy policy ."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "Where do the results come from?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "From PandaScore , an esports data provider."
+    }
+   }
+  ]
+ }
+]
+</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Skip to content</a>
+<header><div class="wrap">
+<a class="brand" href="en.html"><img src="embleme.svg" alt="" width="44" height="44"><span class="word"><i>e</i>Sportly</span></a>
+<nav aria-label="Sections"><a href="#fonctions">Features</a><a href="#appareils">Devices</a><a href="#questions">FAQ</a><a class="lang" href="./" hreflang="fr" lang="fr">Français</a></nav>
+<a class="soon" href="#lancement">Coming soon to the App Store</a>
+</div></header>
+<main id="contenu">
+<section class="hero" id="lancement"><div class="wrap">
+<div class="copy">
+<div class="kicker">THE APP FOR ESPORTS FANS</div>
+<h1><span>Your team.</span><span>Every match.</span><span>Right on time.</span></h1>
+<p class="lead">eSportly opens straight to your team's page, in its colors: the live match, the next match, current form. And an alert right before kickoff.</p>
+<a class="cta" href="mailto:contact@protojo.fr?subject=Let%20me%20know%20when%20eSportly%20launches">Get notified at launch</a>
+<p class="note">Just email <a href="mailto:contact@protojo.fr">contact@protojo.fr</a>: we'll reply on launch day, and that's it.</p>
+</div>
+<div class="phones" role="img" aria-label="App preview: Karmine Corp's page during a live match, and Team Vitality's page.">
+<div class="p1" aria-hidden="true"><div class="phone"><div class="screen" style="--t-bg:#0B1B3D;--t-fg:#FFFFFF;--t-card:#1C2B4B;--t-line:#5E697F;--t-muted:#B6BBC5">
+<div class="head"><div class="badge">KC</div><div><div class="sub">My teams · 1 of 2</div><div class="name">Karmine Corp</div><div class="sub">League of Legends · LEC · France</div></div></div>
+<div class="chips"><span class="chip on">League of Legends</span><span class="chip">Rocket League</span><span class="chip">Valorant</span></div>
+<div class="liveline"><span class="pill">Live</span><span class="score">KC 1 – 0 G2</span></div>
+<div class="video">Live video</div>
+<div class="stats"><div class="stat"><b>16</b><span>Matches played</span></div><div class="stat"><b>12</b><span>Wins</span></div><div class="stat"><b>4</b><span>Losses</span></div><div class="stat"><b>75%</b><span>Win rate</span></div></div>
+<div class="next"><div class="nexthead"><span>Next match · LEC</span><b>Saturday 6:00 PM</b></div>
+<div class="tiles"><div class="tile"><b>06</b><span>days</span></div><div class="tile"><b>03</b><span>hours</span></div><div class="tile"><b>45</b><span>minutes</span></div><div class="tile"><b>12</b><span>seconds</span></div></div>
+<div class="versus"><span class="mini on">KC</span><span class="dim">vs</span><span class="mini">FNC</span>Fnatic</div>
+<span class="remind">Notify me</span></div>
+<div class="tabbar"><div class="tabs"><span class="tab on"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5l8 2.4v6.4c0 5.1-3.4 8.8-8 10.6-4.6-1.8-8-5.5-8-10.6V4.9z"/></svg>Teams</span><span class="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="2.6" fill="currentColor" stroke="none"/><path d="M7.8 7.8a6 6 0 0 0 0 8.4M16.2 7.8a6 6 0 0 1 0 8.4M4.9 4.9a10 10 0 0 0 0 14.2M19.1 4.9a10 10 0 0 1 0 14.2"/></svg>Live</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2.5h2v2h6v-2h2v2h1.5A2.5 2.5 0 0 1 21 7v11.5A2.5 2.5 0 0 1 18.5 21h-13A2.5 2.5 0 0 1 3 18.5V7a2.5 2.5 0 0 1 2.5-2.5H7zM5 9.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9z"/></svg>Matches</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>Alerts</span></div><span class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20.5 20.5l-4.6-4.6"/></svg></span></div>
+</div></div></div>
+<div class="p2" aria-hidden="true"><div class="phone"><div class="screen" style="--t-bg:#F3D200;--t-fg:#0E1116;--t-card:#E3C402;--t-line:#85750B;--t-muted:#373412">
+<div class="head"><div class="badge">VIT</div><div><div class="sub">My teams · 2 of 2</div><div class="name">Team Vitality</div><div class="sub">Counter-Strike 2 · France</div></div></div>
+<div class="chips"><span class="chip on">Counter-Strike 2</span><span class="chip">Rocket League</span><span class="chip">Valorant</span></div>
+<div class="liveline"><span class="pill">Live</span><span class="score">VIT 1 – 1 NAVI</span></div>
+<div class="video">Live video</div>
+<div class="stats"><div class="stat"><b>16</b><span>Matches played</span></div><div class="stat"><b>12</b><span>Wins</span></div><div class="stat"><b>4</b><span>Losses</span></div><div class="stat"><b>75%</b><span>Win rate</span></div></div>
+<div class="next"><div class="nexthead"><span>Next match · BLAST</span><b>Sunday 8:00 PM</b></div>
+<div class="tiles"><div class="tile"><b>06</b><span>days</span></div><div class="tile"><b>03</b><span>hours</span></div><div class="tile"><b>45</b><span>minutes</span></div><div class="tile"><b>12</b><span>seconds</span></div></div>
+<div class="versus"><span class="mini on">VIT</span><span class="dim">vs</span><span class="mini">G2</span>G2 Esports</div>
+<span class="remind">Notify me</span></div>
+<div class="tabbar"><div class="tabs"><span class="tab on"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5l8 2.4v6.4c0 5.1-3.4 8.8-8 10.6-4.6-1.8-8-5.5-8-10.6V4.9z"/></svg>Teams</span><span class="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="2.6" fill="currentColor" stroke="none"/><path d="M7.8 7.8a6 6 0 0 0 0 8.4M16.2 7.8a6 6 0 0 1 0 8.4M4.9 4.9a10 10 0 0 0 0 14.2M19.1 4.9a10 10 0 0 1 0 14.2"/></svg>Live</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2.5h2v2h6v-2h2v2h1.5A2.5 2.5 0 0 1 21 7v11.5A2.5 2.5 0 0 1 18.5 21h-13A2.5 2.5 0 0 1 3 18.5V7a2.5 2.5 0 0 1 2.5-2.5H7zM5 9.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9z"/></svg>Matches</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>Alerts</span></div><span class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20.5 20.5l-4.6-4.6"/></svg></span></div>
+</div></div></div>
+</div>
+</div></section>
+<section class="block" id="fonctions"><div class="wrap">
+<h2>Made for following, not searching</h2>
+<div class="cards"><div class="card"><i style="background:#0B1B3D"></i><h3>Your page, <br>in your team's colors</h3><p>Your team, full screen, the moment you open the app. Several teams? Swipe between them.</p></div><div class="card"><i style="background:var(--live)"></i><h3>Live <br>without searching</h3><p>The video and score on the page, and the score on your Lock Screen for the whole match.</p></div><div class="card"><i style="background:var(--or)"></i><h3>Notified <br>at the right time</h3><p>30 minutes before, at kickoff, at the result: you choose, team by team.</p></div><div class="card"><i style="background:var(--victory)"></i><h3>No spoilers</h3><p>Watching later? Scores stay hidden until you decide to see them.</p></div></div>
+</div></section>
+<section class="block" id="appareils"><div class="wrap devices">
+<div><h2>Wherever you watch</h2>
+<p>iPhone and iPhone Duo, iPad, Apple Watch, CarPlay and Apple TV. Your favorites follow you from one device to the next, with no account to create.</p>
+<p><b>On Apple TV</b>: every live match at a glance on the big screen, and video sent from your iPhone with AirPlay.</p>
+<p><b>In the car and on your wrist</b>: with CarPlay, the score appears on the car screen, with nothing to tap. On Apple Watch, it stays on your wrist.</p></div>
+<div class="grid"><div>iPhone</div><div>iPhone Duo</div><div>iPad</div><div>Apple Watch</div><div>CarPlay</div><div>Apple TV</div></div>
+</div></section>
+<section class="block" id="offres"><div class="wrap">
+<h2>Free, and more if you want</h2>
+<div class="offers"><div class="offer"><h3>Free</h3><div class="when">Forever</div><ul><li>Your teams and players</li><li>Score on the Lock Screen</li><li>Alerts before every match</li><li>No spoilers mode</li></ul></div><div class="offer plus"><h3>eSportly+</h3><div class="when">Coming soon</div><ul><li>Unlimited teams</li><li>A recap of every match, written by your iPhone</li><li>Your teams' numbers: streak, form, head-to-head</li><li>Alerts set team by team</li><li>App icons in your team's colors</li></ul></div></div>
+</div></section>
+<section class="block" id="questions"><div class="wrap faq">
+<h2>FAQ</h2>
+<dl><dt>Which games are covered?</dt><dd>League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2 and Rainbow Six Siege, with their major competitions.</dd><dt>Do I need an account?</dt><dd>No. Your favorites are kept on your iPhone and in your iCloud. No email address or password is ever asked for.</dd><dt>Is it free?</dt><dd>Yes. Following your teams, live matches, alerts and No spoilers mode are free. An optional eSportly+ plan will come later.</dd><dt>Can I watch matches in the app?</dt><dd>Yes, when the match is streamed on Twitch, YouTube or Kick: the video plays on the page, only when you start it. On Apple TV, send the stream from your iPhone with AirPlay.</dd><dt>Is the score live?</dt><dd>It updates at the end of each game (or map), not second by second. To follow every play, watch the stream.</dd><dt>What data is used?</dt><dd>Only what is needed to send alerts: a random identifier, the notification token, your settings and the teams you follow. Details are in the <a href="privacy.html">privacy policy</a>.</dd><dt>Where do the results come from?</dt><dd>From <a href="https://pandascore.co">PandaScore</a>, an esports data provider.</dd></dl>
+</div></section>
+</main>
+<footer><div class="wrap">
+<span>© 2026 eSportly</span><a href="privacy.html">Privacy</a><a href="terms.html">Terms of use</a><a href="accessibility.html">Accessibility</a><a href="https://protojo.fr/mentions-legales">Legal notice</a><a href="mailto:contact@protojo.fr">Contact</a>
+<span class="right">Published by <a href="https://protojo.fr">ProtoJo Digital</a>. Team names belong to their owners. eSportly is not affiliated with any game publisher, league or team.</span>
+</div></footer>
+</body>
+</html>
