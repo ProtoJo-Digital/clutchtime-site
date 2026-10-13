@@ -17,7 +17,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="eSportly">
 <meta property="og:description" content="eSportly ouvre la fiche de ton équipe d&#x27;e-sport à ses couleurs : le direct, le prochain match, la forme du moment, et une alerte juste avant le coup d&#x27;envoi. Sans compte.">
-<meta property="og:image" content="https://esportly.protojo.fr/apercu.png">
+<meta property="og:image" content="https://esportly.protojo.fr/apercu.png?v=2">
 <meta name="twitter:card" content="summary">
 <style>
 @font-face{font-family:Rajdhani;font-weight:700;font-display:swap;src:url(fonts/Rajdhani-Bold.woff2) format("woff2")}
@@ -55,7 +55,7 @@ h1 span{display:block;white-space:nowrap}h1 span:last-child{color:var(--or)}
 .phones{position:relative;min-height:860px}
 .phones .p1{position:absolute;right:190px;top:-40px;transform:rotate(-4deg)}
 .phones .p2{position:absolute;right:-40px;top:100px;transform:rotate(6deg) scale(.82);transform-origin:top right}
-.phone{width:414px;height:868px;border:12px solid #000;border-radius:54px;overflow:hidden;box-shadow:0 40px 80px rgba(0,0,0,.5);flex-shrink:0}
+.phone{position:relative;width:436px;height:892px;flex-shrink:0;filter:drop-shadow(0 40px 60px rgba(0,0,0,.5))}.phone>.screen{position:absolute;left:23px;top:22px;height:786px;border-radius:57px;overflow:hidden}.phone>.frame{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
 .screen{position:relative;width:390px;height:844px;background:var(--t-bg);color:var(--t-fg);padding:62px 16px 0;display:flex;flex-direction:column;gap:14px;font-size:15px;line-height:1.3}
 .head{display:flex;align-items:center;gap:16px}
 .badge{width:64px;height:64px;border-radius:24px;background:var(--t-fg);color:var(--t-bg);display:flex;align-items:center;justify-content:center;font:700 24px var(--display);flex-shrink:0}
@@ -186,6 +186,14 @@ footer .right{margin-left:auto;max-width:560px}
   "mainEntity": [
    {
     "@type": "Question",
+    "name": "Comment tester la bêta ?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Installe l'app TestFlight d'Apple sur ton iPhone, puis ouvre le lien de la bêta : https://testflight.apple.com/join/MSEj61gQ. C'est gratuit, eSportly+ compris pendant les tests."
+    }
+   },
+   {
+    "@type": "Question",
     "name": "Quels jeux sont suivis ?",
     "acceptedAnswer": {
      "@type": "Answer",
@@ -250,7 +258,7 @@ footer .right{margin-left:auto;max-width:560px}
 <header><div class="wrap">
 <a class="brand" href="./"><img src="embleme.svg" alt="" width="44" height="44"><span class="word"><i>e</i>Sportly</span></a>
 <nav aria-label="Sections de la page"><a href="#fonctions">Fonctions</a><a href="#appareils">Appareils</a><a href="#questions">Questions</a><a class="lang" href="en.html" hreflang="en" lang="en">English</a></nav>
-<a class="soon" href="#lancement">Bientôt sur l'App Store</a>
+<a class="soon" href="https://testflight.apple.com/join/MSEj61gQ">Rejoindre la bêta</a>
 </div></header>
 <main id="contenu">
 <section class="hero" id="lancement"><div class="wrap">
@@ -258,8 +266,8 @@ footer .right{margin-left:auto;max-width:560px}
 <div class="kicker">L'APP DES FANS D'ESPORT</div>
 <h1><span>Ton équipe.</span><span>Tous ses matchs.</span><span>Au bon moment.</span></h1>
 <p class="lead">eSportly ouvre directement la fiche de ton équipe, à ses couleurs&nbsp;: le direct, le prochain match, la forme du moment. Et une alerte juste avant le coup d'envoi.</p>
-<a class="cta" href="mailto:contact@protojo.fr?subject=Prévenez-moi%20du%20lancement%20d%27eSportly">Être prévenu du lancement</a>
-<p class="note">Un e-mail à <a href="mailto:contact@protojo.fr">contact@protojo.fr</a> suffit&nbsp;: on te répond le jour du lancement, et c'est tout.</p>
+<a class="cta" href="https://testflight.apple.com/join/MSEj61gQ">Tester la bêta sur iPhone</a>
+<p class="note">Bêta publique gratuite, eSportly+ offert pendant les tests. Il te faut l'app TestFlight d'Apple (gratuite). Plutôt attendre la sortie&nbsp;? <a href="mailto:contact@protojo.fr?subject=Prévenez-moi%20du%20lancement%20d%27eSportly">Un e-mail suffit</a>, on te prévient le jour J.</p>
 </div>
 <div class="phones" role="img" aria-label="Aperçu de l'app : la fiche de Karmine Corp pendant un direct, et celle de Team Vitality.">
 <div class="p1" aria-hidden="true"><div class="phone"><div class="screen" style="--t-bg:#0B1B3D;--t-fg:#FFFFFF;--t-card:#1C2B4B;--t-line:#5E697F;--t-muted:#B6BBC5">
@@ -273,7 +281,7 @@ footer .right{margin-left:auto;max-width:560px}
 <div class="versus"><span class="mini on">KC</span><span class="dim">contre</span><span class="mini">FNC</span>Fnatic</div>
 <span class="remind">Me prévenir</span></div>
 <div class="tabbar"><div class="tabs"><span class="tab on"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5l8 2.4v6.4c0 5.1-3.4 8.8-8 10.6-4.6-1.8-8-5.5-8-10.6V4.9z"/></svg>Équipes</span><span class="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="2.6" fill="currentColor" stroke="none"/><path d="M7.8 7.8a6 6 0 0 0 0 8.4M16.2 7.8a6 6 0 0 1 0 8.4M4.9 4.9a10 10 0 0 0 0 14.2M19.1 4.9a10 10 0 0 1 0 14.2"/></svg>Direct</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2.5h2v2h6v-2h2v2h1.5A2.5 2.5 0 0 1 21 7v11.5A2.5 2.5 0 0 1 18.5 21h-13A2.5 2.5 0 0 1 3 18.5V7a2.5 2.5 0 0 1 2.5-2.5H7zM5 9.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9z"/></svg>Matchs</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>Alertes</span></div><span class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20.5 20.5l-4.6-4.6"/></svg></span></div>
-</div></div></div>
+</div><img class="frame" src="iphone-18-pro.png" alt="" width="436" height="892"></div></div>
 <div class="p2" aria-hidden="true"><div class="phone"><div class="screen" style="--t-bg:#F3D200;--t-fg:#0E1116;--t-card:#E3C402;--t-line:#85750B;--t-muted:#373412">
 <div class="head"><div class="badge">VIT</div><div><div class="sub">Mes équipes · 2 sur 2</div><div class="name">Team Vitality</div><div class="sub">Counter-Strike 2 · France</div></div></div>
 <div class="chips"><span class="chip on">Counter-Strike 2</span><span class="chip">Rocket League</span><span class="chip">Valorant</span></div>
@@ -285,7 +293,7 @@ footer .right{margin-left:auto;max-width:560px}
 <div class="versus"><span class="mini on">VIT</span><span class="dim">contre</span><span class="mini">G2</span>G2 Esports</div>
 <span class="remind">Me prévenir</span></div>
 <div class="tabbar"><div class="tabs"><span class="tab on"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5l8 2.4v6.4c0 5.1-3.4 8.8-8 10.6-4.6-1.8-8-5.5-8-10.6V4.9z"/></svg>Équipes</span><span class="tab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="2.6" fill="currentColor" stroke="none"/><path d="M7.8 7.8a6 6 0 0 0 0 8.4M16.2 7.8a6 6 0 0 1 0 8.4M4.9 4.9a10 10 0 0 0 0 14.2M19.1 4.9a10 10 0 0 1 0 14.2"/></svg>Direct</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2.5h2v2h6v-2h2v2h1.5A2.5 2.5 0 0 1 21 7v11.5A2.5 2.5 0 0 1 18.5 21h-13A2.5 2.5 0 0 1 3 18.5V7a2.5 2.5 0 0 1 2.5-2.5H7zM5 9.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9z"/></svg>Matchs</span><span class="tab"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>Alertes</span></div><span class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20.5 20.5l-4.6-4.6"/></svg></span></div>
-</div></div></div>
+</div><img class="frame" src="iphone-18-pro.png" alt="" width="436" height="892"></div></div>
 </div>
 </div></section>
 <section class="block" id="fonctions"><div class="wrap">
@@ -305,7 +313,7 @@ footer .right{margin-left:auto;max-width:560px}
 </div></section>
 <section class="block" id="questions"><div class="wrap faq">
 <h2>Questions</h2>
-<dl><dt>Quels jeux sont suivis&nbsp;?</dt><dd>Quatorze jeux&nbsp;: League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2, Rainbow Six Siege, Call of Duty, Mobile Legends: Bang Bang, Honor of Kings, EA Sports FC, StarCraft II, StarCraft: Brood War et League of Legends: Wild Rift, avec leurs grandes compétitions.</dd><dt>Faut-il un compte&nbsp;?</dt><dd>Non. Tes favoris sont gardés sur ton iPhone et dans ton iCloud. Aucune adresse e-mail ni mot de passe n'est demandé.</dd><dt>Est-ce gratuit&nbsp;?</dt><dd>Oui. Suivre jusqu'à 3 équipes, le direct, les alertes, le mode Sans spoiler et le résumé de chaque match sont gratuits. eSportly+, en option, ajoute les équipes en illimité, les alertes réglées équipe par équipe et les icônes de l'app, avec 7 jours d'essai.</dd><dt>Puis-je regarder les matchs dans l'app&nbsp;?</dt><dd>Oui, quand le match est diffusé sur Twitch, YouTube ou Kick&nbsp;: la vidéo s'affiche dans la fiche, seulement si tu la lances. Sur Apple TV, envoie le direct depuis ton iPhone avec AirPlay.</dd><dt>Le score est-il en direct&nbsp;?</dt><dd>Il se met à jour à la fin de chaque manche (ou carte), pas seconde par seconde. Pour suivre chaque action, regarde le direct.</dd><dt>Quelles données sont utilisées&nbsp;?</dt><dd>Seulement ce qu'il faut pour envoyer les alertes&nbsp;: un identifiant tiré au hasard, le jeton de notification, tes réglages et les équipes suivies. Le détail est dans la <a href="confidentialite.html">politique de confidentialité</a>.</dd><dt>D'où viennent les résultats&nbsp;?</dt><dd>De <a href="https://pandascore.co">PandaScore</a>, un fournisseur de données e-sport.</dd></dl>
+<dl><dt>Comment tester la bêta&nbsp;?</dt><dd>Installe l'app TestFlight d'Apple sur ton iPhone, puis touche <a href="https://testflight.apple.com/join/MSEj61gQ">le lien de la bêta</a>. C'est gratuit, eSportly+ compris pendant les tests. Pour nous dire ce qui ne va pas, fais une capture d'écran dans l'app&nbsp;: TestFlight te propose de nous l'envoyer.</dd><dt>Quels jeux sont suivis&nbsp;?</dt><dd>Quatorze jeux&nbsp;: League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2, Rainbow Six Siege, Call of Duty, Mobile Legends: Bang Bang, Honor of Kings, EA Sports FC, StarCraft II, StarCraft: Brood War et League of Legends: Wild Rift, avec leurs grandes compétitions.</dd><dt>Faut-il un compte&nbsp;?</dt><dd>Non. Tes favoris sont gardés sur ton iPhone et dans ton iCloud. Aucune adresse e-mail ni mot de passe n'est demandé.</dd><dt>Est-ce gratuit&nbsp;?</dt><dd>Oui. Suivre jusqu'à 3 équipes, le direct, les alertes, le mode Sans spoiler et le résumé de chaque match sont gratuits. eSportly+, en option, ajoute les équipes en illimité, les alertes réglées équipe par équipe et les icônes de l'app, avec 7 jours d'essai.</dd><dt>Puis-je regarder les matchs dans l'app&nbsp;?</dt><dd>Oui, quand le match est diffusé sur Twitch, YouTube ou Kick&nbsp;: la vidéo s'affiche dans la fiche, seulement si tu la lances. Sur Apple TV, envoie le direct depuis ton iPhone avec AirPlay.</dd><dt>Le score est-il en direct&nbsp;?</dt><dd>Il se met à jour à la fin de chaque manche (ou carte), pas seconde par seconde. Pour suivre chaque action, regarde le direct.</dd><dt>Quelles données sont utilisées&nbsp;?</dt><dd>Seulement ce qu'il faut pour envoyer les alertes&nbsp;: un identifiant tiré au hasard, le jeton de notification, tes réglages et les équipes suivies. Le détail est dans la <a href="confidentialite.html">politique de confidentialité</a>.</dd><dt>D'où viennent les résultats&nbsp;?</dt><dd>De <a href="https://pandascore.co">PandaScore</a>, un fournisseur de données e-sport.</dd></dl>
 </div></section>
 </main>
 <footer><div class="wrap">
