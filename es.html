@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-8pS3fzqFz++ugllVqEatgMBxu7ZUVQA+lKWEFNnTbZs='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action https://lmavqchwevcvvneblqld.supabase.co/functions/v1/inscription; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="apple-itunes-app" content="app-id=6819243569">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0A0E1A">
+<title>eSportly · Tu equipo de esports, todos sus partidos, a tiempo</title>
+<meta name="description" content="eSportly abre la página de tu equipo de esports con sus colores: el directo, el próximo partido, la forma actual y un aviso justo antes del inicio. Sin cuenta.">
+<link rel="canonical" href="https://esportly.protojo.fr/es.html">
+<link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/">
+<link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html">
+<link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html">
+<link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html">
+<link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html">
+<link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html">
+<link rel="icon" href="embleme.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/Rajdhani-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:type" content="website">
+<meta property="og:title" content="eSportly">
+<meta property="og:description" content="eSportly abre la página de tu equipo de esports con sus colores: el directo, el próximo partido, la forma actual y un aviso justo antes del inicio. Sin cuenta.">
+<meta property="og:image" content="https://esportly.protojo.fr/apercu.png?v=2">
+<meta name="twitter:card" content="summary">
+<script>(function(){var d=document.documentElement,k='esportly-theme';function g(){try{return localStorage.getItem(k)}catch(e){return null}}function s(v){try{if(v==='system')localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){}}function a(v){if(v==='light'||v==='dark')d.setAttribute('data-theme',v);else d.removeAttribute('data-theme');var b=document.querySelectorAll('[data-theme-set]');for(var i=0;i<b.length;i++)b[i].setAttribute('aria-pressed',String(b[i].getAttribute('data-theme-set')===(v==='light'||v==='dark'?v:'system')))}a(g());document.addEventListener('DOMContentLoaded',function(){var t=document.getElementById('theme');if(t)t.hidden=false;a(g());var b=document.querySelectorAll('[data-theme-set]');for(var i=0;i<b.length;i++)b[i].addEventListener('click',function(){var v=this.getAttribute('data-theme-set');s(v);a(v)});var w=document.getElementById('worlds');if(w){var f=Date.UTC(2026,10,14),n=new Date(),x=Math.round((f-Date.UTC(n.getFullYear(),n.getMonth(),n.getDate()))/864e5);if(x<0)w.hidden=true;else{var q=w.querySelector('b');if(q)q.textContent=x}}var u=document.querySelectorAll('[data-until]');for(var j=0;j<u.length;j++){if(new Date()>=new Date(u[j].getAttribute('data-until')))u[j].hidden=true}var mm=document.querySelector('details.menu');if(mm){var hd=document.querySelector('header');var sh=function(){document.documentElement.style.setProperty('--hh',hd.offsetHeight+'px')};sh();addEventListener('resize',sh);var ml=mm.querySelectorAll('a');for(var z=0;z<ml.length;z++)ml[z].addEventListener('click',function(){mm.open=false})}document.addEventListener('keydown',function(e){if(e.key==='Escape'&&location.hash.indexOf('#voir-')===0)location.hash='appareils'})})})();</script>
+<style>
+@font-face{font-family:Rajdhani;font-weight:700;font-display:swap;src:url(fonts/Rajdhani-Bold.woff2) format("woff2")}
+@font-face{font-family:Rajdhani;font-weight:600;font-display:swap;src:url(fonts/Rajdhani-SemiBold.woff2) format("woff2")}
+:root{color-scheme:dark;--nuit:#0A0E1A;--surface:#141A2B;--raised:#1D2438;--border:#2C3550;--text:#F4F6FF;--soft:#C9CEDA;--muted:#A8B1C8;--or:#FFC53D;--on-or:#1A1300;--live:#FF4D5E;--victory:#3DDC97;--display:Rajdhani,"Arial Narrow",sans-serif}:root[data-theme="light"]{--nuit:#F6F7FB;--surface:#FFFFFF;--raised:#ECEFF6;--border:#D5DAE6;--text:#0E1424;--soft:#3A4250;--muted:#485060;--live:#D41F34;--victory:#0A5A3B;color-scheme:light}:root[data-theme="light"] a,:root[data-theme="light"] .word i,:root[data-theme="light"] .kicker,:root[data-theme="light"] .devices p b,:root[data-theme="light"] .signup label.ok a{color:#6A4900}:root[data-theme="light"] .hero::before{background:#E3E9F6}:root[data-theme="light"] h1 span:last-child{color:#8A5D00}:root[data-theme="light"] .pill{color:#fff}:root[data-theme="light"] .pill::before{background:#fff}@media (prefers-color-scheme:light){:root:not([data-theme]){--nuit:#F6F7FB;--surface:#FFFFFF;--raised:#ECEFF6;--border:#D5DAE6;--text:#0E1424;--soft:#3A4250;--muted:#485060;--live:#D41F34;--victory:#0A5A3B;color-scheme:light}:root:not([data-theme]) a,:root:not([data-theme]) .word i,:root:not([data-theme]) .kicker,:root:not([data-theme]) .devices p b,:root:not([data-theme]) .signup label.ok a{color:#6A4900}:root:not([data-theme]) .hero::before{background:#E3E9F6}:root:not([data-theme]) h1 span:last-child{color:#8A5D00}:root:not([data-theme]) .pill{color:#fff}:root:not([data-theme]) .pill::before{background:#fff}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--nuit);color:var(--text);font:17px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,"Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%;overflow-x:hidden}
+a{color:var(--or)}
+a:focus-visible,.cta:focus-visible{outline:3px solid var(--or);outline-offset:3px}
+.skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:16px;z-index:10;background:var(--text);color:var(--nuit);padding:10px 16px;border-radius:999px}
+.wrap{max-width:1440px;margin:0 auto;padding:0 clamp(16px,5.5vw,80px)}
+header{border-bottom:1px solid var(--raised)}
+header .wrap{height:clamp(64px,7vw,88px);display:flex;align-items:center;gap:clamp(12px,3vw,40px)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text)}
+.brand img{width:clamp(34px,3vw,44px);height:auto}
+.word{font-family:var(--display);font-weight:700;font-size:clamp(26px,2.3vw,32px);display:inline-block;transform:skewX(-8deg)}
+.word i{font-style:normal;color:var(--or)}
+header nav{margin-left:auto;display:flex;gap:28px;font-size:16px}
+header nav a{color:var(--soft);text-decoration:none}
+header nav a:hover{color:var(--text)}
+.lang{color:var(--soft);font-size:15px}
+.soon{min-height:44px;padding:0 20px;border-radius:999px;background:var(--text);color:var(--nuit);display:flex;align-items:center;font-weight:700;font-size:15px;text-decoration:none;white-space:nowrap}
+.hero{position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;right:0;top:0;bottom:0;width:50%;background:#0B1B3D;clip-path:polygon(30% 0,100% 0,100% 100%,0 100%)}
+.hero .wrap{position:relative;display:grid;grid-template-columns:minmax(0,640px) 1fr;gap:40px;min-height:900px;padding-top:110px}
+.copy{min-width:0;display:flex;flex-direction:column;gap:26px;align-items:flex-start}
+.kicker{font-size:16px;font-weight:700;color:var(--or);letter-spacing:.04em}
+h1{margin:0;font-family:var(--display);font-weight:700;font-size:clamp(54px,6.4vw,92px);line-height:.92;transform:skewX(-6deg);transform-origin:left}
+h1 span{display:block;white-space:nowrap}h1 span:last-child{color:var(--or)}
+.lead{margin:0;font-size:clamp(17px,1.5vw,21px);color:var(--soft)}
+.cta{min-height:58px;padding:0 28px;border-radius:999px;background:var(--or);color:var(--on-or);display:inline-flex;align-items:center;font-weight:700;font-size:17px;text-decoration:none}
+.note{margin:-10px 0 0;font-size:14px;color:var(--muted)}
+.phones{position:relative;min-height:860px}
+.phones .p1{position:absolute;right:190px;top:-40px;transform:rotate(-4deg)}
+.phones .p2{position:absolute;right:-40px;top:100px;transform:rotate(6deg) scale(.82);transform-origin:top right}
+.phone{position:relative;width:436px;height:892px;flex-shrink:0;filter:drop-shadow(0 40px 60px rgba(0,0,0,.5))}.phone>.screen,.phone>.shot{position:absolute;left:23px;top:22px;width:390px;height:848px;border-radius:57px;overflow:hidden;object-fit:cover;object-position:top}.phone>.frame{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.screen{position:relative;width:390px;height:844px;background:var(--t-bg);color:var(--t-fg);padding:62px 16px 0;display:flex;flex-direction:column;gap:14px;font-size:15px;line-height:1.3}
+.head{display:flex;align-items:center;gap:16px}
+.badge{width:64px;height:64px;border-radius:24px;background:var(--t-fg);color:var(--t-bg);display:flex;align-items:center;justify-content:center;font:700 24px var(--display);flex-shrink:0}
+.sub{font-size:14px;color:var(--t-muted)}.head .sub:last-child{font-size:15px}
+.name{font:700 32px/1.05 var(--display)}
+.chips{display:flex;gap:6px}
+.chip{min-height:44px;padding:0 12px;border-radius:999px;border:1px solid var(--t-line);display:flex;align-items:center;font-size:13px;font-weight:600;white-space:nowrap}
+.chip.on{background:var(--t-fg);color:var(--t-bg);border-color:var(--t-fg)}
+.liveline{display:flex;align-items:center;gap:10px}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:#000;background:var(--live);border-radius:999px;padding:3px 10px}
+.pill::before{content:"";width:7px;height:7px;border-radius:50%;background:#000}
+.score{font:700 22px/1 var(--display)}
+.video{aspect-ratio:16/9;border-radius:18px;background:#05070A;color:var(--muted);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.stat{padding:12px;border-radius:16px;background:var(--t-card);border:1px solid var(--t-line);display:flex;flex-direction:column}
+.stat b{font:700 22px/1.1 var(--display)}.stat span{font-size:13px;color:var(--t-muted)}
+.next{padding:14px 16px;border-radius:18px;background:var(--t-card);border:1px solid var(--t-line);display:flex;flex-direction:column;gap:10px}
+.nexthead{display:flex;justify-content:space-between;font-size:14px}.nexthead span{font-weight:600;color:var(--t-muted)}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.tile{border-radius:12px;background:var(--or);color:var(--on-or);border:1px solid var(--t-line);padding:6px 0 5px;display:flex;flex-direction:column;align-items:center}
+.tile b{font:700 24px/1 var(--display)}.tile span{font-size:12px;font-weight:600}
+.versus{display:flex;align-items:center;gap:10px;font-size:17px;font-weight:600}
+.mini{width:32px;height:32px;border-radius:9px;border:1.5px solid var(--t-line);display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700}
+.mini.on{background:var(--t-fg);color:var(--t-bg);border-color:var(--t-fg)}
+.dim{font-weight:400;color:var(--t-muted)}
+.remind{min-height:44px;border-radius:999px;border:1px solid var(--t-line);display:flex;align-items:center;justify-content:center;font-weight:600}
+.tabbar{position:absolute;left:16px;right:16px;bottom:24px;display:flex;gap:12px;align-items:center;color:var(--text)}
+.tabs{flex:1;display:flex;gap:4px;padding:4px;border:1px solid var(--border);border-radius:32px;background:rgba(20,26,43,.9)}
+.tab{flex:1;min-height:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;border-radius:26px;font-size:11px;font-weight:600;color:var(--muted)}
+.tab.on{background:var(--raised);color:var(--or);font-weight:700}
+.tab svg,.search svg{width:22px;height:22px}
+.search{width:60px;height:60px;border-radius:50%;border:1px solid var(--border);background:rgba(20,26,43,.9);display:flex;align-items:center;justify-content:center}
+section.block{padding:100px 0}
+h2{margin:0 0 40px;font:700 clamp(36px,3.9vw,56px)/1 var(--display)}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.card{border-radius:28px;background:var(--surface);border:1px solid var(--border);padding:32px;display:flex;flex-direction:column;gap:12px}
+.card i{width:52px;height:52px;border-radius:16px;display:block}
+.card h3{margin:0;font:700 30px/1.05 var(--display)}
+.card p{margin:0;font-size:18px;color:var(--soft)}
+.devices{display:flex;gap:60px;align-items:center}
+.devices>div{flex:1}
+.devices p{margin:0 0 18px;font-size:20px;line-height:1.55;color:var(--soft)}
+.devices p b{color:var(--or)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.grid div{height:120px;border-radius:22px;background:var(--surface);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;text-align:center}
+.offers{display:flex;gap:24px}
+.offer{flex:1;border-radius:28px;padding:32px;background:var(--surface);border:1px solid var(--border);display:flex;flex-direction:column;gap:14px}
+.offer.plus{background:var(--or);color:var(--on-or);border-color:var(--or)}
+.offer h3{margin:0;font:700 34px var(--display)}
+.offer .when{font-size:18px;font-weight:600}
+.offer ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:14px;font-size:17px;line-height:1.4}
+.offer li::before{content:""}header{position:sticky;top:0;z-index:40;background:color-mix(in srgb,var(--nuit) 82%,transparent);-webkit-backdrop-filter:blur(18px) saturate(1.6);backdrop-filter:blur(18px) saturate(1.6)}@media (prefers-reduced-transparency:reduce){header{background:var(--nuit);-webkit-backdrop-filter:none;backdrop-filter:none}}header nav{align-items:center}header nav>a:not(.lang){position:relative;padding:6px 0}header nav>a:not(.lang)::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;border-radius:2px;background:var(--or);transform:scaleX(0);transition:transform .2s}header nav>a:not(.lang):hover::after{transform:scaleX(1)}.menu{display:none;margin-left:auto}.menu summary{list-style:none;width:44px;height:44px;border-radius:12px;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--text)}.menu summary::-webkit-details-marker{display:none}.menu summary svg{width:22px;height:22px}.menu .close{display:none}.menu[open] .open{display:none}.menu[open] .close{display:block}.menu .panel{position:fixed;left:0;right:0;top:100%;height:calc(100dvh - var(--hh,64px));background:var(--nuit);padding:20px clamp(16px,5.5vw,80px) 32px;display:flex;flex-direction:column;gap:4px;overflow:auto;border-top:1px solid var(--raised)}.menu .panel a{display:flex;align-items:center;min-height:56px;font:700 28px var(--display);color:var(--text);text-decoration:none;border-bottom:1px solid var(--raised)}.menu .panel .soonm{margin-top:20px;justify-content:center;border:0;border-radius:999px;background:var(--or);color:var(--on-or);font:700 17px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif}.menu .panel .langm{font:600 17px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;color:var(--soft);border:0}@media (max-width:860px){header nav{display:none!important}.menu{display:block}}section[id]{scroll-margin-top:96px}footer .wrap{display:block;padding-top:56px;padding-bottom:32px}.fgrid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:40px}.fbrand p{margin:14px 0 18px;max-width:34ch;font-size:15px;color:var(--soft)}.fbrand .brand{font-size:inherit}.fbeta{display:inline-flex;align-items:center;min-height:44px;padding:0 20px;border-radius:999px;background:var(--or);color:var(--on-or)!important;font-weight:700;text-decoration:none}footer h3{margin:0 0 12px;font:700 15px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--text)}footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}footer ul a{color:var(--muted);text-decoration:none;font-size:15px}footer ul a:hover{color:var(--text)}.fbottom{margin-top:44px;padding-top:20px;border-top:1px solid var(--raised);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;font-size:13px;color:var(--muted)}.fbottom a{color:inherit}@media (max-width:860px){.fgrid{grid-template-columns:1fr 1fr;gap:32px 20px}.fbrand{grid-column:1/-1}}[hidden]{display:none!important}.flag{width:22px;height:15px;border-radius:3px;box-shadow:0 0 0 1px rgba(127,127,127,.35);vertical-align:-2px;margin-right:8px}.langs{position:relative}.langs summary{list-style:none;display:flex;align-items:center;gap:6px;min-height:44px;padding:0 12px;border-radius:999px;border:1px solid var(--border);cursor:pointer;color:var(--soft);font-size:15px;font-weight:600}.langs summary::-webkit-details-marker{display:none}.langs summary .flag{margin-right:2px}.langs .chev{width:16px;height:16px;transition:transform .2s}.langs[open] .chev{transform:rotate(180deg)}.langs ul{position:absolute;right:0;top:calc(100% + 8px);z-index:50;margin:0;padding:6px;list-style:none;min-width:200px;border-radius:16px;background:var(--surface);border:1px solid var(--border);box-shadow:0 18px 40px rgba(0,0,0,.35)}.langs li a{display:flex;align-items:center;min-height:44px;padding:0 12px;border-radius:10px;color:var(--text);text-decoration:none;font-size:15px;font-weight:500}.langs li a:hover{background:var(--raised)}.langs li a[aria-current]{font-weight:700;background:var(--raised)}.menu .panel .langsm{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}.menu .panel .langsm a{min-height:44px;padding:0 14px;border:1px solid var(--border);border-radius:999px;font:600 15px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;color:var(--soft)}.menu .panel .langsm a[aria-current]{border-color:var(--or);color:var(--text)}footer li.fl a{display:inline-flex;align-items:center}footer li.fl a[aria-current]{color:var(--text)}.theme{display:inline-flex;gap:2px;padding:3px;border-radius:999px;border:1px solid var(--border);background:var(--surface)}.theme button{width:34px;height:34px;border:0;border-radius:999px;background:transparent;color:var(--muted);display:flex;align-items:center;justify-content:center;cursor:pointer}.theme button svg{width:18px;height:18px}.theme button[aria-pressed=true]{background:var(--raised);color:var(--text)}.grid .tag{font-size:12px;font-weight:700;color:var(--on-or);background:var(--or);border-radius:999px;padding:2px 10px}.zoom{display:block;width:100%;cursor:zoom-in;border-radius:14px}.lb{display:none;position:fixed;inset:0;z-index:60;background:rgba(5,7,12,.9);align-items:center;justify-content:center;padding:5vw}.lb:target{display:flex}.lb img{position:relative;z-index:1;max-width:100%;max-height:100%;width:auto;height:auto;border-radius:16px;box-shadow:0 30px 80px rgba(0,0,0,.6)}.lb .bg{position:absolute;inset:0;cursor:zoom-out}.lb .x{position:absolute;top:16px;right:16px;z-index:2;width:48px;height:48px;border-radius:50%;background:#F4F6FF;color:#0A0E1A;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;text-decoration:none}@media (max-width:860px){.theme{display:none}}.worlds{display:inline-flex;align-items:center;gap:12px;padding:8px 16px 8px 8px;border-radius:999px;background:var(--surface);border:1px solid var(--border);font-size:15px;font-weight:600;color:var(--soft);text-decoration:none}.worlds b{display:inline-flex;align-items:center;justify-content:center;min-width:44px;height:36px;padding:0 10px;border-radius:999px;background:var(--or);color:var(--on-or);font:700 20px var(--display)}.worlds span{color:var(--text)}.worlds .wx{font-style:normal}@media (max-width:520px){.worlds .wx{display:none}.worlds{font-size:14px}}.signup{display:flex;flex-direction:column;gap:10px;width:100%;max-width:520px;margin-top:4px}.signup .row{display:flex;gap:10px}.signup input[type=email]{flex:1;min-width:0;min-height:52px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--text);padding:0 20px;font:17px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif}.signup button{min-height:52px;padding:0 22px;border-radius:999px;border:1px solid var(--text);background:transparent;color:var(--text);font:700 16px -apple-system,BlinkMacSystemFont,'SF Pro Text',system-ui,sans-serif;cursor:pointer;white-space:nowrap}.signup label.ok{display:flex;gap:10px;align-items:flex-start;font-size:14px;color:var(--muted);line-height:1.4}.signup label.ok input{width:20px;height:20px;margin:1px 0 0;accent-color:var(--or);flex-shrink:0}.signup .trap{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}.signup .lab{font-size:15px;font-weight:600;color:var(--soft)}@media (max-width:520px){.signup .row{flex-direction:column}}
+.games{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px;margin:0;padding:0;list-style:none}.games li{position:relative;overflow:hidden;min-height:150px;padding:22px 22px 20px;border-radius:24px;display:flex;flex-direction:column;justify-content:flex-end;gap:4px;background:radial-gradient(120% 120% at 100% 0%,color-mix(in srgb,var(--g) 38%,transparent) 0%,transparent 60%),linear-gradient(160deg,#182035 0%,#0E1322 100%);border:1px solid color-mix(in srgb,var(--g) 30%,#2C3550);box-shadow:inset 0 1px 0 rgba(255,255,255,.06),0 18px 40px rgba(0,0,0,.35)}.games li::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--g)}.games b{position:absolute;right:-6px;top:-18px;font:700 108px/1 var(--display);letter-spacing:-.02em;color:var(--g);opacity:.16;transform:skewX(-8deg);pointer-events:none;white-space:nowrap}.games strong a{color:inherit;text-decoration:none}.games strong a::after{content:"";position:absolute;inset:-200px}.games li:hover{border-color:var(--g)}.games strong{position:relative;font:700 26px/1.05 var(--display);color:#fff}.games em{position:relative;font-style:normal;font-size:14px;font-weight:600;color:var(--g)}@media (max-width:520px){.games{grid-template-columns:1fr 1fr;gap:10px}.games li{min-height:118px;padding:14px;border-radius:18px}.games b{font-size:64px;top:-8px}.games strong{font-size:18px}.games em{font-size:12px}}.lede{margin:-8px 0 28px;font-size:20px;color:var(--soft);max-width:60ch}
+
+.card i{display:flex;align-items:center;justify-content:center;color:#fff}.card i svg{width:26px;height:26px}.card:nth-child(3) i{color:var(--on-or)}
+.grid div{flex-direction:column;gap:8px;height:auto;min-height:150px;padding:18px 12px}.grid div svg{width:40px;height:40px;color:var(--or)}.grid div small{font-size:14px;font-weight:500;color:var(--muted)}#appareils .devices{flex-direction:column;align-items:stretch;gap:36px}#appareils .devices>div:first-child{max-width:820px}.grid div{justify-content:flex-start}.grid .pic{display:flex;align-items:center;justify-content:center;width:100%;height:240px;margin-bottom:6px}.grid .pic img{max-width:100%;max-height:240px;object-fit:contain;border-radius:12px;filter:drop-shadow(0 10px 18px rgba(0,0,0,.45))}@media (max-width:820px){.grid{grid-template-columns:1fr 1fr}}@media (max-width:520px){.grid .pic{height:120px}.grid .pic img{max-height:120px}}
+@media (prefers-reduced-motion:no-preference){@keyframes flotte{0%,100%{translate:0 0}50%{translate:0 -12px}}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}@keyframes monte{from{opacity:0;translate:0 24px}to{opacity:1;translate:0 0}}.phones .phone{animation:flotte 7s ease-in-out infinite}.phones .p2 .phone{animation-delay:-3.5s}.pill::before{animation:pulse 1.6s ease-in-out infinite}.hero .copy>*{animation:monte .7s ease-out both}.hero .copy>*:nth-child(2){animation-delay:.08s}.hero .copy>*:nth-child(3){animation-delay:.16s}.hero .copy>*:nth-child(4){animation-delay:.24s}.hero .copy>*:nth-child(5){animation-delay:.32s}@supports (animation-timeline:view()){.card,.grid div,.offer,.faq dt{animation:monte linear both;animation-timeline:view();animation-range:entry 0% cover 22%}}}
+
+.faq{display:flex;gap:80px}
+.faq h2{width:360px;flex-shrink:0;margin:0}
+.faq dl{flex:1;margin:0}
+.faq dt{padding-top:22px;font-size:20px;font-weight:700}
+.faq dd{margin:8px 0 0;padding-bottom:22px;border-bottom:1px solid var(--border);font-size:17px;line-height:1.55;color:var(--soft)}
+footer{border-top:1px solid var(--raised);font-size:14px;color:var(--muted)}
+footer .wrap{padding-top:40px;padding-bottom:40px;display:flex;flex-wrap:wrap;gap:12px 30px}
+footer a{color:inherit}
+footer .right{margin-left:auto;max-width:560px}
+@media (min-width:1181px) and (max-width:1520px){.phones{zoom:.78}.phones .p1{right:130px}}
+.copy{position:relative;z-index:2}
+@media (max-width:1180px){
+ .hero::before{display:none}
+ .hero .wrap{grid-template-columns:1fr;min-height:0;padding-top:56px;gap:20px}
+ .phones{min-height:0;display:flex;justify-content:center;height:620px;overflow:hidden}
+ .phones .p1{position:static;transform:scale(.7);transform-origin:top center}
+ .phones .p2{display:none}
+ .cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .devices,.faq{flex-direction:column;gap:32px;align-items:stretch}
+ .faq h2{width:auto}
+}
+@media (max-width:720px){
+ header nav{display:none}
+ .soon{margin-left:auto;font-size:14px;padding:0 14px}
+ .hero .wrap{padding-top:36px}
+ .copy{gap:18px}
+ h1{font-size:min(54px,12.4vw)}
+ h1 span{white-space:normal}
+ .cta{width:100%;justify-content:center;min-height:54px}
+ .note{margin:0}
+ section.block{padding:40px 0}
+ h2{margin-bottom:18px}
+ .cards{grid-template-columns:1fr;gap:12px}
+ .card{border-radius:22px;padding:22px;gap:8px}.card i{width:40px;height:40px;border-radius:12px}
+ .card h3{font-size:26px}.card h3 br{display:none}.card p{font-size:16px}
+ .devices p{font-size:17px}
+ .grid{grid-template-columns:repeat(2,1fr);gap:10px}.grid div{height:72px;font-size:16px}
+ .offers{flex-direction:column;gap:12px}
+ .offer{border-radius:22px;padding:22px;gap:8px}.offer h3{font-size:28px}.offer ul{gap:8px;font-size:15px}
+ .faq dt{font-size:18px}.faq dd{font-size:16px}
+ footer .right{margin-left:0}
+}
+@media (max-width:520px){.soon{display:none}}
+@media (max-width:420px){.phones{height:560px}.phones .p1{transform:scale(.62)}}
+.offer h3{display:flex;align-items:center;gap:12px}.offer h3 .em{width:40px;height:40px;flex-shrink:0}.offer.plus h3 .em{filter:drop-shadow(0 2px 6px rgba(0,0,0,.25))}.offer:not(.plus) h3 .em{opacity:.9}.offer h3 sup{font-size:.55em;margin-left:-6px;vertical-align:super}.offer li::before{content:"";display:inline-block;width:20px;height:20px;margin:0 10px -4px 0;border-radius:50%;background:var(--or) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M5.5 10.5l3 3 6-6.5' fill='none' stroke='%231A1300' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/16px no-repeat}.offer.plus li::before{background-color:var(--on-or);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M5.5 10.5l3 3 6-6.5' fill='none' stroke='%23FFC53D' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}.offer ul li{padding-left:30px;text-indent:-30px}</style>
+<script type="application/ld+json">
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "eSportly",
+  "operatingSystem": "iOS 17 o posterior (iPhone, iPad), watchOS, tvOS",
+  "applicationCategory": "SportsApplication",
+  "inLanguage": [
+   "fr",
+   "en",
+   "es",
+   "de",
+   "pt-BR"
+  ],
+  "url": "https://esportly.protojo.fr/es.html",
+  "description": "eSportly abre la página de tu equipo de esports con sus colores: el directo, el próximo partido, la forma actual y un aviso justo antes del inicio. Sin cuenta.",
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR"
+  },
+  "publisher": {
+   "@type": "Organization",
+   "name": "ProtoJo Digital",
+   "url": "https://protojo.fr"
+  },
+  "dateModified": "2026-10-12"
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+   {
+    "@type": "Question",
+    "name": "¿Cómo pruebo la beta?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Instala la app TestFlight de Apple en tu iPhone y luego abre el enlace de la beta: https://testflight.apple.com/join/MSEj61gQ. Es gratis, con eSportly+ incluido durante las pruebas."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Qué juegos incluye?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Catorce juegos: League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2, Rainbow Six Siege, Call of Duty, Mobile Legends: Bang Bang, Honor of Kings, EA Sports FC, StarCraft II, StarCraft: Brood War y League of Legends: Wild Rift, con sus grandes competiciones."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Necesito una cuenta?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "No. Tus favoritos se guardan en tu iPhone y en tu iCloud. Nunca se pide ni correo ni contraseña."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Es gratis?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Sí. Seguir hasta 3 equipos, los directos, los avisos, el modo sin spoilers y los resúmenes de partido son gratis. La suscripción opcional eSportly+ añade equipos ilimitados, avisos por equipo e iconos de la app, con 7 días de prueba gratis."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Puedo ver los partidos en la app?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Sí, cuando el partido se emite en Twitch, YouTube o Kick: el vídeo se reproduce en la página, solo cuando tú lo inicias. En el Apple TV, envía la emisión desde tu iPhone con AirPlay."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿El marcador es en directo?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Se actualiza al final de cada partida (o mapa), no segundo a segundo. Para seguir cada jugada, mira la emisión."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿Qué datos se usan?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "Solo lo necesario para enviar los avisos: un identificador aleatorio, el token de notificaciones, tus ajustes y los equipos que sigues. Los detalles están en la política de privacidad (en inglés)."
+    }
+   },
+   {
+    "@type": "Question",
+    "name": "¿De dónde salen los resultados?",
+    "acceptedAnswer": {
+     "@type": "Answer",
+     "text": "De PandaScore, un proveedor de datos de esports."
+    }
+   }
+  ]
+ }
+]
+</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Ir al contenido</a>
+<header><div class="wrap">
+<a class="brand" href="es.html"><img src="embleme.svg" alt="" width="44" height="44"><span class="word"><i>e</i>Sportly</span></a>
+<nav aria-label="Secciones"><a href="#jeux">Juegos</a><a href="#fonctions">Funciones</a><a href="#appareils">Dispositivos</a><a href="#offres">eSportly+</a><a href="#questions">Preguntas</a><details class="lang langs"><summary aria-label="Idioma: Español"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#AA151B" d="M0 0h22v15H0z"/><path fill="#F1BF00" d="M0 3.75h22v7.5H0z"/></svg><span>ES</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><ul><li><a href="./" hreflang="fr" lang="fr"><svg class="flag" viewBox="0 0 3 2" aria-hidden="true"><path fill="#002654" d="M0 0h1v2H0z"/><path fill="#fff" d="M1 0h1v2H1z"/><path fill="#CE1126" d="M2 0h1v2H2z"/></svg>Français</a></li><li><a href="en.html" hreflang="en" lang="en"><svg class="flag" viewBox="0 0 60 30" aria-hidden="true"><clipPath id="gb-h"><path d="M0 0v30h60V0z"/></clipPath><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30M60 0L0 30" stroke="#fff" stroke-width="6"/><path d="M0 0l60 30M60 0L0 30" stroke="#C8102E" stroke-width="3" clip-path="url(#gb-h)"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></svg>English</a></li><li><a href="es.html" hreflang="es" lang="es" aria-current="page"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#AA151B" d="M0 0h22v15H0z"/><path fill="#F1BF00" d="M0 3.75h22v7.5H0z"/></svg>Español</a></li><li><a href="de.html" hreflang="de" lang="de"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#000" d="M0 0h22v5H0z"/><path fill="#DD0000" d="M0 5h22v5H0z"/><path fill="#FFCE00" d="M0 10h22v5H0z"/></svg>Deutsch</a></li><li><a href="pt.html" hreflang="pt-BR" lang="pt-BR"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#009C3B" d="M0 0h22v15H0z"/><path fill="#FFDF00" d="M2 7.5L11 1.6l9 5.9-9 5.9z"/><circle cx="11" cy="7.5" r="3.6" fill="#002776"/></svg>Português</a></li></ul></details><div class="theme" id="theme" role="group" aria-label="Tema" hidden><button type="button" data-theme-set="system" aria-pressed="false" aria-label="Tema del sistema" title="Tema del sistema"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg></button><button type="button" data-theme-set="light" aria-pressed="false" aria-label="Tema claro" title="Tema claro"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button><button type="button" data-theme-set="dark" aria-pressed="false" aria-label="Tema oscuro" title="Tema oscuro"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg></button></div></nav>
+<a class="soon" href="https://testflight.apple.com/join/MSEj61gQ">Únete a la beta</a><details class="menu"><summary aria-label="Menu"><svg class="open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></summary><div class="panel" role="navigation" aria-label="Menu"><a href="#jeux">Juegos</a><a href="#fonctions">Funciones</a><a href="#appareils">Dispositivos</a><a href="#offres">eSportly+</a><a href="#questions">Preguntas</a><a class="soonm" href="https://testflight.apple.com/join/MSEj61gQ">Únete a la beta</a><div class="langsm"><a href="./" hreflang="fr" lang="fr"><svg class="flag" viewBox="0 0 3 2" aria-hidden="true"><path fill="#002654" d="M0 0h1v2H0z"/><path fill="#fff" d="M1 0h1v2H1z"/><path fill="#CE1126" d="M2 0h1v2H2z"/></svg>Français</a><a href="en.html" hreflang="en" lang="en"><svg class="flag" viewBox="0 0 60 30" aria-hidden="true"><clipPath id="gb-m"><path d="M0 0v30h60V0z"/></clipPath><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30M60 0L0 30" stroke="#fff" stroke-width="6"/><path d="M0 0l60 30M60 0L0 30" stroke="#C8102E" stroke-width="3" clip-path="url(#gb-m)"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></svg>English</a><a href="es.html" hreflang="es" lang="es" aria-current="page"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#AA151B" d="M0 0h22v15H0z"/><path fill="#F1BF00" d="M0 3.75h22v7.5H0z"/></svg>Español</a><a href="de.html" hreflang="de" lang="de"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#000" d="M0 0h22v5H0z"/><path fill="#DD0000" d="M0 5h22v5H0z"/><path fill="#FFCE00" d="M0 10h22v5H0z"/></svg>Deutsch</a><a href="pt.html" hreflang="pt-BR" lang="pt-BR"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#009C3B" d="M0 0h22v15H0z"/><path fill="#FFDF00" d="M2 7.5L11 1.6l9 5.9-9 5.9z"/><circle cx="11" cy="7.5" r="3.6" fill="#002776"/></svg>Português</a></div></div></details>
+</div></header>
+<main id="contenu">
+<section class="hero" id="lancement"><div class="wrap">
+<div class="copy">
+<a class="worlds" id="worlds" href="https://testflight.apple.com/join/MSEj61gQ"><b>32</b><span>días para la final de los Worlds</span><i class="wx">· únete a la beta para recibir avisos</i></a>
+<div class="kicker">LA APP DE LOS FANS DE LOS ESPORTS</div>
+<h1><span>Tu equipo.</span><span>Cada partido.</span><span>A tiempo.</span></h1>
+<p class="lead">eSportly abre directamente la página de tu equipo, con sus colores: el partido en directo, el próximo partido, la forma actual. Y un aviso justo antes del inicio.</p>
+<a class="cta" href="https://testflight.apple.com/join/MSEj61gQ">Prueba la beta en iPhone</a>
+<p class="note">Beta pública gratuita, eSportly+ incluido durante las pruebas. Necesitas la app gratuita TestFlight de Apple.</p>
+<form class="signup" method="post" action="https://lmavqchwevcvvneblqld.supabase.co/functions/v1/inscription"><span class="lab" id="signup-lab">¿Prefieres esperar al lanzamiento? Recibe un solo correo el día de la salida:</span><div class="row"><input type="email" name="email" required autocomplete="email" placeholder="tu@correo.com" aria-label="Tu dirección de correo" aria-describedby="signup-lab"><button type="submit">Avísame</button></div><label class="ok"><input type="checkbox" name="accord" value="oui" required><span>Acepto recibir un correo cuando salga eSportly. Mi dirección se borra en un plazo máximo de 12 meses (<a href="privacy.html#signup" hreflang="en">privacidad</a>, en inglés).</span></label><input type="hidden" name="langue" value="en"><span class="trap" aria-hidden="true"><input type="text" name="site" tabindex="-1" autocomplete="off"></span></form>
+</div>
+<div class="phones" role="img" aria-label="Vista previa de la app: la página de Karmine Corp durante un partido en directo y la página del equipo con el botón Seguir.">
+<div class="p1" aria-hidden="true"><div class="phone"><img class="shot" src="ecrans/karmine-corp-en.webp" alt="" width="390" height="844" fetchpriority="high" loading="eager"><img class="frame" src="iphone-18-pro.webp" alt="" width="436" height="892"></div></div>
+<div class="p2" aria-hidden="true"><div class="phone"><img class="shot" src="ecrans/team-en.webp" alt="" width="390" height="844" loading="eager"><img class="frame" src="iphone-18-pro.webp" alt="" width="436" height="892"></div></div>
+</div>
+</div></section>
+<section class="block" id="jeux"><div class="wrap">
+<h2>14 juegos en la app</h2>
+<p class="lede">Los equipos y jugadores de estos juegos, con sus grandes competiciones: calendario, directo, marcador y avisos.</p>
+<ul class="games" aria-label="Juegos disponibles en eSportly"><li style="--g:#3cc8e0"><b aria-hidden="true">LoL</b><strong><a href="juegos/league-of-legends.html">League of Legends</a></strong><em>MOBA · 5v5</em></li><li style="--g:#ff934d"><b aria-hidden="true">CS2</b><strong><a href="juegos/counter-strike-2.html">Counter-Strike 2</a></strong><em>Shooter táctico · 5v5</em></li><li style="--g:#ff89be"><b aria-hidden="true">VAL</b><strong><a href="juegos/valorant.html">Valorant</a></strong><em>Shooter táctico · 5v5</em></li><li style="--g:#89afff"><b aria-hidden="true">RL</b><strong><a href="juegos/rocket-league.html">Rocket League</a></strong><em>Fútbol con coches · 3v3</em></li><li style="--g:#baa0ff"><b aria-hidden="true">DOTA</b><strong><a href="juegos/dota-2.html">Dota 2</a></strong><em>MOBA · 5v5</em></li><li style="--g:#c6e04a"><b aria-hidden="true">OW</b><strong><a href="juegos/overwatch-2.html">Overwatch 2</a></strong><em>Shooter por equipos · 5v5</em></li><li style="--g:#e0a27e"><b aria-hidden="true">R6</b><strong><a href="juegos/rainbow-six-siege.html">Rainbow Six Siege</a></strong><em>Shooter táctico · 5v5</em></li><li style="--g:#ccbf8c"><b aria-hidden="true">CoD</b><strong><a href="juegos/call-of-duty.html">Call of Duty</a></strong><em>Shooter · 4v4</em></li><li style="--g:#e9b0c0"><b aria-hidden="true">MLBB</b><strong><a href="juegos/mobile-legends.html">Mobile Legends: Bang Bang</a></strong><em>MOBA móvil · 5v5</em></li><li style="--g:#fcc2b5"><b aria-hidden="true">HoK</b><strong><a href="juegos/honor-of-kings.html">Honor of Kings</a></strong><em>MOBA móvil · 5v5</em></li><li style="--g:#9ab88c"><b aria-hidden="true">FC</b><strong><a href="juegos/ea-sports-fc.html">EA Sports FC</a></strong><em>Fútbol · 1v1</em></li><li style="--g:#cecafd"><b aria-hidden="true">SC2</b><strong><a href="juegos/starcraft-2.html">StarCraft II</a></strong><em>Estrategia · 1v1</em></li><li style="--g:#c6a4ce"><b aria-hidden="true">SC:BW</b><strong><a href="juegos/starcraft-brood-war.html">StarCraft: Brood War</a></strong><em>Estrategia · 1v1</em></li><li style="--g:#78bcb2"><b aria-hidden="true">WR</b><strong><a href="juegos/wild-rift.html">League of Legends: Wild Rift</a></strong><em>MOBA móvil · 5v5</em></li></ul>
+</div></section>
+<section class="block" id="fonctions"><div class="wrap">
+<h2>Hecha para seguir, no para buscar</h2>
+<div class="cards"><div class="card"><i style="background:#0B1B3D"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.5l8 2.4v6.4c0 5.1-3.4 8.8-8 10.6-4.6-1.8-8-5.5-8-10.6V4.9z"/></svg></i><h3>Tu página, <br>con los colores de tu equipo</h3><p>Tu equipo, a pantalla completa, nada más abrir la app. ¿Varios equipos? Desliza para pasar de uno a otro.</p></div><div class="card"><i style="background:var(--live)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></i><h3>El directo <br>sin buscar</h3><p>El vídeo y el marcador en la página, y el marcador en la pantalla de bloqueo durante todo el partido.</p></div><div class="card"><i style="background:var(--or)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg></i><h3>Avisado <br>en el momento justo</h3><p>30 minutos antes, al inicio, con el resultado: tú eliges, equipo por equipo.</p></div><div class="card"><i style="background:var(--victory)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12s3.5-6 9-6c1.6 0 3 .5 4.2 1.2M21 12s-3.5 6-9 6c-1.6 0-3-.5-4.2-1.2"/><path d="M4 20L20 4"/></svg></i><h3>Sin spoilers</h3><p>¿Lo ves en diferido? Los marcadores quedan ocultos hasta que decidas verlos.</p></div></div>
+</div></section>
+<section class="block" id="appareils"><div class="wrap devices">
+<div><h2>Lo veas donde lo veas</h2>
+<p>iPhone y iPhone Duo, iPad, Apple Watch, CarPlay y Apple TV. Tus favoritos te siguen de un dispositivo a otro, sin crear ninguna cuenta.</p>
+<p><b>En el Apple TV</b>: todos los directos de un vistazo en la pantalla grande, y el vídeo enviado desde tu iPhone con AirPlay.</p>
+<p><b>En el coche y en la muñeca</b>: con CarPlay, el marcador aparece en la pantalla del coche, sin tocar nada. En el Apple Watch, se queda en tu muñeca.</p></div>
+<div class="grid"><div><a class="zoom" href="#voir-iphone" aria-label="Ampliar: eSportly en el iPhone"><span class="pic"><img src="appareils/iphone.webp" alt="" loading="lazy"></span></a>iPhone<small>La página de tu equipo</small></div><div><a class="zoom" href="#voir-duo" aria-label="Ampliar: eSportly en el iPhone Duo"><span class="pic"><img src="appareils/duo.webp" alt="" loading="lazy"></span></a>iPhone Duo<span class="tag" data-until="2026-10-23T00:00:00+02:00">Sale el 23 de octubre</span><small>Dos pantallas, una página</small></div><div><a class="zoom" href="#voir-ipad" aria-label="Ampliar: eSportly en el iPad"><span class="pic"><img src="appareils/ipad.webp" alt="" loading="lazy"></span></a>iPad<small>Todo el calendario</small></div><div><a class="zoom" href="#voir-watch" aria-label="Ampliar: eSportly en el Apple Watch"><span class="pic"><img src="appareils/watch.webp" alt="" loading="lazy"></span></a>Apple Watch<small>El marcador en la muñeca</small></div><div><a class="zoom" href="#voir-carplay" aria-label="Ampliar: eSportly en CarPlay"><span class="pic"><img src="appareils/carplay.webp" alt="" loading="lazy"></span></a>CarPlay<small>El marcador, sin manos</small></div><div><a class="zoom" href="#voir-tv" aria-label="Ampliar: eSportly en el Apple TV"><span class="pic"><img src="appareils/tv.webp" alt="" loading="lazy"></span></a>Apple TV<small>Todos los directos</small></div></div>
+</div></section>
+<section class="block" id="offres"><div class="wrap">
+<h2>Gratis, y más si quieres</h2>
+<div class="offers"><div class="offer"><h3><img class="em" src="embleme.svg" alt="" width="40" height="40">Gratis</h3><div class="when">Para siempre</div><ul><li>Hasta 3 equipos, más tus jugadores</li><li>Marcador en la pantalla de bloqueo</li><li>Avisos antes de cada partido</li><li>Modo sin spoilers</li><li>Las cifras de tus equipos: forma, racha, enfrentamientos directos</li><li>Un resumen de cada partido, escrito por tu iPhone (iPhone con Apple Intelligence)</li></ul></div><div class="offer plus"><h3><img class="em" src="embleme.svg" alt="" width="40" height="40">eSportly+</h3><div class="when">Precio en tu moneda local, indicado en la app</div><ul><li>Gratis durante la beta</li><li>Equipos ilimitados</li><li>Avisos ajustados equipo por equipo</li><li>Iconos de la app con los colores de tu equipo</li><li>7 días de prueba gratis</li></ul></div></div>
+</div></section>
+<section class="block" id="questions"><div class="wrap faq">
+<h2>Preguntas</h2>
+<dl><dt>¿Cómo pruebo la beta?</dt><dd>Instala la app TestFlight de Apple en tu iPhone y luego toca <a href="https://testflight.apple.com/join/MSEj61gQ">el enlace de la beta</a>. Es gratis, con eSportly+ incluido durante las pruebas. Para avisarnos de un problema, haz una captura de pantalla en la app: TestFlight te propondrá enviárnosla.</dd><dt>¿Qué juegos incluye?</dt><dd>Catorce juegos: League of Legends, Counter-Strike 2, Valorant, Rocket League, Dota 2, Overwatch 2, Rainbow Six Siege, Call of Duty, Mobile Legends: Bang Bang, Honor of Kings, EA Sports FC, StarCraft II, StarCraft: Brood War y League of Legends: Wild Rift, con sus grandes competiciones.</dd><dt>¿Necesito una cuenta?</dt><dd>No. Tus favoritos se guardan en tu iPhone y en tu iCloud. Nunca se pide ni correo ni contraseña.</dd><dt>¿Es gratis?</dt><dd>Sí. Seguir hasta 3 equipos, los directos, los avisos, el modo sin spoilers y los resúmenes de partido son gratis. La suscripción opcional eSportly+ añade equipos ilimitados, avisos por equipo e iconos de la app, con 7 días de prueba gratis.</dd><dt>¿Puedo ver los partidos en la app?</dt><dd>Sí, cuando el partido se emite en Twitch, YouTube o Kick: el vídeo se reproduce en la página, solo cuando tú lo inicias. En el Apple TV, envía la emisión desde tu iPhone con AirPlay.</dd><dt>¿El marcador es en directo?</dt><dd>Se actualiza al final de cada partida (o mapa), no segundo a segundo. Para seguir cada jugada, mira la emisión.</dd><dt>¿Qué datos se usan?</dt><dd>Solo lo necesario para enviar los avisos: un identificador aleatorio, el token de notificaciones, tus ajustes y los equipos que sigues. Los detalles están en la <a href="privacy.html" hreflang="en">política de privacidad</a> (en inglés).</dd><dt>¿De dónde salen los resultados?</dt><dd>De <a href="https://pandascore.co">PandaScore</a>, un proveedor de datos de esports.</dd></dl>
+</div></section>
+</main>
+<footer><div class="wrap"><div class="fgrid"><div class="fbrand"><a class="brand" href="es.html"><img src="embleme.svg" alt="" width="44" height="44"><span class="word"><i>e</i>Sportly</span></a><p>La app de los fans de los esports: tu equipo, cada partido, a tiempo.</p><a class="fbeta" href="https://testflight.apple.com/join/MSEj61gQ">Únete a la beta</a></div><div><h3>La app</h3><ul><li><a href="#jeux">Juegos</a></li><li><a href="#fonctions">Funciones</a></li><li><a href="#appareils">Dispositivos</a></li><li><a href="#offres">eSportly+</a></li><li><a href="#questions">Preguntas</a></li><li><a href="novedades.html">Novedades</a></li><li><a href="prensa.html">Prensa</a></li></ul></div><div><h3>Juegos</h3><ul><li><a href="juegos/league-of-legends.html">League of Legends</a></li><li><a href="juegos/counter-strike-2.html">Counter-Strike 2</a></li><li><a href="juegos/valorant.html">Valorant</a></li><li><a href="juegos/rocket-league.html">Rocket League</a></li><li><a href="juegos/dota-2.html">Dota 2</a></li><li><a href="#jeux">Todos los juegos →</a></li><li><a href="teams.html" hreflang="en">Todos los equipos (en inglés) →</a></li></ul></div><div><h3>Info</h3><ul><li><a href="privacy.html" hreflang="en">Privacidad (en inglés)</a></li><li><a href="terms.html" hreflang="en">Condiciones de uso (en inglés)</a></li><li><a href="accessibility.html" hreflang="en">Accesibilidad (en inglés)</a></li><li><a href="https://protojo.fr/mentions-legales">Aviso legal</a></li><li><a href="mailto:contact@protojo.fr">Escríbenos</a></li><li class="fl"><a href="./" hreflang="fr" lang="fr"><svg class="flag" viewBox="0 0 3 2" aria-hidden="true"><path fill="#002654" d="M0 0h1v2H0z"/><path fill="#fff" d="M1 0h1v2H1z"/><path fill="#CE1126" d="M2 0h1v2H2z"/></svg>Français</a></li><li class="fl"><a href="en.html" hreflang="en" lang="en"><svg class="flag" viewBox="0 0 60 30" aria-hidden="true"><clipPath id="gb-f"><path d="M0 0v30h60V0z"/></clipPath><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30M60 0L0 30" stroke="#fff" stroke-width="6"/><path d="M0 0l60 30M60 0L0 30" stroke="#C8102E" stroke-width="3" clip-path="url(#gb-f)"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></svg>English</a></li><li class="fl"><a href="es.html" hreflang="es" lang="es" aria-current="page"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#AA151B" d="M0 0h22v15H0z"/><path fill="#F1BF00" d="M0 3.75h22v7.5H0z"/></svg>Español</a></li><li class="fl"><a href="de.html" hreflang="de" lang="de"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#000" d="M0 0h22v5H0z"/><path fill="#DD0000" d="M0 5h22v5H0z"/><path fill="#FFCE00" d="M0 10h22v5H0z"/></svg>Deutsch</a></li><li class="fl"><a href="pt.html" hreflang="pt-BR" lang="pt-BR"><svg class="flag" viewBox="0 0 22 15" preserveAspectRatio="none" aria-hidden="true"><path fill="#009C3B" d="M0 0h22v15H0z"/><path fill="#FFDF00" d="M2 7.5L11 1.6l9 5.9-9 5.9z"/><circle cx="11" cy="7.5" r="3.6" fill="#002776"/></svg>Português</a></li></ul></div></div><div class="fbottom"><span>© 2026 eSportly · Publicada por <a href="https://protojo.fr">ProtoJo Digital</a> · Datos de esports: PandaScore</span><span>eSportly no está afiliada a ningún editor de juegos, liga ni equipo. Los nombres pertenecen a sus propietarios.</span></div></div></footer>
+<div class="lb" id="voir-iphone"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/iphone.webp" alt="eSportly — iPhone" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div><div class="lb" id="voir-duo"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/duo.webp" alt="eSportly — iPhone Duo" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div><div class="lb" id="voir-ipad"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/ipad.webp" alt="eSportly — iPad" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div><div class="lb" id="voir-watch"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/watch.webp" alt="eSportly — Apple Watch" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div><div class="lb" id="voir-carplay"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/carplay.webp" alt="eSportly — CarPlay" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div><div class="lb" id="voir-tv"><a class="bg" href="#appareils" aria-label="Cerrar"></a><img src="appareils/grand/tv.webp" alt="eSportly — Apple TV" loading="lazy"><a class="x" href="#appareils" aria-label="Cerrar">✕</a></div>
+<img src="https://lmavqchwevcvvneblqld.supabase.co/functions/v1/visite?p=/es" alt="" width="1" height="1" style="position:absolute;left:-9999px">
+</body>
+</html>

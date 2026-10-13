@@ -5,12 +5,50 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/en.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/es.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/de.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/pt.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/es.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/de.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/en.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/confidentialite.html</loc>
@@ -49,172 +87,816 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
   </url>
   <url>
+    <loc>https://esportly.protojo.fr/equipes.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/teams.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/presse.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/prensa.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/pressebereich.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/imprensa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/press.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/press.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/prensa.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/pressebereich.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/imprensa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/press.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/prensa.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/prensa.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/pressebereich.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/imprensa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/press.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/pressebereich.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/prensa.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/pressebereich.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/imprensa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/press.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/imprensa.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/prensa.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/pressebereich.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/imprensa.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/press.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/nouveautes.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/novedades.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/neuigkeiten.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/novidades.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/whats-new.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/whats-new.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/novedades.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/neuigkeiten.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/novidades.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/whats-new.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/novedades.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/novedades.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/neuigkeiten.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/novidades.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/whats-new.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/neuigkeiten.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/novedades.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/neuigkeiten.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/novidades.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/whats-new.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/novidades.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/novedades.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/neuigkeiten.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/novidades.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/whats-new.html"/>
+  </url>
+  <url>
     <loc>https://esportly.protojo.fr/jeux/league-of-legends.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/league-of-legends.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/league-of-legends.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/league-of-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/league-of-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/league-of-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/league-of-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/league-of-legends.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/counter-strike-2.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/counter-strike-2.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/counter-strike-2.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/counter-strike-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/counter-strike-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/counter-strike-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/counter-strike-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/counter-strike-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/valorant.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/valorant.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/valorant.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/valorant.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/valorant.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/valorant.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/valorant.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/valorant.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/valorant.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/valorant.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/valorant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/valorant.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/rocket-league.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rocket-league.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rocket-league.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/rocket-league.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/rocket-league.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/rocket-league.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/rocket-league.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rocket-league.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rocket-league.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/dota-2.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/dota-2.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/dota-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/dota-2.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/dota-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/dota-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/dota-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/dota-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/dota-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/dota-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/dota-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/dota-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/overwatch-2.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/overwatch-2.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/overwatch-2.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/overwatch-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/overwatch-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/overwatch-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/overwatch-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/overwatch-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/rainbow-six-siege.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rainbow-six-siege.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/rainbow-six-siege.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/rainbow-six-siege.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/rainbow-six-siege.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/rainbow-six-siege.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/rainbow-six-siege.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/rainbow-six-siege.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/call-of-duty.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/call-of-duty.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/call-of-duty.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/call-of-duty.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/call-of-duty.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/call-of-duty.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/call-of-duty.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/call-of-duty.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/mobile-legends.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/mobile-legends.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/mobile-legends.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/mobile-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/mobile-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/mobile-legends.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/mobile-legends.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/mobile-legends.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/honor-of-kings.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/honor-of-kings.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/honor-of-kings.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/honor-of-kings.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/honor-of-kings.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/honor-of-kings.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/honor-of-kings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/honor-of-kings.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/ea-sports-fc.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/ea-sports-fc.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/ea-sports-fc.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/ea-sports-fc.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/ea-sports-fc.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/ea-sports-fc.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/ea-sports-fc.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/ea-sports-fc.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/starcraft-2.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-2.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/starcraft-2.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/starcraft-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/starcraft-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/starcraft-2.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-2.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/starcraft-brood-war.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-brood-war.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/starcraft-brood-war.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/starcraft-brood-war.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/starcraft-brood-war.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/starcraft-brood-war.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/starcraft-brood-war.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/starcraft-brood-war.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/jeux/wild-rift.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/wild-rift.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/wild-rift.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/games/wild-rift.html</loc>
     <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/juegos/wild-rift.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/spiele/wild-rift.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/jogos/wild-rift.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/jeux/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/games/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/juegos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/jogos/wild-rift.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/games/wild-rift.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/100-thieves.html</loc>
@@ -349,18 +1031,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/edward-gaming.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/falcons-esport.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/falcons-esport.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/falcons-esport.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/falcons-esport.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/falcons-esport.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/falcons-esport.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/falcons.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/falcons.html"/>
@@ -371,18 +1041,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/falcons.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/falcons.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/faze-clan.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/faze-clan.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/faze-clan.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/faze-clan.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/faze-clan.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/faze-clan.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/five-fears.html</loc>
@@ -419,18 +1077,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/flyquest.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/flyquest.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/fnatic.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/fnatic.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/fnatic.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/fnatic.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/fnatic.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/fnatic.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/for-fun-esports.html</loc>
@@ -517,18 +1163,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/gentle-mates.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/global-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/global-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/global-esports.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/global-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/global-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/global-esports.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/hanjin-brion.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/hanjin-brion.html"/>
@@ -613,30 +1247,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/kt-rolster.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/legacy.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/legacy.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/legacy.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/legacy.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/legacy.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/legacy.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/level-up.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/level-up.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/level-up.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/level-up.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/level-up.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/level-up.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/lgd-gaming.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/lgd-gaming.html"/>
@@ -671,18 +1281,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/loud.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/loud.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/lucky-five.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/lucky-five.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/lucky-five.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/lucky-five.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/lucky-five.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/lucky-five.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/lyon.html</loc>
@@ -721,18 +1319,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/manchester-city-esports.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/mibr-los.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mibr-los.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/mibr-los.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/mibr-los.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/mibr-los.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mibr-los.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/mibr.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mibr.html"/>
@@ -755,30 +1341,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/mouz.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mouz.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/mvk-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mvk-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/mvk-esports.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/mvk-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/mvk-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/mvk-esports.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/natus-vincere.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/natus-vincere.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/natus-vincere.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/natus-vincere.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/natus-vincere.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/natus-vincere.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/ninjas-in-pyjamas.html</loc>
@@ -865,18 +1427,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/og.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/outlast.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/outlast.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/outlast.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/outlast.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/outlast.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/outlast.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/paper-rex.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/paper-rex.html"/>
@@ -899,18 +1449,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/parivision.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/parivision.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/r8-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/r8-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/r8-esports.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/r8-esports.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/r8-esports.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/r8-esports.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/rebels-gaming.html</loc>
@@ -1057,30 +1595,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/team-we.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/team-yandex.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/team-yandex.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/team-yandex.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/team-yandex.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/team-yandex.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/team-yandex.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/the-kafe.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/the-kafe.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/the-kafe.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/the-kafe.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/the-kafe.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/the-kafe.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/tsm.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/tsm.html"/>
@@ -1103,18 +1617,6 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/twisted-minds.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/twisted-minds.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/tyloo.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/tyloo.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/tyloo.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/tyloo.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/tyloo.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/tyloo.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes/varrel.html</loc>
@@ -1141,18 +1643,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/virtus-pro.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/weibo-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/weibo-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/weibo-gaming.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/weibo-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/weibo-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/weibo-gaming.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/wildcard.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/wildcard.html"/>
@@ -1165,42 +1655,6 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/wildcard.html"/>
   </url>
   <url>
-    <loc>https://esportly.protojo.fr/equipes/xlg-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/xlg-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/xlg-gaming.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/xlg-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/xlg-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/xlg-gaming.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/xtreme-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/xtreme-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/xtreme-gaming.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/xtreme-gaming.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/xtreme-gaming.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/xtreme-gaming.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes/yakult-brothers.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/yakult-brothers.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/yakult-brothers.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams/yakult-brothers.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/yakult-brothers.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/yakult-brothers.html"/>
-  </url>
-  <url>
     <loc>https://esportly.protojo.fr/equipes/zeta-division.html</loc>
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/zeta-division.html"/>
@@ -1211,41 +1665,5 @@
     <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/zeta-division.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/zeta-division.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/equipes.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/teams.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/presse.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/press.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/press.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/presse.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/nouveautes.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
-  </url>
-  <url>
-    <loc>https://esportly.protojo.fr/whats-new.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/whats-new.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/nouveautes.html"/>
   </url>
 </urlset>
