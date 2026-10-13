@@ -2,20 +2,20 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-b8uctb2JzowtYmag7btw33AJoe4qwQu13sNDLiQESjA='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-fqhXV7NYy0KSfGqBSFfe/ERTqWySV7MFqCEiw9D2O4o='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Un match sur Esportly</title>
-<meta name="description" content="Un match d'e-sport partagé depuis Esportly : le score, le direct et les alertes de tes équipes.">
+<title>Un match sur eSportly</title>
+<meta name="description" content="Un match d'e-sport partagé depuis eSportly : le score, le direct et les alertes de tes équipes.">
 <!-- Aperçu du lien dans les messageries et les réseaux sociaux. -->
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Esportly">
-<meta property="og:title" content="Un match d'e-sport à suivre sur Esportly">
+<meta property="og:site_name" content="eSportly">
+<meta property="og:title" content="Un match d'e-sport à suivre sur eSportly">
 <meta property="og:description" content="Le score, le direct et les alertes de tes équipes d'e-sport, sans compte.">
 <meta property="og:image" content="https://esportly.protojo.fr/apercu.png">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="600">
-<meta property="og:image:alt" content="Logo d'Esportly">
+<meta property="og:image:alt" content="Logo d'eSportly">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://esportly.protojo.fr/apercu.png">
 <style>
@@ -28,11 +28,11 @@
 </style>
 </head>
 <body>
-<h1>Esportly</h1>
+<h1>eSportly</h1>
 <p>Quelqu'un t'a partagé un match d'e-sport.</p>
-<a class="button" id="open" href="#">Ouvrir dans Esportly</a>
+<a class="button" id="open" href="#">Ouvrir dans eSportly</a>
 <p class="muted" id="store">Pas encore l'app ? Elle arrive sur l'App Store pour iPhone et iPad.</p>
-<p class="muted" lang="en">Someone shared an esports match with you. Tap the button to open it in Esportly.</p>
+<p class="muted" lang="en">Someone shared an esports match with you. Tap the button to open it in eSportly.</p>
 <p class="muted">Données e-sport fournies par <a href="https://pandascore.co">PandaScore</a>.</p>
 <script>
   // Seul un numéro de match est accepté : la page n'ouvre rien d'autre que l'app.
@@ -54,7 +54,7 @@
       store.textContent = "Pas encore l'app ? ";
       const link = document.createElement("a");
       link.href = info.storeURL;
-      link.textContent = "Télécharger Esportly sur l'App Store";
+      link.textContent = "Télécharger eSportly sur l'App Store";
       store.appendChild(link);
     })
     .catch(() => {});
