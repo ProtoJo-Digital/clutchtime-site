@@ -1,0 +1,706 @@
+[
+ {
+  "slug": "100-thieves",
+  "nom": "100 Thieves",
+  "couleur": "#EA3131",
+  "jeux": [
+   "r6siege",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "9z",
+  "nom": "9z",
+  "couleur": "#7234FF",
+  "jeux": [
+   "csgo"
+  ]
+ },
+ {
+  "slug": "aurora",
+  "nom": "Aurora",
+  "couleur": "#0FC8BD",
+  "jeux": [
+   "csgo",
+   "dota2"
+  ]
+ },
+ {
+  "slug": "black-dragons-e-sports",
+  "nom": "Black Dragons e-Sports",
+  "couleur": "#EEFF04",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "bnk-fearx",
+  "nom": "BNK FEARX",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "cloud9",
+  "nom": "Cloud9",
+  "couleur": "#00AEEF",
+  "jeux": [
+   "lol",
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "crazy-raccoon",
+  "nom": "Crazy Raccoon",
+  "couleur": "#E11919",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "dallas-fuel",
+  "nom": "Dallas Fuel",
+  "couleur": "#0073D1",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "darkzero-esports",
+  "nom": "DarkZero Esports",
+  "couleur": "#5F1A90",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "disguised",
+  "nom": "Disguised",
+  "couleur": "#FAB450",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "edward-gaming",
+  "nom": "EDward Gaming",
+  "couleur": "#B10000",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "falcons-esport",
+  "nom": "Falcons Esport",
+  "couleur": "#01C06F",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "falcons",
+  "nom": "Falcons",
+  "couleur": "#01BE6E",
+  "jeux": [
+   "csgo",
+   "ow",
+   "rl"
+  ]
+ },
+ {
+  "slug": "faze-clan",
+  "nom": "FaZe Clan",
+  "couleur": "#E43D30",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "five-fears",
+  "nom": "Five Fears",
+  "couleur": "#0077B7",
+  "jeux": [
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "fluxo-w7m",
+  "nom": "Fluxo W7M",
+  "couleur": "#4C007D",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "flyquest",
+  "nom": "FlyQuest",
+  "couleur": "#00AA55",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "fnatic",
+  "nom": "Fnatic",
+  "couleur": "#FF5900",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "for-fun-esports",
+  "nom": "For Fun Esports",
+  "couleur": "#C044EB",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "furia",
+  "nom": "FURIA",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "csgo",
+   "lol",
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "fut-esports",
+  "nom": "FUT Esports",
+  "couleur": "#ED1A3A",
+  "jeux": [
+   "rl",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "g2-esports",
+  "nom": "G2 Esports",
+  "couleur": "#ED2025",
+  "jeux": [
+   "r6siege",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "gamerlegion",
+  "nom": "GamerLegion",
+  "couleur": "#EACA92",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "geekay-esports",
+  "nom": "Geekay Esports",
+  "couleur": "#FFC400",
+  "jeux": [
+   "ow",
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "gentle-mates",
+  "nom": "Gentle Mates",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "global-esports",
+  "nom": "Global Esports",
+  "couleur": "#4069A8",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "hanjin-brion",
+  "nom": "HANJIN BRION",
+  "couleur": "#004C29",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "heretics",
+  "nom": "Heretics",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "imperial-esports",
+  "nom": "Imperial Esports",
+  "couleur": "#0CD664",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "intz",
+  "nom": "INTZ",
+  "couleur": "#721554",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "jd-gaming",
+  "nom": "JD Gaming",
+  "couleur": "#C9102E",
+  "jeux": [
+   "lol",
+   "ow",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "karmine-corp",
+  "nom": "Karmine Corp",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "lol",
+   "rl",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "kt-rolster",
+  "nom": "KT Rolster",
+  "couleur": "#FD0F0C",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "legacy",
+  "nom": "Legacy",
+  "couleur": "#FDCB00",
+  "jeux": [
+   "csgo"
+  ]
+ },
+ {
+  "slug": "level-up",
+  "nom": "Level UP",
+  "couleur": "#14759B",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "lgd-gaming",
+  "nom": "LGD Gaming",
+  "couleur": "#083782",
+  "jeux": [
+   "dota2",
+   "lol"
+  ]
+ },
+ {
+  "slug": "los",
+  "nom": "LOS",
+  "couleur": "#FF5B00",
+  "jeux": [
+   "lol",
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "loud",
+  "nom": "LOUD",
+  "couleur": "#00FF3B",
+  "jeux": [
+   "lol",
+   "r6siege",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "lucky-five",
+  "nom": "Lucky Five",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "lyon",
+  "nom": "LYON",
+  "couleur": "#B59A75",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "m80",
+  "nom": "M80",
+  "couleur": "#D6FF01",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "manchester-city-esports",
+  "nom": "Manchester City Esports",
+  "couleur": "#6CADDE",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "mibr-los",
+  "nom": "MIBR.LOS",
+  "couleur": "#C75843",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "mibr",
+  "nom": "MIBR",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "mouz",
+  "nom": "MOUZ",
+  "couleur": "#FF0000",
+  "jeux": [
+   "csgo",
+   "dota2"
+  ]
+ },
+ {
+  "slug": "mvk-esports",
+  "nom": "MVK Esports",
+  "couleur": "#FE5A00",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "natus-vincere",
+  "nom": "Natus Vincere",
+  "couleur": "#FFEE00",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "ninjas-in-pyjamas",
+  "nom": "Ninjas in Pyjamas",
+  "couleur": "#D8FF00",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "nip-estar",
+  "nom": "NIP.eStar",
+  "couleur": "#D8FF00",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "nip",
+  "nom": "NIP",
+  "couleur": "#D8FF00",
+  "jeux": [
+   "csgo"
+  ]
+ },
+ {
+  "slug": "nongshim-redforce",
+  "nom": "Nongshim RedForce",
+  "couleur": "#EC1C24",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "nrg",
+  "nom": "NRG",
+  "couleur": "#F63D0A",
+  "jeux": [
+   "rl",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "ntmr",
+  "nom": "NTMR",
+  "couleur": "#FF00F1",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "og",
+  "nom": "OG",
+  "couleur": "#14746B",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "outlast",
+  "nom": "Outlast",
+  "couleur": "#451D74",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "paper-rex",
+  "nom": "Paper Rex",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "parivision",
+  "nom": "PARIVISION",
+  "couleur": "#2FFFE8",
+  "jeux": [
+   "csgo",
+   "dota2"
+  ]
+ },
+ {
+  "slug": "r8-esports",
+  "nom": "R8 Esports",
+  "couleur": "#40ABF8",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "rebels-gaming",
+  "nom": "Rebels Gaming",
+  "couleur": "#FF0F26",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "shifters",
+  "nom": "Shifters",
+  "couleur": "#FD4846",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "shopify-rebellion",
+  "nom": "Shopify Rebellion",
+  "couleur": "#99EB00",
+  "jeux": [
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "spacestation-gaming",
+  "nom": "Spacestation Gaming",
+  "couleur": "#BE8D1D",
+  "jeux": [
+   "ow",
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "spirit",
+  "nom": "Spirit",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "csgo",
+   "dota2"
+  ]
+ },
+ {
+  "slug": "t1",
+  "nom": "T1",
+  "couleur": "#E2012D",
+  "jeux": [
+   "ow",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "team-liquid",
+  "nom": "Team Liquid",
+  "couleur": "#3BB0D4",
+  "jeux": [
+   "dota2",
+   "lol",
+   "ow",
+   "r6siege",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "team-nemesis",
+  "nom": "Team Nemesis",
+  "couleur": "#896AFD",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "team-peps",
+  "nom": "Team Peps",
+  "couleur": "#EEC932",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "team-secret",
+  "nom": "Team Secret",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "r6siege"
+  ]
+ },
+ {
+  "slug": "team-vitality",
+  "nom": "Team Vitality",
+  "couleur": "#FAE100",
+  "jeux": [
+   "csgo",
+   "lol",
+   "rl",
+   "valorant"
+  ]
+ },
+ {
+  "slug": "team-we",
+  "nom": "Team WE",
+  "couleur": "#E62125",
+  "jeux": [
+   "lol"
+  ]
+ },
+ {
+  "slug": "team-yandex",
+  "nom": "Team Yandex",
+  "couleur": "#9C0914",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "the-kafe",
+  "nom": "The Kafe",
+  "couleur": "#55A6F5",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "tsm",
+  "nom": "TSM",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "rl"
+  ]
+ },
+ {
+  "slug": "twisted-minds",
+  "nom": "Twisted Minds",
+  "couleur": "#B6374D",
+  "jeux": [
+   "ow",
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "tyloo",
+  "nom": "TYLOO",
+  "couleur": "#8F2C29",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "varrel",
+  "nom": "VARREL",
+  "couleur": "#B89F75",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "virtus-pro",
+  "nom": "Virtus.pro",
+  "couleur": "#FE5000",
+  "jeux": [
+   "ow",
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "weibo-gaming",
+  "nom": "Weibo Gaming",
+  "couleur": "#EA1F35",
+  "jeux": [
+   "ow"
+  ]
+ },
+ {
+  "slug": "wildcard",
+  "nom": "Wildcard",
+  "couleur": "#0C2A5B",
+  "jeux": [
+   "r6siege",
+   "rl"
+  ]
+ },
+ {
+  "slug": "xlg-gaming",
+  "nom": "XLG Gaming",
+  "couleur": "#0385AA",
+  "jeux": [
+   "valorant"
+  ]
+ },
+ {
+  "slug": "xtreme-gaming",
+  "nom": "Xtreme Gaming",
+  "couleur": "#FFC53D",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "yakult-brothers",
+  "nom": "Yakult Brothers",
+  "couleur": "#BF1B21",
+  "jeux": [
+   "dota2"
+  ]
+ },
+ {
+  "slug": "zeta-division",
+  "nom": "ZETA DIVISION",
+  "couleur": "#CEFF00",
+  "jeux": [
+   "ow"
+  ]
+ }
+]
