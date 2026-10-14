@@ -52,27 +52,103 @@
   </url>
   <url>
     <loc>https://esportly.protojo.fr/confidentialite.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/confidentialite.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/privacy.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/privacy.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/confidentialite.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/privacidad.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/datenschutz.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/privacidade.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/privacy.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/cgu.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/cgu.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/termos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/terms.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/terms.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/cgu.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/termos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/terms.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/terminos.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/cgu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/termos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/terms.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/nutzungsbedingungen.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/cgu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/termos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/terms.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/termos.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/cgu.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/nutzungsbedingungen.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/termos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/terms.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/accessibilite.html</loc>
