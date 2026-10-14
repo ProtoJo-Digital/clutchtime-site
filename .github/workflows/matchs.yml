@@ -1,0 +1,41 @@
+# Chaque matin : prochains matchs des pages d'équipes et pages « Les matchs de la semaine ».
+# Sans appel à PandaScore : lit les calendriers publics du serveur d'eSportly (cache du relais).
+name: Matchs du jour
+on:
+  schedule:
+    - cron: "15 4 * * *"   # 6 h 15, heure de Paris (été)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: matchs
+  cancel-in-progress: false
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Réveil des calendriers (le serveur relit les équipes)
+        run: |
+          for slug in $(ls equipes/*.html | xargs -n1 basename | sed 's/\.html$//'); do
+            curl -s -o /dev/null "https://lmavqchwevcvvneblqld.supabase.co/functions/v1/calendrier/equipe/$slug.ics" || true
+          done
+          sleep 240
+      - name: Mise à jour des pages
+        run: python3 .github/scripts/matchs.py
+      - name: Envoi si quelque chose a changé
+        run: |
+          git config user.name "eSportly (mise à jour automatique)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Matchs du jour" && git push)
+      # Un envoi fait avec le jeton d'Actions ne relance pas toujours la publication de GitHub Pages : on la demande.
+      - name: Publication
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

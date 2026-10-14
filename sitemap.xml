@@ -152,15 +152,53 @@
   </url>
   <url>
     <loc>https://esportly.protojo.fr/accessibilite.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/accessibilite.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/accesibilidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/barrierefreiheit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/acessibilidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/accessibility.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/accessibility.html</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/accessibilite.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/accesibilidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/barrierefreiheit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/acessibilidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/accessibility.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/accesibilidad.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/accessibilite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/accesibilidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/barrierefreiheit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/acessibilidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/accessibility.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/barrierefreiheit.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/accessibilite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/accesibilidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/barrierefreiheit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/acessibilidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/accessibility.html"/>
+  </url>
+  <url>
+    <loc>https://esportly.protojo.fr/acessibilidade.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/accessibilite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/accessibility.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/accesibilidad.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/barrierefreiheit.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/acessibilidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/accessibility.html"/>
   </url>
   <url>
     <loc>https://esportly.protojo.fr/equipes.html</loc>
@@ -1742,4 +1780,9 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/teams/zeta-division.html"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/equipes/zeta-division.html"/>
   </url>
+<url><loc>https://esportly.protojo.fr/matchs-de-la-semaine.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/matchs-de-la-semaine.html"/><xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/matches-this-week.html"/><xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/partidos-de-la-semana.html"/><xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele-der-woche.html"/><xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/partidas-da-semana.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/matches-this-week.html"/></url>
+<url><loc>https://esportly.protojo.fr/matches-this-week.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/matchs-de-la-semaine.html"/><xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/matches-this-week.html"/><xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/partidos-de-la-semana.html"/><xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele-der-woche.html"/><xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/partidas-da-semana.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/matches-this-week.html"/></url>
+<url><loc>https://esportly.protojo.fr/partidos-de-la-semana.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/matchs-de-la-semaine.html"/><xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/matches-this-week.html"/><xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/partidos-de-la-semana.html"/><xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele-der-woche.html"/><xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/partidas-da-semana.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/matches-this-week.html"/></url>
+<url><loc>https://esportly.protojo.fr/spiele-der-woche.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/matchs-de-la-semaine.html"/><xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/matches-this-week.html"/><xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/partidos-de-la-semana.html"/><xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele-der-woche.html"/><xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/partidas-da-semana.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/matches-this-week.html"/></url>
+<url><loc>https://esportly.protojo.fr/partidas-da-semana.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><xhtml:link rel="alternate" hreflang="fr" href="https://esportly.protojo.fr/matchs-de-la-semaine.html"/><xhtml:link rel="alternate" hreflang="en" href="https://esportly.protojo.fr/matches-this-week.html"/><xhtml:link rel="alternate" hreflang="es" href="https://esportly.protojo.fr/partidos-de-la-semana.html"/><xhtml:link rel="alternate" hreflang="de" href="https://esportly.protojo.fr/spiele-der-woche.html"/><xhtml:link rel="alternate" hreflang="pt-BR" href="https://esportly.protojo.fr/partidas-da-semana.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://esportly.protojo.fr/matches-this-week.html"/></url>
 </urlset>
