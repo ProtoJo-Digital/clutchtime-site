@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-fqhXV7NYy0KSfGqBSFfe/ERTqWySV7MFqCEiw9D2O4o='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-Vt6s843eZ37duUZbTQRyjOE8leI20bzrXQEL5rpsv04='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Un match sur eSportly</title>
@@ -42,7 +42,7 @@
   const id = new URLSearchParams(location.search).get("id");
   const button = document.getElementById("open");
   if (id && /^\d{1,12}$/.test(id)) {
-    const target = "clutchtime://match/" + id;
+    const target = "esportly://match/" + id;
     button.href = target;
     location.href = target;
   } else {

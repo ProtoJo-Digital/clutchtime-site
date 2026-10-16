@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-drzzBKLx2/5mTRIQ+ox7LtpeQwf+Ekz5VhGRZAjAXYc='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'sha256-a/VaaL8+XxHxl4Ua1/LhSdZ7GXKhRGJYYFLtkVCgSts='; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://lmavqchwevcvvneblqld.supabase.co; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tes équipes sur l'Apple TV · eSportly</title>
@@ -31,7 +31,7 @@
   // Avec l'app installée, ce lien s'ouvre directement dans eSportly (lien universel) et cette page
   // n'apparaît pas. Sinon : on tente l'app, puis on mène à l'App Store dès que l'adresse est connue.
   const button = document.getElementById("open");
-  button.href = "clutchtime://tv-equipes";
+  button.href = "esportly://tv-equipes";
   fetch("version.json", { cache: "no-store" })
     .then((response) => response.json())
     .then((info) => {
