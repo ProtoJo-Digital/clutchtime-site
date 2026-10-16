@@ -1,7 +1,7 @@
-# Site de Clutchtime
+# Site de eSportly
 
-Pages publiques de l'application Clutchtime (ProtoJo Digital), servies par GitHub Pages sur
-<https://clutchtime.protojo.fr>.
+Pages publiques de l'application eSportly (ProtoJo Digital), servies par GitHub Pages sur
+<https://esportly.protojo.fr>.
 
 - `confidentialite.html` : politique de confidentialité (français)
 - `privacy.html` : politique de confidentialité (anglais)
